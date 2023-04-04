@@ -43,7 +43,7 @@ The course is organized in lecture blocks with one practical exercise for each o
 ## Where to access materials
 
 - Handouts, codes, and data can be found on the [Github repository of the course](https://github.com/dgarcia-eu/SocialMediaDataAnalysis)
-- The online materials do not contain the solutions to the exercises as they have to be submitted through the assignments private repository: https://github.com/SMDA-2023/assignments
+- The online materials do not contain the solutions to the exercises as they have to be submitted through the Github classroom: https://classroom.github.com/a/kezCqKON
 - Updates and announcements will be distributed through the course Ilias: https://ilias.uni-konstanz.de/goto_ILIASKONSTANZ_crs_1559947.html
 
 
