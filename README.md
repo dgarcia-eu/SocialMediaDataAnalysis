@@ -43,9 +43,8 @@ The course is organized in lecture blocks with one practical exercise for each o
 ## Where to access materials
 
 - Handouts, codes, and data can be found on the [Github repository of the course](https://github.com/dgarcia-eu/SocialMediaDataAnalysis)
-- The online materials do not contain the solutions to the exercises as they have to be submitted through the Github classroom: https://classroom.github.com/a/kezCqKON
 - Updates and announcements will be distributed through the course Ilias: https://ilias.uni-konstanz.de/goto_ILIASKONSTANZ_crs_1559947.html
-
+- The online materials do not contain the solutions to the exercises as they have to be submitted through the Github classroom. The link to github classroom can be found on the tutorial Ilias: https://ilias.uni-konstanz.de/goto_ILIASKONSTANZ_crs_1559949.html
 
 ## Prerequistes and evaluation
 
