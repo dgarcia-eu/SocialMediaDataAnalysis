@@ -1,0 +1,92 @@
+---
+title: "Social Data Science"
+subtitle: "Social Media Data Analysis"
+author: "David Garcia"
+output: html_document
+---
+
+### What is the aim of Social Data Science?
+
+The aim of Social Data Science is **the Quantitative Understanding of Human Behavior**.  
+Each word in this aim is important:  
+- **Quantitative:** As opposed to qualitative or descriptive, we aim for robust findings grounded in strong evidence that can be quantified.  
+- **Understanding:** Not just predicting, we want to be able to generalize and combine knowledge, and even to motivate interventions or policies.  
+- **Human:**  We will not study particles or objects. Measurement validity and ethics will be a challenge.  
+- **Behavior:** Observable changes, structures, dynamics, and patterns; not just stories or theories.
+
+
+###  How is Social Data Science done?
+**Retrieving, processing, analyzing, and interpreting Digital traces.**  
+Digital traces are the leftovers of information that we leave behind when we use Information and Communication Technologies. These happen when you use your mobile phone, when you use a search engine, and when you post something on social media. A famous example of digital trace data is this map:
+
+![](FBMap.png)
+
+This maps shows the friendship links among half a billion people. The links connect the locations where these people live. Note that there are no map lines drawn below the friendship links, the contour of countries and continents is visible thanks to the data of user locations. You can also see that, while there are some international friendships, most links happen between close regions, making the inner part of countries brighter than the oceans between. You can learn more about this map in [this Facebook blog post.](https://www.facebook.com/notes/facebook-engineering/visualizing-friendships/469716398919)
+
+
+### What is data?
+
+> **Data:** Facts in the form of stored and transmittable information.  
+
+- *Data* is the plural of the Latin word *datum*. *Data* means "given (things)".  
+- Data is given to us, it is not fabricated nor simulated.
+- Is Data singular or plural?
+
+![PhD Comics: http://phdcomics.com/comics.php?f=1816](http://www.phdcomics.com/comics/archive/phd080715s.gif)
+
+
+<div style="float:right">
+<img src="https://images.squarespace-cdn.com/content/v1/5150aec6e4b0e340ec52710a/1364352051365-HZAS3CLBF7ABLE3F5OBY/ke17ZwdGBToddI8pDm48kB2M2-8_3EzuSSXvzQBRsa1Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxPe_8B-x4gq2tfVez1FwLYYZXud0o-3jV-FAs7tmkMHY-a7GzQZKbHRGZboWC-fOc/Data_Science_VD.png" alt="Data Science discipline Venn diagram" width="250px"/>
+</div>
+### What is Social Data Science?
+
+**Data Science** is the application of methods from Computer Science and
+Statistics to empirical questions and practical problems. In Data Science, sometimes the ability to combine methods is more important than excellence in individual disciplines. Communicating results and methods and synthesizing what we learn from data is very important.
+
+**Social Data Science** is the application of Data Science to study human behavior and social interaction. We gather digital trace data with Computer Science techniques, performing statistical analyses of "messy" Social Data. It is important to interpret results with respect to what is known in Sociology, Political Science, Psychology, and even Anthropology and Economics.
+
+### Why digital traces?
+
+The data captured by digital traces can have six qualities that complement other data sources:
+
+- **Big Data:** Observing large amounts of humans across demographics  
+ Example: [Large-scale sentiment analysis for opinion estimation](https://academic.oup.com/poq/article-pdf/82/3/470/26102382/nfy030.pdf)  
+- **Fast Data:** Quantifying aspects of human behavior in real time  
+ Example: [Earthquake detection with social media](https://doi.org/10.4401/ag-5364)  
+- **Long Data:** Retrieving longitudinal data and at various timescales  
+ Example: [Analyzing cultural trends with Google books](https://www.science.org/doi/pdf/10.1126/science.1199644)  
+- **Deep Data:** Gathering persistent information on individuals  
+ Example: [Estimating personality with Facebook likes](https://www.pnas.org/content/110/15/5802)  
+- **Mixed Data:** Combining heterogeneous datasources and unstructured data  
+ Example: [Data mashups in algorithmic trading](https://royalsocietypublishing.org/doi/full/10.1098/rsos.150288)  
+- **Strange Data:** Locating small subcommunities or deviant behavior  
+ Example: [Mass shooting fans on Twitter](https://doi.org/10.1016/j.techsoc.2014.08.001) or [rare disease discussion forums](https://www.jmir.org/2005/1/e10/)
+
+### What are the limitations of digital traces?
+
+With the great potential of digital traces, also come great challenges:
+
+- **Platform biases:** The design of platforms and their algorithms can affect the behavior we observe. Some platforms have non-human actors  (e.g. bots) that affect the data.
+- **Data gatekeepers:** Not everyone can access the same data. Some research might be impossible to reproduce.
+- **Performative behavior:** Talking online is not the same than offline. We have to consider what is the purpose of the people involved and if that distorts their behavior.
+- **Representativity issues:** Not everyone leaves digital traces. We should always ask ourselves if the people in a sample reflect the group we are interested to analyze.
+- **Observational data:** Testing causal mechanisms is not straightforward. We should always consider alternative explanations.
+- **The data deluge:** Too much data enables black-box predictions that can be useful but limit our understanding.
+
+A great reference about these limitations is the recent [Nature perspective by David Lazer et al.](https://www.nature.com/articles/s41586-021-03660-7) and [the second chapter of Bit By Bit, by Matt Salganik](https://www.bitbybitbook.com/en/1st-ed/observing-behavior/).
+
+
+This course includes examples that illustrate these limitations with examples from previous research. One of the aims of the course is for you to get a **critical understanding of the use of digital trace data to study human behavior**. Even though they have limitations, like every other scientific method, digital traces are a great data source and in this course you will learn how to use them!
+
+
+### The importance of questions when studying Computational Social Systems
+
+
+![Deep Thought, from the movie version of [The Hitchhiker's Guide to the Galaxy.](https://www.imdb.com/title/tt0371724/)](DeepThought.jpeg)
+
+
+Social Data Science brings a powerful set of methods and data sources to study Computational Social Systems, but that power is wasted if we do not think carefully where to direct it at. Carefully thinking and formulating the questions that motivate our analysis of social data is of great importance. A parable of this can be fond in the book series [The Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy), and advanced civilization builds *Deep Thought*, a supercomputer to find the answer to the Ultimate Question of Life, the Universe, and Everything. After millions of years of computation, it answered "42". A meaningless answer for a question nobody understood in the first place.
+
+> **Understanding our questions is a prerequisite to understanding their answers.**
+
+Machine Learning is data-driven, statistics is method-driven, and many social sciences are theory-driven. For us to understand Computational Social Systems, Social Data Science has to be **question-driven**. In this course, you will see example of questions about human behavior. We will study how social science theories give us expectations about their answers, what data to retrieve to answer the questions, and which methods to apply to make it possible.

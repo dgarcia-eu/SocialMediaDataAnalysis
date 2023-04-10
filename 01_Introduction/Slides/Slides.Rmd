@@ -1,0 +1,357 @@
+---
+title: "Introduction to social media data analysis within social data science"
+author: "David Garcia <br><br> *University of Konstanz*"
+date: "Social Media Data Analysis"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs 
+    css: [xaringan-themer.css, "libs/footer.css"]
+    nature:
+      beforeInit: ["libs/perc.js"]
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+---
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+#This block contains the theme configuration for the CSS lab slides style
+library(xaringanthemer)
+library(showtext)
+style_mono_accent(
+  base_color = "#5c5c5c",
+  text_font_size = "1.5rem",
+  header_font_google = google_font("Arial"),
+  text_font_google   = google_font("Arial", "300", "300i"),
+  code_font_google   = google_font("Fira Mono")
+)
+```
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+layout: true
+
+<div class="my-footer"><span>David Garcia - Social Media Data Analysis</span></div> 
+
+---
+
+# About me
+
+.pull-left[
+.center[
+```{r, echo=FALSE, out.width=270}
+knitr::include_graphics("Profile.jpg")
+```
+]]
+
+.pull-right[
+<br>
+Website: [dgarcia.eu](https://dgarcia.eu)
+
+Twitter: [@dgarcia_eu](https://twitter.com/dgarcia_eu)
+
+Github: [dgarcia-eu](https://github.com/dgarcia-eu)
+
+Email: david.garcia@uni-konstanz.de
+]
+
+- Professor for Social and Behavioral Data Science, University of Konstanz
+- Faculty member of the Complexity Science Hub Vienna
+- Privatdozent at ETH Zurich and TU Graz
+
+---
+background-image: url(Buildings.svg)
+background-size: 97%
+# A bit more about me
+.pull-left[
+- BSc in Informatics at Universidad Autonoma de Madrid (UAM), Madrid, Spain
+- MSc in Computer Science (theory of computation) at ETH Zurich
+- PhD and Habilitation at MTEC department at ETH Zurich
+- Previously: PI at the Medical University of Vienna and Complexity Science Hub Vienna
+- Previously: Professor for Computational and Behavioral Social Sciences at TU Graz
+]
+
+---
+background-image: url(AboutUS.svg)
+background-size: 98%
+
+---
+
+## Research lines
+```{r, echo=FALSE, out.width=1000, fig.align='center'}
+knitr::include_graphics("Topics3.svg")
+```
+
+---
+background-image: url(VennV2-1.svg)
+background-size: 97%
+---
+background-image: url(VennV2.svg)
+background-size: 97%
+---
+
+# Who are you? 
+
+- SEDS students: year 1
+- SEDS students: year 2
+- SEDS students: year 3+
+- Other programmes?
+
+###And more importantly: What do you expect from this course?
+
+---
+
+# Course objectives
+
+After this course, you should be able to:
+- understand a wide variety of techniques to retrieve **digital trace data from online platforms**
+- store, process, and summarize online data for **quantitative analysis**
+- perform **statistical analyses** to test hypotheses, derive insights, and formulate predictions
+- **interpret** the results of data analysis with respect to testable **theories of human behavior**
+- understand the **limitations** of observational data analysis with respect to data volume, statistical power, and external validity
+
+---
+
+# Course topics
+
+### Block 1: Introduction
+- Introduction to social media data analysis within social data science
+- Algorithms and digital traces: The case of Google trends
+- Ethics and privacy in social media data analysis
+- Exercise 1: Future orientation and search
+
+### Block 2: Social dynamics
+- Social trends and the Simmel effect
+- Social impact theory and its application to social media
+- Exercise 2: Testing the division of impact hypothesis in social media
+
+---
+
+# Course topics
+
+### Block 3: Text in social media
+- Dictionary methods in social media data analysis
+- Supervised social media text analysis
+- The measurement of meaning in social media
+- Exercise 3: Validating sentiment analysis for social media text
+
+### Block 4: Networks in social media
+- Introduction to social networks and the friendship paradox
+- Centrality measures in online social networks
+- Communities and assortativity in social media
+- Exercise 4: Political assortativity on Twitter
+
+
+---
+
+# Exercises and practical sessions
+
+- Exercise practical sessions are provided over the semester
+- Time and place: Thursdays at 10:00, room H303
+- Your tutor will be Aron Sarmany, he will co-teach tutorials with me
+
+
+- Assignments will be released on Thursdays before the tutorial
+- The deadline is before a tutorial a few weeks later
+- Assignment submissions through Github as in ICSS
+- **Assignments count 40% of the final grade of the course** (10% each)
+
+  - Exercise 1: Future orientation and search
+  - Exercise 2: Testing the division of impact hypothesis in social media
+  - Exercise 3: Validating sentiment analysis for social media text
+  - Exercise 4: Political assortativity on Twitter
+
+---
+
+# Learning materials and evaluation
+
+- Github materials: https://github.com/dgarcia-eu/SocialMediaDataAnalysis
+  - The frontpage contains announcements and links to lecture slides
+  - Over the semester it will be populated with written handouts
+- Course Ilias for lecture:  
+https://ilias.uni-konstanz.de/goto_ILIASKONSTANZ_crs_1559947.html
+- Course Ilias for tutorials:  
+https://ilias.uni-konstanz.de/goto_ILIASKONSTANZ_crs_1559949.html
+
+- Final evaluation based on:
+  - Written exam (60%) - tentative dates: 25.07 and 10.10
+  - Exercise assignments (40%) - each with its own grade worth 10%
+  - **Questions?**
+
+---
+
+
+# Related courses
+
+- **Introduction to Computation for the Social Sciences**
+  - Previous semester prerequisite. You should have taken it, otherwise talk to other students to learn the how to of that course, especially exercises
+- **Current Topics and Projects in Social Data Science**
+  - Additional seminar to discuss current research and develop projects building on this course and ICSS
+  - Thursdays after tutorial in the same room
+- **Network Science of Online Interaction**
+  - Seminar with exercises focusing on network science methods
+  - Includes introduction to network science and data analysis projects
+  - Good alternative to this course
+- Other courses: Colloquium as a preparation for a Master Thesis, Data Science Projects, and Computational Modelling of Social Systems seminar during the Winter Semester
+
+
+---
+
+# What is social media?
+
+Information and Communication Technologies that enable users to share content with each other and with larger audiences.
+
+Social media are old but changed a lot recently. One example:
+.center[
+#### VATIAM AEDILEM FURUNCULI ROGANT
+(The petty thieves ask for Vatia as aedile)
+
+Graffito on the wall of a building in Pompeii
+]
+
+How do our social media differ from a writing on a street wall?
+---
+
+# What can we measure in social media?
+
+"The idea that anything as subtle and complex as all the manifestations of changes
+in temperature could be measured and quantified on a single numerical scale was
+scoffed at as impossible, even by the leading philosophers of the sixteenth century." 
+
+–Arthur Jensen, Bias in Mental Testing, 1980 
+
+- Measuring meaning through text seemed very hard but has been improving substantially over time
+
+- Tracking the connections between Billions of people seemed impossible and now it is a boring reality
+
+- What now might feel subjective might be quantitative science in the future
+
+
+---
+
+# What can we use social media data for?
+
+"The plan was to connect these devices to a network –it would ride on the existing
+TV networks– so that the total national happiness at any moment in time could be
+determined. The algedonic meter, as the device was called (from the Greek algos,
+“pain,” and hedone, “pleasure”), would measure only raw pleasure-or-pain reactions
+to show whether government policies were working." 
+
+–Evgeny Morozov, The New Yorker, 2014
+
+
+"More is different" 
+
+–Paul Anderson, 1972
+
+---
+
+
+# What is the aim of Social Data Science?
+
+> The aim of Social Data Science is   
+**the Quantitative Understanding of Human Behavior**.  
+
+- **Quantitative:** As opposed to qualitative or descriptive, we aim for robust findings grounded in strong evidence that can be quantified.  
+
+- **Understanding:** Not just predicting, we want to be able to generalize and combine knowledge, and even to motivate interventions or policies.  
+
+- **Human:**  We will not study particles or objects. Measurement validity and ethics will be a challenge.  
+
+- **Behavior:** Observable changes, structures, dynamics, and patterns; not just stories or theories
+
+---
+#  How are we going to do it?
+**Retrieving, processing, analyzing, and interpreting social media data.**  
+<center>
+![:scale 80%](FBMap.png)
+</center>
+---
+
+# What is data?
+
+> **Data:** Facts in the form of stored and transmittable information.  
+
+- *Data* is the plural of the Latin word *datum*. *Data* means ”given (things)”.  
+- Data is given to us, it is not fabricated nor simulated.
+![:scale 85%](http://www.phdcomics.com/comics/archive/phd080715s.gif)
+
+
+
+---
+
+# What is Social Data Science?
+
+<div style="float:right">
+<img src="https://images.squarespace-cdn.com/content/v1/5150aec6e4b0e340ec52710a/1364352051365-HZAS3CLBF7ABLE3F5OBY/ke17ZwdGBToddI8pDm48kB2M2-8_3EzuSSXvzQBRsa1Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxPe_8B-x4gq2tfVez1FwLYYZXud0o-3jV-FAs7tmkMHY-a7GzQZKbHRGZboWC-fOc/Data_Science_VD.png" alt="Data Science discipline Venn diagram" width="450px"/>
+</div>
+
+**Social Data Science** is the application of Data Science to study human behavior and social interaction. 
+
+- Importance of combining methods, synthesis, and communication
+- Gathering digital traces with Computer Science techniques
+- Analysis interpretation with respect to what is known in the relevant Social Sciences
+
+**Interdisciplinarity: learning from the mistakes of one discipline to improve the others** - many examples in this course 
+---
+
+# Why digital traces?
+
+Data from digital traces have six properties that can complement other traditional data sources in the social sciences:
+
+- **Big Data:** Observing large amounts of humans across demographics  
+
+- **Fast Data:** Quantifying aspects of human behavior in real time  
+
+- **Long Data:** Retrieving longitudinal data and at various timescales  
+
+- **Deep Data:** Gathering persistent information on individuals  
+
+- **Mixed Data:** Combining heterogeneous datasources and unstructured data  
+
+- **Strange Data:** Locating small subcommunities or deviant behavior  
+
+---
+
+# What are the limitations of digital traces?
+
+With the great potential of digital traces, aslo come great challenges:
+
+- **Platform biases:** caused by their design, algorithms, social bots, etc
+
+- **Data gatekeepers:** Not everyone can access some data sources
+
+- **Performative behavior:** Talking online is not the same than offline.
+
+- **Representativity issues:** Not everyone leaves digital traces. 
+
+- **Observational data:** Testing causal mechanisms is not straightforward. 
+
+- **The data deluge:** Too much data enables black-box predictions that can be useful but limit our understanding.
+
+---
+
+### The importance of questions in Social Data Science
+
+![:scale 100%](DeepThought.jpeg)  
+Deep Thought, from the movie version of The Hitchhiker's Guide to the Galaxy.
+
+> **Understanding our questions is a prerequisite to understanding their answers.**
+
+---
+
+# Summary
+
+- In this course, you will learn how to retrieve, analyze, and interpret social media data
+
+- Our aim is aligned with Social Data Science: quantitative understanding of human behavior
+
+- Course contents include social dynamics, text analysis, social networks
+
+- Emphasis on critique and understanding of limitations and potentials
+
+- Join us for the first tutorial on Thursday at 10:00!
+
+- Questions?

@@ -1,0 +1,489 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+  <head>
+    <title>Introduction to social media data analysis within social data science</title>
+    <meta charset="utf-8" />
+    <meta name="author" content="David Garcia    University of Konstanz" />
+    <script src="libs/header-attrs/header-attrs.js"></script>
+    <link rel="stylesheet" href="xaringan-themer.css" type="text/css" />
+    <link rel="stylesheet" href="libs/footer.css" type="text/css" />
+  </head>
+  <body>
+    <textarea id="source">
+class: center, middle, inverse, title-slide
+
+.title[
+# Introduction to social media data analysis within social data science
+]
+.author[
+### David Garcia <br><br> <em>University of Konstanz</em>
+]
+.date[
+### Social Media Data Analysis
+]
+
+---
+
+
+
+
+
+
+layout: true
+
+&lt;div class="my-footer"&gt;&lt;span&gt;David Garcia - Social Media Data Analysis&lt;/span&gt;&lt;/div&gt; 
+
+---
+
+# About me
+
+.pull-left[
+.center[
+&lt;img src="Profile.jpg" width="270" /&gt;
+]]
+
+.pull-right[
+&lt;br&gt;
+Website: [dgarcia.eu](https://dgarcia.eu)
+
+Twitter: [@dgarcia_eu](https://twitter.com/dgarcia_eu)
+
+Github: [dgarcia-eu](https://github.com/dgarcia-eu)
+
+Email: david.garcia@uni-konstanz.de
+]
+
+- Professor for Social and Behavioral Data Science, University of Konstanz
+- Faculty member of the Complexity Science Hub Vienna
+- Privatdozent at ETH Zurich and TU Graz
+
+---
+background-image: url(Buildings.svg)
+background-size: 97%
+# A bit more about me
+.pull-left[
+- BSc in Informatics at Universidad Autonoma de Madrid (UAM), Madrid, Spain
+- MSc in Computer Science (theory of computation) at ETH Zurich
+- PhD and Habilitation at MTEC department at ETH Zurich
+- Previously: PI at the Medical University of Vienna and Complexity Science Hub Vienna
+- Previously: Professor for Computational and Behavioral Social Sciences at TU Graz
+]
+
+---
+background-image: url(AboutUS.svg)
+background-size: 98%
+
+---
+
+## Research lines
+&lt;img src="Topics3.svg" width="1000" style="display: block; margin: auto;" /&gt;
+
+---
+background-image: url(VennV2-1.svg)
+background-size: 97%
+---
+background-image: url(VennV2.svg)
+background-size: 97%
+---
+
+# Who are you? 
+
+- SEDS students: year 1
+- SEDS students: year 2
+- SEDS students: year 3+
+- Other programmes?
+
+###And more importantly: What do you expect from this course?
+
+---
+
+# Course objectives
+
+After this course, you should be able to:
+- understand a wide variety of techniques to retrieve **digital trace data from online platforms**
+- store, process, and summarize online data for **quantitative analysis**
+- perform **statistical analyses** to test hypotheses, derive insights, and formulate predictions
+- **interpret** the results of data analysis with respect to testable **theories of human behavior**
+- understand the **limitations** of observational data analysis with respect to data volume, statistical power, and external validity
+
+---
+
+# Course topics
+
+### Block 1: Introduction
+- Introduction to social media data analysis within social data science
+- Algorithms and digital traces: The case of Google trends
+- Ethics and privacy in social media data analysis
+- Exercise 1: Future orientation and search
+
+### Block 2: Social dynamics
+- Social trends and the Simmel effect
+- Social impact theory and its application to social media
+- Exercise 2: Testing the division of impact hypothesis in social media
+
+---
+
+# Course topics
+
+### Block 3: Text in social media
+- Dictionary methods in social media data analysis
+- Supervised social media text analysis
+- The measurement of meaning in social media
+- Exercise 3: Validating sentiment analysis for social media text
+
+### Block 4: Networks in social media
+- Introduction to social networks and the friendship paradox
+- Centrality measures in online social networks
+- Communities and assortativity in social media
+- Exercise 4: Political assortativity on Twitter
+
+
+---
+
+# Exercises and practical sessions
+
+- Exercise practical sessions are provided over the semester
+- Time and place: Thursdays at 10:00, room H303
+- Your tutor will be Aron Sarmany, he will co-teach tutorials with me
+
+
+- Assignments will be released on Thursdays before the tutorial
+- The deadline is before a tutorial a few weeks later
+- Assignment submissions through Github as in ICSS
+- **Assignments count 40% of the final grade of the course** (10% each)
+
+  - Exercise 1: Future orientation and search
+  - Exercise 2: Testing the division of impact hypothesis in social media
+  - Exercise 3: Validating sentiment analysis for social media text
+  - Exercise 4: Political assortativity on Twitter
+
+---
+
+# Learning materials and evaluation
+
+- Github materials: https://github.com/dgarcia-eu/SocialMediaDataAnalysis
+  - The frontpage contains announcements and links to lecture slides
+  - Over the semester it will be populated with written handouts
+- Course Ilias for lecture:  
+https://ilias.uni-konstanz.de/goto_ILIASKONSTANZ_crs_1559947.html
+- Course Ilias for tutorials:  
+https://ilias.uni-konstanz.de/goto_ILIASKONSTANZ_crs_1559949.html
+
+- Final evaluation based on:
+  - Written exam (60%) - tentative dates: 25.07 and 10.10
+  - Exercise assignments (40%) - each with its own grade worth 10%
+  - **Questions?**
+
+---
+
+
+# Related courses
+
+- **Introduction to Computation for the Social Sciences**
+  - Previous semester prerequisite. You should have taken it, otherwise talk to other students to learn the how to of that course, especially exercises
+- **Current Topics and Projects in Social Data Science**
+  - Additional seminar to discuss current research and develop projects building on this course and ICSS
+  - Thursdays after tutorial in the same room
+- **Network Science of Online Interaction**
+  - Seminar with exercises focusing on network science methods
+  - Includes introduction to network science and data analysis projects
+  - Good alternative to this course
+- Other courses: Colloquium as a preparation for a Master Thesis, Data Science Projects, and Computational Modelling of Social Systems seminar during the Winter Semester
+
+
+---
+
+# What is social media?
+
+Information and Communication Technologies that enable users to share content with each other and with larger audiences.
+
+Social media are old but changed a lot recently. One example:
+.center[
+#### VATIAM AEDILEM FURUNCULI ROGANT
+(The petty thieves ask for Vatia as aedile)
+
+Graffito on the wall of a building in Pompeii
+]
+
+How do our social media differ from a writing on a street wall?
+---
+
+# What can we measure in social media?
+
+"The idea that anything as subtle and complex as all the manifestations of changes
+in temperature could be measured and quantified on a single numerical scale was
+scoffed at as impossible, even by the leading philosophers of the sixteenth century." 
+
+–Arthur Jensen, Bias in Mental Testing, 1980 
+
+- Measuring meaning through text seemed very hard but has been improving substantially over time
+
+- Tracking the connections between Billions of people seemed impossible and now it is a boring reality
+
+- What now might feel subjective might be quantitative science in the future
+
+
+---
+
+# What can we use social media data for?
+
+"The plan was to connect these devices to a network –it would ride on the existing
+TV networks– so that the total national happiness at any moment in time could be
+determined. The algedonic meter, as the device was called (from the Greek algos,
+“pain,” and hedone, “pleasure”), would measure only raw pleasure-or-pain reactions
+to show whether government policies were working." 
+
+–Evgeny Morozov, The New Yorker, 2014
+
+
+"More is different" 
+
+–Paul Anderson, 1972
+
+---
+
+
+# What is the aim of Social Data Science?
+
+&gt; The aim of Social Data Science is   
+**the Quantitative Understanding of Human Behavior**.  
+
+- **Quantitative:** As opposed to qualitative or descriptive, we aim for robust findings grounded in strong evidence that can be quantified.  
+
+- **Understanding:** Not just predicting, we want to be able to generalize and combine knowledge, and even to motivate interventions or policies.  
+
+- **Human:**  We will not study particles or objects. Measurement validity and ethics will be a challenge.  
+
+- **Behavior:** Observable changes, structures, dynamics, and patterns; not just stories or theories
+
+---
+#  How are we going to do it?
+**Retrieving, processing, analyzing, and interpreting social media data.**  
+&lt;center&gt;
+![:scale 80%](FBMap.png)
+&lt;/center&gt;
+---
+
+# What is data?
+
+&gt; **Data:** Facts in the form of stored and transmittable information.  
+
+- *Data* is the plural of the Latin word *datum*. *Data* means ”given (things)”.  
+- Data is given to us, it is not fabricated nor simulated.
+![:scale 85%](http://www.phdcomics.com/comics/archive/phd080715s.gif)
+
+
+
+---
+
+# What is Social Data Science?
+
+&lt;div style="float:right"&gt;
+&lt;img src="https://images.squarespace-cdn.com/content/v1/5150aec6e4b0e340ec52710a/1364352051365-HZAS3CLBF7ABLE3F5OBY/ke17ZwdGBToddI8pDm48kB2M2-8_3EzuSSXvzQBRsa1Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxPe_8B-x4gq2tfVez1FwLYYZXud0o-3jV-FAs7tmkMHY-a7GzQZKbHRGZboWC-fOc/Data_Science_VD.png" alt="Data Science discipline Venn diagram" width="450px"/&gt;
+&lt;/div&gt;
+
+**Social Data Science** is the application of Data Science to study human behavior and social interaction. 
+
+- Importance of combining methods, synthesis, and communication
+- Gathering digital traces with Computer Science techniques
+- Analysis interpretation with respect to what is known in the relevant Social Sciences
+
+**Interdisciplinarity: learning from the mistakes of one discipline to improve the others** - many examples in this course 
+---
+
+# Why digital traces?
+
+Data from digital traces have six properties that can complement other traditional data sources in the social sciences:
+
+- **Big Data:** Observing large amounts of humans across demographics  
+
+- **Fast Data:** Quantifying aspects of human behavior in real time  
+
+- **Long Data:** Retrieving longitudinal data and at various timescales  
+
+- **Deep Data:** Gathering persistent information on individuals  
+
+- **Mixed Data:** Combining heterogeneous datasources and unstructured data  
+
+- **Strange Data:** Locating small subcommunities or deviant behavior  
+
+---
+
+# What are the limitations of digital traces?
+
+With the great potential of digital traces, aslo come great challenges:
+
+- **Platform biases:** caused by their design, algorithms, social bots, etc
+
+- **Data gatekeepers:** Not everyone can access some data sources
+
+- **Performative behavior:** Talking online is not the same than offline.
+
+- **Representativity issues:** Not everyone leaves digital traces. 
+
+- **Observational data:** Testing causal mechanisms is not straightforward. 
+
+- **The data deluge:** Too much data enables black-box predictions that can be useful but limit our understanding.
+
+---
+
+### The importance of questions in Social Data Science
+
+![:scale 100%](DeepThought.jpeg)  
+Deep Thought, from the movie version of The Hitchhiker's Guide to the Galaxy.
+
+&gt; **Understanding our questions is a prerequisite to understanding their answers.**
+
+---
+
+# Summary
+
+- In this course, you will learn how to retrieve, analyze, and interpret social media data
+
+- Our aim is aligned with Social Data Science: quantitative understanding of human behavior
+
+- Course contents include social dynamics, text analysis, social networks
+
+- Emphasis on critique and understanding of limitations and potentials
+
+- Join us for the first tutorial on Thursday at 10:00!
+
+- Questions?
+    </textarea>
+<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script src="libs/perc.js"></script>
+<script>var slideshow = remark.create({
+"highlightStyle": "github",
+"highlightLines": true,
+"countIncrementalSlides": false,
+"ratio": "16:9"
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function(d) {
+  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})(document);
+
+(function(d) {
+  var el = d.getElementsByClassName("remark-slides-area");
+  if (!el) return;
+  var slide, slides = slideshow.getSlides(), els = el[0].children;
+  for (var i = 1; i < slides.length; i++) {
+    slide = slides[i];
+    if (slide.properties.continued === "true" || slide.properties.count === "false") {
+      els[i - 1].className += ' has-continuation';
+    }
+  }
+  var s = d.createElement("style");
+  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
+  d.head.appendChild(s);
+})(document);
+// delete the temporary CSS (for displaying all slides initially) when the user
+// starts to view slides
+(function() {
+  var deleted = false;
+  slideshow.on('beforeShowSlide', function(slide) {
+    if (deleted) return;
+    var sheets = document.styleSheets, node;
+    for (var i = 0; i < sheets.length; i++) {
+      node = sheets[i].ownerNode;
+      if (node.dataset["target"] !== "print-only") continue;
+      node.parentNode.removeChild(node);
+    }
+    deleted = true;
+  });
+})();
+// add `data-at-shortcutkeys` attribute to <body> to resolve conflicts with JAWS
+// screen reader (see PR #262)
+(function(d) {
+  let res = {};
+  d.querySelectorAll('.remark-help-content table tr').forEach(tr => {
+    const t = tr.querySelector('td:nth-child(2)').innerText;
+    tr.querySelectorAll('td:first-child .key').forEach(key => {
+      const k = key.innerText;
+      if (/^[a-z]$/.test(k)) res[k] = t;  // must be a single letter (key)
+    });
+  });
+  d.body.setAttribute('data-at-shortcutkeys', JSON.stringify(res));
+})(document);
+(function() {
+  "use strict"
+  // Replace <script> tags in slides area to make them executable
+  var scripts = document.querySelectorAll(
+    '.remark-slides-area .remark-slide-container script'
+  );
+  if (!scripts.length) return;
+  for (var i = 0; i < scripts.length; i++) {
+    var s = document.createElement('script');
+    var code = document.createTextNode(scripts[i].textContent);
+    s.appendChild(code);
+    var scriptAttrs = scripts[i].attributes;
+    for (var j = 0; j < scriptAttrs.length; j++) {
+      s.setAttribute(scriptAttrs[j].name, scriptAttrs[j].value);
+    }
+    scripts[i].parentElement.replaceChild(s, scripts[i]);
+  }
+})();
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+// adds .remark-code-has-line-highlighted class to <pre> parent elements
+// of code chunks containing highlighted lines with class .remark-code-line-highlighted
+(function(d) {
+  const hlines = d.querySelectorAll('.remark-code-line-highlighted');
+  const preParents = [];
+  const findPreParent = function(line, p = 0) {
+    if (p > 1) return null; // traverse up no further than grandparent
+    const el = line.parentElement;
+    return el.tagName === "PRE" ? el : findPreParent(el, ++p);
+  };
+
+  for (let line of hlines) {
+    let pre = findPreParent(line);
+    if (pre && !preParents.includes(pre)) preParents.push(pre);
+  }
+  preParents.forEach(p => p.classList.add("remark-code-has-line-highlighted"));
+})(document);</script>
+
+<script>
+slideshow._releaseMath = function(el) {
+  var i, text, code, codes = el.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+};
+slideshow._releaseMath(document);
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>
