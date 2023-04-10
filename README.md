@@ -17,7 +17,7 @@ I am the Professor for Social and Behavioral Data Science at the University of K
 The course is organized in lecture blocks with one practical exercise for each one. In the exercises you will apply part of what you have learned in the block. In exercises, you collect your own data to answer research questions. 
 
 ### Block 1: Introduction
-1. **Introduction to social media data analysis within social data science**  
+1. **Introduction to social media data analysis within social data science** -- [[Slides]](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/01_Introduction/Slides/Slides.html) -- [[Handout]](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/01_Introduction/SocialDataScience/SocialDataScience.html)
 2. **Algorithms and digital traces: The case of Google trends**  
 3. **Ethics and privacy in social media data analysis**  
 *Exercise 1: Future orientation and search*
