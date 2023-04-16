@@ -1,0 +1,295 @@
+---
+title: "Measuring Temporal Orientation with Google Trends"
+author: "David Garcia <br><br> *TU Graz*"
+date: "Foundations of Computational Social Systems"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs 
+    css: [xaringan-themer.css, "libs/footer.css"]
+    nature:
+      beforeInit: ["libs/perc.js"]
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+---
+
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+#This block contains the theme configuration for the CSS lab slides style
+library(xaringanthemer)
+library(showtext)
+style_mono_accent(
+  base_color = "#5c5c5c",
+  text_font_size = "1.5rem",
+  header_font_google = google_font("Arial"),
+  text_font_google   = google_font("Arial", "300", "300i"),
+  code_font_google   = google_font("Fira Mono")
+)
+```
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+layout: true
+
+<div class="my-footer"><span>David Garcia - Foundations of Computational Social Systems</span></div> 
+
+---
+
+# Time, culture, and the economy
+
+What is the relationship between culture and the economy?  
+
+![:scale 150%](Culture-Economy.png)
+
+---
+
+## Long-term orientation and economic development
+> **Long-Term Orientation (Geert Hofstede)**  
+Long-term oriented societies believe that the most important events in life will occur in the future; short-term oriented societies believe that those events occurred in the past or take place now.
+
+.center[![:scale 60%](FOIGDP.png)]
+
+---
+
+## Measuring the Future Orientation Index
+
+[Pres et al. 2012](https://www.nature.com/articles/srep00350) proposed a way to measure how much a society looks towards the future with Google Trends, the Future Orientation Index (FOI). The FOI for a country *c* on year *y* is calculated as:  
+
+.center[
+$FOI_{c,y} = \frac{G(y+1,y,c)}{G(y-1,y,c)}$
+]
+
+where $G(y_1,y_2,c)$ is the Google Trends volume for searches for year $y_1$ during year $y_2$ from country $c$. 
+
+The FOI measures the ratio of search volume from a country for next year divided by the search volume for the previous year in the same country.
+
+---
+
+# Gooogle Trends
+
+Google Trends is a website hosted by Google that allows you to get a measurement of Google search volume for a term
+
+<center>
+<img src="EU.png" alt="" width="900"/>  
+</center>
+
+---
+
+
+# Example of trends for FOI
+
+.center[![:scale 85%](FOI1.png)]
+
+---
+
+# Example of trends for FOI
+.center[![:scale 85%](FOI2.png)]
+
+---
+
+# Searching for various trends
+
+![Seems that people play minecraft during lockdowns.](GoogleTrendsExport1.png)    
+
+---
+
+# Exporting data
+![](Gtrends1.png)    
+---
+
+# Export file format
+
+![](fileView.png)
+
+---
+
+# Comparing regions
+
+A lower panel shows a comparison between countries or between regions within the country you filtered for.
+
+![](GoogleTrendsExport2.png)    
+
+---
+
+# Exporting map data
+![](Gtrends2.png)    
+- Check "Include low search volume regions"
+---
+
+# Export file format for maps
+
+![](fileView2.png)
+
+---
+
+## Disambiguating queries across languages
+
+![](jesusmohammad2021.png)
+
+
+---
+
+# The World Bank Development Indicators
+
+<center>
+<img src="worldbank.png" alt="" width="900"/>  
+</center>
+
+http://data.worldbank.org/
+ 
+---
+
+### Example: Life expectancy and economic development
+
+<center>
+<img src="GapMinder.png" alt="" width="800"/>  
+</center>
+
+https://www.gapminder.org/
+
+---
+
+
+# Searching for WDI Indicators
+
+<center>
+<img src="WDIinternet.png" alt="" width="1000"/>  
+</center>
+
+- You can search for indicators at http://databank.worldbank.org/wdi
+- Go to the left panel and to the "Series" tab to search
+- Press the "i" button to get more information, including the standard name
+
+
+
+---
+
+# Gooogle Trends
+
+Google Trends is a website hosted by Google that allows you to get a measurement of Google search volume for a term
+
+<center>
+<img src="EU.png" alt="" width="900"/>  
+</center>
+---
+
+## Nowcasting flu incidence with Google Trends
+
+<div style="float:right">
+<img src="GoogleFluTrends.jpg" alt="Data Science discipline Venn diagram" width="500px"/>  
+</div>
+
+**Nowcasting** is predicting the present. It provides an estimation of the value of a quantity based on signals that appear at the same time. 
+
+Google Flu Trends aimed at nowcasting influenza-related physician visits based on Google search volumes. 
+
+As reported in the [Nature paper](http://www.nature.com/nature/journal/v457/n7232/full/nature07634.html), Google Flu Trends achieved a high weekly accuracy between 2003 and 2008.
+
+The figure shows the nowcasting result of Google flu trends. CDC data is published with a delay of two weeks.
+
+---
+## When Google Flu Trends Stopped working
+
+<center>
+<img src="FluFail.jpg" alt="drawing" width="750"/>  
+</center>
+
+---
+## When Google Flu Trends Stopped working
+
+In 2013, Google Flu Trends [started overestimating](https://www.nature.com/news/when-google-got-flu-wrong-1.12413) the incidence of flu cases.
+
+A [follow-up study in Science](http://science.sciencemag.org/content/343/6176/1203
+) showed that just a lagged CDC prediction with 2 week-old data outperformed Google Flu Trends, without using any Google data.
+
+Since many details about how Google and Google Trends work are not public, we cannot know for sure what was the surce of the error. Some candidates are news-related searches, seasonal effects, or changes in Google's algorithm and interface.
+
+Google Flu Trends is an example of **Big Data Hubris**: ”The often implicit assumption that big data are a substitute for, rather than a supplement to, traditional data collection and analysis” [(Lazer et al, Science, 2014)](http://science.sciencemag.org/content/343/6176/1203)
+
+> Take home message: **All data is better than Big Data**
+
+---
+
+
+---
+
+# Some univariate statistics notation
+
+
+- $X$ is a random variable
+  - In data: $X_i$ is the value of the variable for entry $i$
+  - For example the GDP of a country
+
+- $E[X]$ is the expected value of $X$
+  - We estimate the expected value as the mean of $X$: 
+  $$\mu_X = \frac{1}{N}\sum_i X_i$$
+  - $N$ is the number of data points, for example the number of countries
+
+---
+
+# Some more univariate statistics notation
+
+- $V[X]$ is the variance of $X$
+  - We calculate it as the expected squared difference to the mean X: 
+  $$V[X] = \frac{1}{N}\sum_i (X_i - \mu_X)^2$$
+  - It is measured in squared units of $X$
+
+- $\sigma_X$ is the standard deviation of X
+  -  $\sigma_X = \sqrt{V[X]}$, which is convenient because it measures dispersion in the same units as $X$
+  - in R you can calculate it with the function sd()
+
+---
+
+## Pearson's Correlation Coefficient $\rho(X,Y)$
+
+> **Correlation:** Linear association or dependence between the values of variables $X$ and $Y$
+ 
+- If $X$ and $Y$ are independent, they satisfy that the expectation of the product equals the product of expectations:  
+$$E[XY] = E[X]E[Y]$$  
+- The principle: correlation as the deviation from $E[XY] − E [X]E[Y] = 0$  
+- The absolute value of this difference can be at most $\sigma_X\sigma_Y$  
+- $\rho(X,Y)$ rescales the difference to be between −1 and 1  
+
+$$\rho(X,Y) = \frac{E[XY] − E [X]E[Y]}{\sigma_X\sigma_Y}$$
+---
+
+### Some examples of Pearson's Correlation Coefficient
+![](pearson1.png)
+
+---
+![](pearson2.png)
+
+Independent variables will have a correlation close to zero, but a correlation close to zero does not mean independence
+---
+## Anscombe's quartet  ( $\rho=0.816$ )
+
+.center[![:scale 65%](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Anscombe%27s_quartet_3.svg/638px-Anscombe%27s_quartet_3.svg.png)]
+---
+## The Datasaurus dozen
+.center[![:scale 68%](https://d2f99xq7vri1nk.cloudfront.net/AllDinosGrey_1.png)]
+
+---
+
+# Summary of block 2
+
+- **Temporal orientation and Google trends**
+  - The interplay between culture and the economy
+  - The Future Orientation Index
+  - Exporting Google Trends over times and countries
+  - The World Bank database
+  
+
+- **Google Flu trends**
+  - When google trends started overestimating flu incidence
+  - All data is better than Big Data
+  - Beware of making Data Piñatas
+  
+
+- **Measuring correlation**
+  - Quantifying linear associations as a violation of independence property
+  - Not all correlations are the same and many patterns are not linear
+  
+  
