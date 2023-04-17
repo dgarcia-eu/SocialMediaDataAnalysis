@@ -1,7 +1,7 @@
 ---
-title: "Measuring Temporal Orientation with Google Trends"
-author: "David Garcia <br><br> *TU Graz*"
-date: "Foundations of Computational Social Systems"
+title: "Algorithms and digital traces: <br>The case of Google trends"
+author: "David Garcia <br><br> *University of Konstanz*"
+date: "Social Media Data Analysis"
 output:
   xaringan::moon_reader:
     lib_dir: libs 
@@ -34,41 +34,23 @@ options(htmltools.dir.version = FALSE)
 
 layout: true
 
-<div class="my-footer"><span>David Garcia - Foundations of Computational Social Systems</span></div> 
+<div class="my-footer"><span>David Garcia - Social Media Data Analysis</span></div> 
 
 ---
 
-# Time, culture, and the economy
+# Outline
 
-What is the relationship between culture and the economy?  
+## 1. Search data: Google trends
 
-![:scale 150%](Culture-Economy.png)
+## 2. Measuring temporal orientation with Google trends
 
----
+## 3. Correlating economic development and temporal orientation
 
-## Long-term orientation and economic development
-> **Long-Term Orientation (Geert Hofstede)**  
-Long-term oriented societies believe that the most important events in life will occur in the future; short-term oriented societies believe that those events occurred in the past or take place now.
-
-.center[![:scale 60%](FOIGDP.png)]
+## 4. The parable of Google Flu trends
 
 ---
 
-## Measuring the Future Orientation Index
-
-[Pres et al. 2012](https://www.nature.com/articles/srep00350) proposed a way to measure how much a society looks towards the future with Google Trends, the Future Orientation Index (FOI). The FOI for a country *c* on year *y* is calculated as:  
-
-.center[
-$FOI_{c,y} = \frac{G(y+1,y,c)}{G(y-1,y,c)}$
-]
-
-where $G(y_1,y_2,c)$ is the Google Trends volume for searches for year $y_1$ during year $y_2$ from country $c$. 
-
-The FOI measures the ratio of search volume from a country for next year divided by the search volume for the previous year in the same country.
-
----
-
-# Gooogle Trends
+# Google Trends
 
 Google Trends is a website hosted by Google that allows you to get a measurement of Google search volume for a term
 
@@ -78,17 +60,6 @@ Google Trends is a website hosted by Google that allows you to get a measurement
 
 ---
 
-
-# Example of trends for FOI
-
-.center[![:scale 85%](FOI1.png)]
-
----
-
-# Example of trends for FOI
-.center[![:scale 85%](FOI2.png)]
-
----
 
 # Searching for various trends
 
@@ -130,7 +101,70 @@ A lower panel shows a comparison between countries or between regions within the
 ![](jesusmohammad2021.png)
 
 
+
 ---
+
+# Outline
+
+## 1. Search data: Google trends
+
+## 2. Measuring temporal orientation with Google trends
+
+
+---
+
+
+# Time, culture, and the economy
+
+What is the relationship between culture and the economy?  
+
+![:scale 150%](Culture-Economy.png)
+
+---
+
+## Long-term orientation and economic development
+> **Long-Term Orientation (Geert Hofstede)**  
+Long-term oriented societies believe that the most important events in life will occur in the future; short-term oriented societies believe that those events occurred in the past or take place now.
+
+.center[![:scale 60%](FOIGDP.png)]
+
+---
+
+# Temporal orientation and Google Trends
+
+.center[![:scale 95%](PreisEtAlCover.png)]
+
+[Quantifying the Advantage of Looking Forward. T. Preis, S. Moat, E. Stanley, S. Bishop. Scientific Reports (2012)](https://www.nature.com/articles/srep00350)
+
+
+---
+
+## Measuring the Future Orientation Index
+
+[Pres et al. 2012](https://www.nature.com/articles/srep00350) proposed a way to measure how much a society looks towards the future with Google Trends, the Future Orientation Index (FOI). The FOI for a country *c* on year *y* is calculated as:  
+
+.center[
+$FOI_{c,y} = \frac{G(y+1,y,c)}{G(y-1,y,c)}$
+]
+
+where $G(y_1,y_2,c)$ is the Google Trends volume for searches for year $y_1$ during year $y_2$ from country $c$. 
+
+The FOI measures the ratio of search volume from a country for next year divided by the search volume for the previous year in the same country.
+
+---
+
+
+# Example of trends for FOI
+
+.center[![:scale 85%](FOI1.png)]
+
+---
+
+# Example of trends for FOI
+.center[![:scale 85%](FOI2.png)]
+
+---
+
 
 # The World Bank Development Indicators
 
@@ -163,56 +197,15 @@ https://www.gapminder.org/
 - Go to the left panel and to the "Series" tab to search
 - Press the "i" button to get more information, including the standard name
 
-
-
 ---
 
-# Gooogle Trends
+# Outline
 
-Google Trends is a website hosted by Google that allows you to get a measurement of Google search volume for a term
+## 1. Search data: Google trends
 
-<center>
-<img src="EU.png" alt="" width="900"/>  
-</center>
----
+## 2. Measuring temporal orientation with Google trends
 
-## Nowcasting flu incidence with Google Trends
-
-<div style="float:right">
-<img src="GoogleFluTrends.jpg" alt="Data Science discipline Venn diagram" width="500px"/>  
-</div>
-
-**Nowcasting** is predicting the present. It provides an estimation of the value of a quantity based on signals that appear at the same time. 
-
-Google Flu Trends aimed at nowcasting influenza-related physician visits based on Google search volumes. 
-
-As reported in the [Nature paper](http://www.nature.com/nature/journal/v457/n7232/full/nature07634.html), Google Flu Trends achieved a high weekly accuracy between 2003 and 2008.
-
-The figure shows the nowcasting result of Google flu trends. CDC data is published with a delay of two weeks.
-
----
-## When Google Flu Trends Stopped working
-
-<center>
-<img src="FluFail.jpg" alt="drawing" width="750"/>  
-</center>
-
----
-## When Google Flu Trends Stopped working
-
-In 2013, Google Flu Trends [started overestimating](https://www.nature.com/news/when-google-got-flu-wrong-1.12413) the incidence of flu cases.
-
-A [follow-up study in Science](http://science.sciencemag.org/content/343/6176/1203
-) showed that just a lagged CDC prediction with 2 week-old data outperformed Google Flu Trends, without using any Google data.
-
-Since many details about how Google and Google Trends work are not public, we cannot know for sure what was the surce of the error. Some candidates are news-related searches, seasonal effects, or changes in Google's algorithm and interface.
-
-Google Flu Trends is an example of **Big Data Hubris**: ”The often implicit assumption that big data are a substitute for, rather than a supplement to, traditional data collection and analysis” [(Lazer et al, Science, 2014)](http://science.sciencemag.org/content/343/6176/1203)
-
-> Take home message: **All data is better than Big Data**
-
----
-
+## 3. Correlating economic development and temporal orientation
 
 ---
 
@@ -266,30 +259,139 @@ Independent variables will have a correlation close to zero, but a correlation c
 ---
 ## Anscombe's quartet  ( $\rho=0.816$ )
 
-.center[![:scale 65%](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Anscombe%27s_quartet_3.svg/638px-Anscombe%27s_quartet_3.svg.png)]
+.center[![:scale 65%](Anscombe.png)]
 ---
 ## The Datasaurus dozen
-.center[![:scale 68%](https://d2f99xq7vri1nk.cloudfront.net/AllDinosGrey_1.png)]
+.center[![:scale 68%](Datasaurus.png)]
 
 ---
 
-# Summary of block 2
+# Correlating the FOI and GDP per capita
+
+
+![](PresEtAl.jpg)
+.right[Pearson correlation coefficient = 0.78]
+---
+
+# Outline
+
+## 1. Search data: Google trends
+
+## 2. Measuring temporal orientation with Google trends
+
+## 3. Correlating economic development and temporal orientation
+
+## 4. The parable of Google Flu trends
+
+---
+
+## Nowcasting flu incidence with Google Trends
+
+<div style="float:right">
+<img src="GoogleFluTrends.jpg" alt="Data Science discipline Venn diagram" width="500px"/>  
+</div>
+
+**Nowcasting** is predicting the present. It provides an estimation of the value of a quantity based on signals that appear at the same time. 
+
+Google Flu Trends aimed at nowcasting influenza-related physician visits based on Google search volumes. 
+
+As reported in the [Nature paper](http://www.nature.com/nature/journal/v457/n7232/full/nature07634.html), Google Flu Trends achieved a high weekly accuracy between 2003 and 2008.
+
+The figure shows the nowcasting result of Google flu trends. CDC data is published with a delay of two weeks.
+
+---
+
+## When Google Flu Trends Stopped working
+
+![](FluFail-crop.jpg)
+During the flu season of 2012/2013 Google Flu trends started overestimating the number of cases.  
+[The Parable of Google Flu: Traps in Big Data Analysis. D. Lazer, R. Kennedy, G. King, A. Vespignani. Science (2014)](https://gking.harvard.edu/files/gking/files/0314policyforumff.pdf)
+
+
+---
+# Comparing GFT with autoregression
+Google flu:
+$$flu_t = gft_t$$
+Autoregressive model:
+
+$$flu_t = \beta_0 + \beta_1 flu_{t-2} + \beta_2 flu_{t-3} + \epsilon$$
+Combined model:
+
+$$flu_t = \beta_0 + \alpha gft_t + \beta_1 flu_{t-2} + \beta_2 flu_{t-3} + \epsilon$$
+(note: More details on regression models in the next lectures)
+---
+
+# Which model is better?
+
+- Approach 1: explained variance
+  
+  - Correlation coefficient between predictions and empirical values
+  - Coefficient of determination $R^2 = 1 - \frac{\sum_i \epsilon_i^2}{\sum_i(y_i - \overline y)^2}$
+
+- Approach 2: likelihood-based metrics
+
+  - Likelihood $\hat L$, probability of the observed data ( $x$ ) given the model and its parameter values: $\hat L = p(x | \hat \Theta, M)$ 
+  - Bayesian Information Criterion: $k * ln(N) - 2 * ln(L)$, where $N$ is the number of data points and $k$ the number of parameters of the model
+
+(note: More details on regression models in the next lectures)
+---
+# GFT versus autoregression
+
+.center[![:scale 90%](GoelResult.png)]
+- Autoregressive model with two-week old data has correlation 0.86  
+- GFT had 0.94, Autoregressive model with last week data has 0.95  
+- [Predicting consumer behavior with Web search. S. Goel, et al. PNAS (2010)](https://www.pnas.org/doi/10.1073/pnas.1005962107)
+---
+
+## Algorithms and interfaces in digital traces
+
+Algorithmic suggestions (terms to search, people to friend), shape the data and might not be possible to identify in the traces
+
+.center[![](FB.png)]
+
+[Bit By Bit: Social Research in the Digital Age - Algorithmically Confounded. Matt Salganik (2018)](https://www.bitbybitbook.com/en/1st-ed/observing-behavior/characteristics/algorithmically-confounded/)
+
+
+---
+
+## Where Google trends works: consumer trends
+
+.center[![:scale 77%](Goel2.jpeg)]
+---
+
+# Comparing models in various cases
+
+.center[![:scale 47%](Goel3.jpeg)]
+
+---
+
+# Big Data Hubris
+
+.center[![:scale 60%](Hubris.png)]
+
+Google Flu Trends is an example of **Big Data Hubris**: ”The often implicit assumption that big data are a substitute for, rather than a supplement to, traditional data collection and analysis” [(Lazer et al, Science, 2014)](http://science.sciencemag.org/content/343/6176/1203)
+
+> Take home message: **All data is better than Big Data**
+
+---
+
+# Summary 
+
+- **Introduction to Google trends**
+  - Searching trends across time and regions in a comparative way
+  - A black box with lots of known unknowns
+
 
 - **Temporal orientation and Google trends**
   - The interplay between culture and the economy
   - The Future Orientation Index
-  - Exporting Google Trends over times and countries
-  - The World Bank database
-  
+  - Correlating the FOI with GDP
+
 
 - **Google Flu trends**
-  - When google trends started overestimating flu incidence
-  - All data is better than Big Data
-  - Beware of making Data Piñatas
-  
+  - When Google trends started overestimating flu incidence
+  - Big data models need to be compared with standard social science models
+  - Digital traces are not made for research: algorithmic distortions
 
-- **Measuring correlation**
-  - Quantifying linear associations as a violation of independence property
-  - Not all correlations are the same and many patterns are not linear
   
   

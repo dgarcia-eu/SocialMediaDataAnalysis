@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+  <head>
+    <title>Algorithms and digital traces:  The case of Google trends</title>
+    <meta charset="utf-8" />
+    <meta name="author" content="David Garcia    University of Konstanz" />
+    <script src="libs/header-attrs/header-attrs.js"></script>
+    <link rel="stylesheet" href="xaringan-themer.css" type="text/css" />
+    <link rel="stylesheet" href="libs/footer.css" type="text/css" />
+  </head>
+  <body>
+    <textarea id="source">
+class: center, middle, inverse, title-slide
+
+.title[
+# Algorithms and digital traces: <br>The case of Google trends
+]
+.author[
+### David Garcia <br><br> <em>University of Konstanz</em>
+]
+.date[
+### Social Media Data Analysis
+]
+
+---
+
+
+
+
+
+
+
+layout: true
+
+&lt;div class="my-footer"&gt;&lt;span&gt;David Garcia - Social Media Data Analysis&lt;/span&gt;&lt;/div&gt; 
+
+---
+
+# Outline
+
+## 1. Search data: Google trends
+
+## 2. Measuring temporal orientation with Google trends
+
+## 3. Correlating economic development and temporal orientation
+
+## 4. The parable of Google Flu trends
+
+---
+
+# Google Trends
+
+Google Trends is a website hosted by Google that allows you to get a measurement of Google search volume for a term
+
+&lt;center&gt;
+&lt;img src="EU.png" alt="" width="900"/&gt;  
+&lt;/center&gt;
+
+---
+
+
+# Searching for various trends
+
+![Seems that people play minecraft during lockdowns.](GoogleTrendsExport1.png)    
+
+---
+
+# Exporting data
+![](Gtrends1.png)    
+---
+
+# Export file format
+
+![](fileView.png)
+
+---
+
+# Comparing regions
+
+A lower panel shows a comparison between countries or between regions within the country you filtered for.
+
+![](GoogleTrendsExport2.png)    
+
+---
+
+# Exporting map data
+![](Gtrends2.png)    
+- Check "Include low search volume regions"
+---
+
+# Export file format for maps
+
+![](fileView2.png)
+
+---
+
+## Disambiguating queries across languages
+
+![](jesusmohammad2021.png)
+
+
+
+---
+
+# Outline
+
+## 1. Search data: Google trends
+
+## 2. Measuring temporal orientation with Google trends
+
+
+---
+
+
+# Time, culture, and the economy
+
+What is the relationship between culture and the economy?  
+
+![:scale 150%](Culture-Economy.png)
+
+---
+
+## Long-term orientation and economic development
+&gt; **Long-Term Orientation (Geert Hofstede)**  
+Long-term oriented societies believe that the most important events in life will occur in the future; short-term oriented societies believe that those events occurred in the past or take place now.
+
+.center[![:scale 60%](FOIGDP.png)]
+
+---
+
+# Temporal orientation and Google Trends
+
+.center[![:scale 95%](PreisEtAlCover.png)]
+
+[Quantifying the Advantage of Looking Forward. T. Preis, S. Moat, E. Stanley, S. Bishop. Scientific Reports (2012)](https://www.nature.com/articles/srep00350)
+
+
+---
+
+## Measuring the Future Orientation Index
+
+[Pres et al. 2012](https://www.nature.com/articles/srep00350) proposed a way to measure how much a society looks towards the future with Google Trends, the Future Orientation Index (FOI). The FOI for a country *c* on year *y* is calculated as:  
+
+.center[
+`\(FOI_{c,y} = \frac{G(y+1,y,c)}{G(y-1,y,c)}\)`
+]
+
+where `\(G(y_1,y_2,c)\)` is the Google Trends volume for searches for year `\(y_1\)` during year `\(y_2\)` from country `\(c\)`. 
+
+The FOI measures the ratio of search volume from a country for next year divided by the search volume for the previous year in the same country.
+
+---
+
+
+# Example of trends for FOI
+
+.center[![:scale 85%](FOI1.png)]
+
+---
+
+# Example of trends for FOI
+.center[![:scale 85%](FOI2.png)]
+
+---
+
+
+# The World Bank Development Indicators
+
+&lt;center&gt;
+&lt;img src="worldbank.png" alt="" width="900"/&gt;  
+&lt;/center&gt;
+
+http://data.worldbank.org/
+ 
+---
+
+### Example: Life expectancy and economic development
+
+&lt;center&gt;
+&lt;img src="GapMinder.png" alt="" width="800"/&gt;  
+&lt;/center&gt;
+
+https://www.gapminder.org/
+
+---
+
+
+# Searching for WDI Indicators
+
+&lt;center&gt;
+&lt;img src="WDIinternet.png" alt="" width="1000"/&gt;  
+&lt;/center&gt;
+
+- You can search for indicators at http://databank.worldbank.org/wdi
+- Go to the left panel and to the "Series" tab to search
+- Press the "i" button to get more information, including the standard name
+
+---
+
+# Outline
+
+## 1. Search data: Google trends
+
+## 2. Measuring temporal orientation with Google trends
+
+## 3. Correlating economic development and temporal orientation
+
+---
+
+# Some univariate statistics notation
+
+
+- `\(X\)` is a random variable
+  - In data: `\(X_i\)` is the value of the variable for entry `\(i\)`
+  - For example the GDP of a country
+
+- `\(E[X]\)` is the expected value of `\(X\)`
+  - We estimate the expected value as the mean of `\(X\)`: 
+  `$$\mu_X = \frac{1}{N}\sum_i X_i$$`
+  - `\(N\)` is the number of data points, for example the number of countries
+
+---
+
+# Some more univariate statistics notation
+
+- `\(V[X]\)` is the variance of `\(X\)`
+  - We calculate it as the expected squared difference to the mean X: 
+  `$$V[X] = \frac{1}{N}\sum_i (X_i - \mu_X)^2$$`
+  - It is measured in squared units of `\(X\)`
+
+- `\(\sigma_X\)` is the standard deviation of X
+  -  `\(\sigma_X = \sqrt{V[X]}\)`, which is convenient because it measures dispersion in the same units as `\(X\)`
+  - in R you can calculate it with the function sd()
+
+---
+
+## Pearson's Correlation Coefficient `\(\rho(X,Y)\)`
+
+&gt; **Correlation:** Linear association or dependence between the values of variables `\(X\)` and `\(Y\)`
+ 
+- If `\(X\)` and `\(Y\)` are independent, they satisfy that the expectation of the product equals the product of expectations:  
+`$$E[XY] = E[X]E[Y]$$`  
+- The principle: correlation as the deviation from `\(E[XY] − E [X]E[Y] = 0\)`  
+- The absolute value of this difference can be at most `\(\sigma_X\sigma_Y\)`  
+- `\(\rho(X,Y)\)` rescales the difference to be between −1 and 1  
+
+`$$\rho(X,Y) = \frac{E[XY] − E [X]E[Y]}{\sigma_X\sigma_Y}$$`
+---
+
+### Some examples of Pearson's Correlation Coefficient
+![](pearson1.png)
+
+---
+![](pearson2.png)
+
+Independent variables will have a correlation close to zero, but a correlation close to zero does not mean independence
+---
+## Anscombe's quartet  ( `\(\rho=0.816\)` )
+
+.center[![:scale 65%](Anscombe.png)]
+---
+## The Datasaurus dozen
+.center[![:scale 68%](Datasaurus.png)]
+
+---
+
+# Correlating the FOI and GDP per capita
+
+
+![](PresEtAl.jpg)
+.right[Pearson correlation coefficient = 0.78]
+---
+
+# Outline
+
+## 1. Search data: Google trends
+
+## 2. Measuring temporal orientation with Google trends
+
+## 3. Correlating economic development and temporal orientation
+
+## 4. The parable of Google Flu trends
+
+---
+
+## Nowcasting flu incidence with Google Trends
+
+&lt;div style="float:right"&gt;
+&lt;img src="GoogleFluTrends.jpg" alt="Data Science discipline Venn diagram" width="500px"/&gt;  
+&lt;/div&gt;
+
+**Nowcasting** is predicting the present. It provides an estimation of the value of a quantity based on signals that appear at the same time. 
+
+Google Flu Trends aimed at nowcasting influenza-related physician visits based on Google search volumes. 
+
+As reported in the [Nature paper](http://www.nature.com/nature/journal/v457/n7232/full/nature07634.html), Google Flu Trends achieved a high weekly accuracy between 2003 and 2008.
+
+The figure shows the nowcasting result of Google flu trends. CDC data is published with a delay of two weeks.
+
+---
+
+## When Google Flu Trends Stopped working
+
+![](FluFail-crop.jpg)
+During the flu season of 2012/2013 Google Flu trends started overestimating the number of cases.  
+[The Parable of Google Flu: Traps in Big Data Analysis. D. Lazer, R. Kennedy, G. King, A. Vespignani. Science (2014)](https://gking.harvard.edu/files/gking/files/0314policyforumff.pdf)
+
+
+---
+# Comparing GFT with autoregression
+Google flu:
+`$$flu_t = gft_t$$`
+Autoregressive model:
+
+`$$flu_t = \beta_0 + \beta_1 flu_{t-2} + \beta_2 flu_{t-3} + \epsilon$$`
+Combined model:
+
+`$$flu_t = \beta_0 + \alpha gft_t + \beta_1 flu_{t-2} + \beta_2 flu_{t-3} + \epsilon$$`
+(note: More details on regression models in the next lectures)
+---
+
+# Which model is better?
+
+- Approach 1: explained variance
+  
+  - Correlation coefficient between predictions and empirical values
+  - Coefficient of determination `\(R^2 = 1 - \frac{\sum_i \epsilon_i^2}{\sum_i(y_i - \overline y)^2}\)`
+
+- Approach 2: likelihood-based metrics
+
+  - Likelihood `\(\hat L\)`, probability of the observed data ( `\(x\)` ) given the model and its parameter values: `\(\hat L = p(x | \hat \Theta, M)\)` 
+  - Bayesian Information Criterion: `\(k * ln(N) - 2 * ln(L)\)`, where `\(N\)` is the number of data points and `\(k\)` the number of parameters of the model
+
+(note: More details on regression models in the next lectures)
+---
+# GFT versus autoregression
+
+.center[![:scale 90%](GoelResult.png)]
+- Autoregressive model with two-week old data has correlation 0.86  
+- GFT had 0.94, Autoregressive model with last week data has 0.95  
+- [Predicting consumer behavior with Web search. S. Goel, et al. PNAS (2010)](https://www.pnas.org/doi/10.1073/pnas.1005962107)
+---
+
+## Algorithms and interfaces in digital traces
+
+Algorithmic suggestions (terms to search, people to friend), shape the data and might not be possible to identify in the traces
+
+.center[![](FB.png)]
+
+[Bit By Bit: Social Research in the Digital Age - Algorithmically Confounded. Matt Salganik (2018)](https://www.bitbybitbook.com/en/1st-ed/observing-behavior/characteristics/algorithmically-confounded/)
+
+
+---
+
+## Where Google trends works: consumer trends
+
+.center[![:scale 77%](Goel2.jpeg)]
+---
+
+# Comparing models in various cases
+
+.center[![:scale 47%](Goel3.jpeg)]
+
+---
+
+# Big Data Hubris
+
+.center[![:scale 60%](Hubris.png)]
+
+Google Flu Trends is an example of **Big Data Hubris**: ”The often implicit assumption that big data are a substitute for, rather than a supplement to, traditional data collection and analysis” [(Lazer et al, Science, 2014)](http://science.sciencemag.org/content/343/6176/1203)
+
+&gt; Take home message: **All data is better than Big Data**
+
+---
+
+# Summary 
+
+- **Introduction to Google trends**
+  - Searching trends across time and regions in a comparative way
+  - A black box with lots of known unknowns
+
+
+- **Temporal orientation and Google trends**
+  - The interplay between culture and the economy
+  - The Future Orientation Index
+  - Correlating the FOI with GDP
+
+
+- **Google Flu trends**
+  - When Google trends started overestimating flu incidence
+  - Big data models need to be compared with standard social science models
+  - Digital traces are not made for research: algorithmic distortions
+
+  
+  
+    </textarea>
+<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script src="libs/perc.js"></script>
+<script>var slideshow = remark.create({
+"highlightStyle": "github",
+"highlightLines": true,
+"countIncrementalSlides": false,
+"ratio": "16:9"
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function(d) {
+  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})(document);
+
+(function(d) {
+  var el = d.getElementsByClassName("remark-slides-area");
+  if (!el) return;
+  var slide, slides = slideshow.getSlides(), els = el[0].children;
+  for (var i = 1; i < slides.length; i++) {
+    slide = slides[i];
+    if (slide.properties.continued === "true" || slide.properties.count === "false") {
+      els[i - 1].className += ' has-continuation';
+    }
+  }
+  var s = d.createElement("style");
+  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
+  d.head.appendChild(s);
+})(document);
+// delete the temporary CSS (for displaying all slides initially) when the user
+// starts to view slides
+(function() {
+  var deleted = false;
+  slideshow.on('beforeShowSlide', function(slide) {
+    if (deleted) return;
+    var sheets = document.styleSheets, node;
+    for (var i = 0; i < sheets.length; i++) {
+      node = sheets[i].ownerNode;
+      if (node.dataset["target"] !== "print-only") continue;
+      node.parentNode.removeChild(node);
+    }
+    deleted = true;
+  });
+})();
+// add `data-at-shortcutkeys` attribute to <body> to resolve conflicts with JAWS
+// screen reader (see PR #262)
+(function(d) {
+  let res = {};
+  d.querySelectorAll('.remark-help-content table tr').forEach(tr => {
+    const t = tr.querySelector('td:nth-child(2)').innerText;
+    tr.querySelectorAll('td:first-child .key').forEach(key => {
+      const k = key.innerText;
+      if (/^[a-z]$/.test(k)) res[k] = t;  // must be a single letter (key)
+    });
+  });
+  d.body.setAttribute('data-at-shortcutkeys', JSON.stringify(res));
+})(document);
+(function() {
+  "use strict"
+  // Replace <script> tags in slides area to make them executable
+  var scripts = document.querySelectorAll(
+    '.remark-slides-area .remark-slide-container script'
+  );
+  if (!scripts.length) return;
+  for (var i = 0; i < scripts.length; i++) {
+    var s = document.createElement('script');
+    var code = document.createTextNode(scripts[i].textContent);
+    s.appendChild(code);
+    var scriptAttrs = scripts[i].attributes;
+    for (var j = 0; j < scriptAttrs.length; j++) {
+      s.setAttribute(scriptAttrs[j].name, scriptAttrs[j].value);
+    }
+    scripts[i].parentElement.replaceChild(s, scripts[i]);
+  }
+})();
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+// adds .remark-code-has-line-highlighted class to <pre> parent elements
+// of code chunks containing highlighted lines with class .remark-code-line-highlighted
+(function(d) {
+  const hlines = d.querySelectorAll('.remark-code-line-highlighted');
+  const preParents = [];
+  const findPreParent = function(line, p = 0) {
+    if (p > 1) return null; // traverse up no further than grandparent
+    const el = line.parentElement;
+    return el.tagName === "PRE" ? el : findPreParent(el, ++p);
+  };
+
+  for (let line of hlines) {
+    let pre = findPreParent(line);
+    if (pre && !preParents.includes(pre)) preParents.push(pre);
+  }
+  preParents.forEach(p => p.classList.add("remark-code-has-line-highlighted"));
+})(document);</script>
+
+<script>
+slideshow._releaseMath = function(el) {
+  var i, text, code, codes = el.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+};
+slideshow._releaseMath(document);
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>
