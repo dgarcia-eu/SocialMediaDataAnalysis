@@ -18,13 +18,16 @@ The course is organized in lecture blocks with one practical exercise for each o
 
 ### Block 1: Introduction
 1. **Introduction to social media data analysis within social data science** -- [[Slides]](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/01_Introduction/Slides/Slides.html) -- [[Handout]](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/01_Introduction/SocialDataScience/SocialDataScience.html)
-2. **Algorithms and digital traces: The case of Google trends**  
+2. **Algorithms and digital traces: The case of Google trends** -- [[Slides]](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/02_SearchData/Slides/Slides.html)
+    - [Handout: Google trends and temporal orientation](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/02_SearchData/TemporalOrientation/TemporalOrientationGtrends.html)
+    - [Handout: Google flu trends](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/02_SearchData/GoogleFluTrends/GoogleFluTrends.html)
+    - [Handout: Measuring correlation](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/02_SearchData/Correlation/MeasuringCorrelation.html)
 3. **Ethics and privacy in social media data analysis**  
 *Exercise 1: Future orientation and search*
 
 ### Block 2: Social dynamics  
-4. **Social trends and the Simmel effect**  
-5. **Social impact theory and its application to social media**  
+4. **Social impact theory and its application to social media**  
+5. **Social trends and the Simmel effect**  
 *Exercise 2: Testing the division of impact hypothesis in social media*
 
 ### Block 3: Text in social media  
