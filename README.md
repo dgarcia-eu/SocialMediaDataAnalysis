@@ -22,7 +22,9 @@ The course is organized in lecture blocks with one practical exercise for each o
     - [Handout: Google trends and temporal orientation](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/02_SearchData/TemporalOrientation/TemporalOrientationGtrends.html)
     - [Handout: Google flu trends](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/02_SearchData/GoogleFluTrends/GoogleFluTrends.html)
     - [Handout: Measuring correlation](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/02_SearchData/Correlation/MeasuringCorrelation.html)
-3. **Ethics and privacy in social media data analysis**  
+3. **Ethics and privacy in social media data analysis** -- [[Slides]](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/03_EthicsAndPrivacy/Slides/Slides.html)  
+    - [Recommended readings](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/03_EthicsAndPrivacy/Readings.html)  
+
 *Exercise 1: Future orientation and search*
 
 ### Block 2: Social dynamics  

@@ -4,7 +4,7 @@ author: "David Garcia"
 output: html_document
 ---
 
-[**[You can find the lecture slides here]**](https://dgarcia-eu.github.io/FoundationsOfCSS/10_SocietalIssues/103_Privacy/Slides/Privacy_Slides.html)
+[**[You can find the lecture slides here]**](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/03_EthicsAndPrivacy/Slides/Slides.html)
 
 Beyond the class discussion, this session is supplemented best by recommended readings.
 
