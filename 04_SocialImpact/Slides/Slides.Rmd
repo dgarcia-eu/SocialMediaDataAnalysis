@@ -1,5 +1,5 @@
 ---
-title: "Social Impact Theory"
+title: "Social impact theory and its application to social media"
 author: "David Garcia <br><br> *University of Konstanz*"
 date: "Social Media Data Analysis"
 output:
@@ -483,5 +483,3 @@ Maximizing the likelihood for a given data is a way of fitting model parameters 
 - Linear Regression in SMDA
   - How to estimate a quantity as a linear combination of others
   - Goodness of fit: R squared and likelihood-based metrics
-
----
