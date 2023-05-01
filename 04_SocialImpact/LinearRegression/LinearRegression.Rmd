@@ -1,0 +1,71 @@
+---
+title: "Linear regression"
+author: "David Garcia"
+output: html_document
+---
+
+
+### Regression analysis
+
+Regression models formalize an equation in which one numeric variable $Y$ is formulated as a function of other variables $X_1$, $X_2$, $X_3$, etc:  
+<center>
+$Y = f(X_1,X_2,X_3...) + \epsilon$
+</center>
+
+$\epsilon$ is called the residual, which is an error term in case the function does not fit perfectly $Y$. 
+
+In this tutorial we will learn about linear regression, which are regression models in which the function $f()$ is a linear combination of variables. More precisely:
+
+$Y = a + b_1 X_1 + b_2 X_2 + b_3 X_3 ... + \epsilon$
+
+- $Y$ is called the dependent variable
+- $X_1$, $X_2$, $X_3$, etc are called independent variables
+- $a$ is the intercept, which measures the expected value of $Y$ that does not depend on the dependent variables
+- $b_1$, $b_2$, $b_3$, etc are called the slopes or the coefficients of the independent variables. They measure how much $Y$ grows with the corresponding variable. These coefficients are measure in the units of $Y$ divided by the units of $X$
+- $\epsilon$ are the residuals, as in the equation before
+
+For example, when we studied how GDP per capita depended on the FOI, we have a case where $Y$ is GDP and there is one independent variable $X$, the FOI. Here you see a scatter plot of GDP vs FOI with a line that shows a regression result:
+
+```{r echo=F, message=F, results='hide'}
+library(dplyr)
+df <- read.csv("FOI.csv")
+df$GDP <- df$NY.GDP.PCAP.PP.KD
+df %>% filter(SP.POP.TOTL*IT.NET.USER.ZS/100 > 5000000) -> df
+model <- lm(GDP~FOI, df)
+
+plot(df$FOI, df$GDP, xlab="FOI", ylab="GDP per capita")
+abline(model$coefficients[1], model$coefficients[2], col="red")
+```
+
+
+### Regression residuals
+
+Residuals ($\epsilon$) are the differences in between the empirical values $Y_i$ and their fitted values $\hat Y_i$. In the following plot you see them for the case of GDP and FOI as vertical green lines:
+
+```{r echo=F, message=F, results='hide'}
+library(dplyr)
+plot(df$FOI, df$GDP, xlab="FOI", ylab="GDP per capita")
+abline(model$coefficients[1], model$coefficients[2], col="red")
+segments(df$FOI,model$fitted.values, df$FOI,df$GDP, col="darkgreen")
+```
+
+Linear regression analyses might have some assumptions regarding residuals. For example, the standard assumptions in many research projects is that residuals have zero mean, are normally distributed with some standard deviation ($\epsilon \sim N(0,\sigma)$), and that are uncorrelated with both $X$ and $Y$. At the end of this tutorial you have ways to inspect if these assumptions are met.
+
+### Ordinary Least Squares (OLS)
+
+**Fitting** a regression model is the task of finding the values of the coefficients ($a$, $b_1$, $b_2$, etc) in a way that reduce a way to aggregate the residuals of the model. One approach is called Residual Sum of Squares (RSS), which aggregates residuals as:
+<center>
+$RSS = \sum_i (\hat Y_i - Y_i)^2$
+</center>
+
+The Ordinary Least Squares method (OLS) looks for the values of coefficients that minimize the RSS. This way, you can think about the OLS result as the line that minimizes the sum of squared lengths of the vertical lines in the figure above.
+
+
+### Goodness of fit
+
+After fitting the model, you should ask yourself how good are the predictions of the model or what is the quality of the fit. A way to measure this is to calculate the proportion of variance of the dependent variable ($V[Y]$) that is explained by the model. We can do this by comparing the variance of residuals ($V[\epsilon]$) to the variance of $Y$. If the variance of residuals is very small in comparison, we have a good fit. This is captured by the coefficient of determination, also known as $R^2$:
+<center>
+$R^2 = 1 − \frac{V[\epsilon]}{V[Y]}$
+</center>
+
+The coefficient of determination is called $R^2$ because it is a way to measure the correlation coefficient between the true values of the dependent variable $Y$ and the estimated ones $\hat Y$. 
