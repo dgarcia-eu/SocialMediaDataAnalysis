@@ -28,7 +28,10 @@ The course is organized in lecture blocks with one practical exercise for each o
 *Exercise 1: Future orientation and search*
 
 ### Block 2: Social dynamics  
-4. **Social impact theory and its application to social media**  
+4. **Social impact theory and its application to social media** -- [[Slides]](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/04_SocialImpact/Slides/Slides.html)
+    - [Handout: Social Impact Theory](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/04_SocialImpact/SIT/SIT.html)
+    - [Handout: Online Influence](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/04_SocialImpact/OnlineInfluence/OnlineInfluence.html)
+    - [Handout: Linear Regression](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/04_SocialImpact/LinearRegression/LinearRegression.html)
 5. **Social trends and the Simmel effect**  
 *Exercise 2: Testing the division of impact hypothesis in social media*
 
