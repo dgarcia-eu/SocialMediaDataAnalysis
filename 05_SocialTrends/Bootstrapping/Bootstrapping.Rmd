@@ -1,0 +1,70 @@
+---
+title: "Bootstrapping"
+author: "David Garcia"
+output: html_document
+---
+
+### What is bootstrapping?
+
+Bootstrapping is a method to understand the uncertainty of a measurement on a sample. Bootstrapping is based on resampling and repeating the measurement to have an idea of its distribution of possible values over other samples of the same size.
+
+Imagine that we want to measure the mean height of the people in a country. To have an idea of that value, we can draw a representative sample of people in the country such that it has similar fraction of people of the gender, age, ethnicity, etc as the country. We can measure the mean over that sample, but how certain are we of that measure? What other values for the mean could we expect if we produced another sample?
+
+![](Bootstrapping.png){width=70%}
+
+To perform bootstraping, we generate bootstrap samples from the original sample we had. Bootstrap samples are samples of the same size as our original sample but **with replacement**, which means that every time we sample an element, we put it back and it could be sampled again. This way we could sample some elements more than once and others maybe not even once. Then over this bootstrap sample, we measure the same metric, in our example is the mean of the height of people. Then we repeat this bootstrap sampling many times, for example 10000 times, and record the same metric on every sample. The resulting distribution of metric values gives us an idea of what would be the value of the mean if we applied it to other subsamples of the total population.
+
+When we bootstrap we are simulating the sampling process that gave us the original sample. It is a good way to understand the uncertainty of the metric if the original sample we had was representative of the total population.
+
+### Example: the mean of a variable
+
+Given the computational power we have nowadays, bootstrapping is an easy option to understand the uncertainty of a measurement. For our first example we are going to use the data from a health survey and to apply bootstrapping to the mean height in the sample.
+
+In this example, we are going to assess the uncertainty over the measurement of the mean in a survey about people's height (Height Data from National Health Interview Survey, 2007). 
+
+Some of the heights in the sample look like this (in inches):
+
+> 
+```{r echo=F, results='asis'}
+DataFrame <- read.csv("NHIS2007.csv")
+ObservedHeights <- DataFrame$height
+cat(head(ObservedHeights))
+BootSample <- sample(ObservedHeights, replace = T)
+```
+
+With the mean height over the sample being `r mean(ObservedHeights)` inches.
+
+To generate a boostrap sample we should resample once with replacement and compute the mean over the resulting sample. An example of bootstrap mean is `r mean(BootSample)` inches.
+
+You will see that this mean value is slightly different as the first one. We have simulated what would be another sample from the total population, assuming that the first sample was representative of the total population.
+
+Now we can repeat the bootstrap sample and measurement a lot of times, here we do it 10000 with a loop, saving the results in a vector. The vector will look like this:
+
+> 
+```{r echo=F, results='asis'}
+# obtaining M bootstrap samples and calculate mean value of each bootstrap sample
+M <- 10000
+r.mean <- numeric(M)
+for(i in 1:M)
+{
+  BootSample <- sample(ObservedHeights, replace = T)
+  r.mean[i] <- mean(BootSample)
+}
+cat(head(r.mean))
+```
+
+It might take a few seconds for this small sample but with larger ones, you might want to try 1000 or 5000 samples only unless you want to leave the analysis running overnight.
+
+Over the results we can now see the median, which is the point that separates 50% of the results on one side and 50% on the other. In this case the median is `r median(r.mean)` inches.
+
+This median is extremely close to the mean we calculated over the full sample. This means that our measurement was *unbiased*, but this might not always happen. It is good to compare these two values because intuition might be wrong.
+
+Now we can assess the uncertainty of the measurement by surveying the distribution of measurements over the bootstrap samples:
+```{r echo=F}
+hist(r.mean, main="", xlab="mean of bootstrap sample") # plot histogram of the measured means over the boostrap samples
+```
+
+The histogram is pretty concentrated around the median value, we can barely see any example below 69.1 or above 70. To be more precise about this we can calculate the standard deviation of this distribution or the 95% high density interval, which is the interval between the 2.5% lowest value and the 97.5% highest value. 
+
+As you see 95% of the examples fell between ```r quantile(r.mean, 0.025)``` and ```r quantile(r.mean, 0.975)```. This way we can say that we are pretty confident that the mean over the total population will be close to the value we measured over our sample.
+

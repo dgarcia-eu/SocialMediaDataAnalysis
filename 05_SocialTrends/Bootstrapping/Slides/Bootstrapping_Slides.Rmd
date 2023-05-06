@@ -1,0 +1,118 @@
+---
+title: "Bootstrapping"
+author: "David Garcia <br><br> *TU Graz*"
+date: "Foundations of Computational Social Systems"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs 
+    css: [xaringan-themer.css, "libs/footer.css"]
+    nature:
+      beforeInit: ["libs/perc.js"]
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+---
+
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+#This block contains the theme configuration for the CSS lab slides style
+library(xaringanthemer)
+library(showtext)
+style_mono_accent(
+  base_color = "#5c5c5c",
+  text_font_size = "1.5rem",
+  header_font_google = google_font("Arial"),
+  text_font_google   = google_font("Arial", "300", "300i"),
+  code_font_google   = google_font("Fira Mono")
+)
+```
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+layout: true
+
+<div class="my-footer"><span>David Garcia - Foundations of Computational Social Systems</span></div> 
+
+---
+
+# Assessing uncertainty via bootstrapping
+
+.center[<img src="Bootstrapping.png" width="600px"/>  ]
+
+Bootstrap simulates the sampling of our original data.  
+To bootstrap, we resample from our sample by generating new samples of the same size as our original sample  **with replacement**
+---
+
+# Example: the mean of a variable
+
+First, we load the data and measure the mean over our sample. We will use the height Data from National Health Interview Survey (NHIS) 2007. The first few heights in the dataset look like this (inches):
+
+```{r echo=F, results='asis'}
+DataFrame <- read.csv("NHIS2007.csv")
+ObservedHeights <- DataFrame$height
+cat(head(ObservedHeights))
+BootSample <- sample(ObservedHeights, replace = T)
+```
+
+With the mean height over the sample being `r mean(ObservedHeights)` inches.
+
+To generate a boostrap sample we should resample once with replacement and compute the mean over the resulting sample. An example of bootstrap mean is `r mean(BootSample)` inches.
+
+
+---
+
+# Running the resampling 
+
+You will see that this mean value is slightly different as the first one. We have simulated what would be another sample from the total population, assuming that the first sample was representative of the total population.
+
+Now we can repeat the bootstrap sample and measurement a lot of times, here we do it 10000 with a loop, saving the results in a vector. The vector will look like this:
+
+
+```{r echo=F, results='asis'}
+# obtaining M bootstrap samples and calculate mean value of each bootstrap sample
+M <- 10000
+r.mean <- numeric(M)
+for(i in 1:M)
+{
+  BootSample <- sample(ObservedHeights, replace = T)
+  r.mean[i] <- mean(BootSample)
+}
+cat(head(r.mean))
+```
+
+Over the results we can now see the median, which is the point that separates 50% of the results on one side and 50% on the other. In this case the median is `r median(r.mean)` inches.
+---
+
+# Uncertainty in the measure
+
+```{r echo=F, fig.height=5.2, fig.align='center'}
+hist(r.mean, main="", xlab="mean of bootstrap sample") # plot histogram of the measured means over the boostrap samples
+```
+
+- Histogram of means measured over each bootstrap sample
+- 95% of the examples fell between ```r quantile(r.mean, 0.025)``` and ```r quantile(r.mean, 0.975)```, this is called the 95% confidence interval.
+
+---
+
+# Summary of block 4
+
+- **Social Impact Theory**
+  - Modelling behavior changes due to others
+  - Theory based in three variables: strength, immediacy, and N sources
+  - Sublinear effect of number of sources: the psychosocial law
+  - Sublinear growth of influence with audience size: division of impact
+  
+  
+- **Online social influence**
+  - Spreading behavior is short-lived
+  - Memes don't spread like viruses
+  - Time, proximity, and number of exposures matter
+  
+  
+- **Bootstrapping**
+  - A method to assess the uncertainty of a statistic
+  - Resampling with replacement to simulate data generation
+  - Example with the mean and its 95% confidence interval
