@@ -32,7 +32,11 @@ The course is organized in lecture blocks with one practical exercise for each o
     - [Handout: Social Impact Theory](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/04_SocialImpact/SIT/SIT.html)
     - [Handout: Online Influence](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/04_SocialImpact/OnlineInfluence/OnlineInfluence.html)
     - [Handout: Linear Regression](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/04_SocialImpact/LinearRegression/LinearRegression.html)
-5. **Social trends and the Simmel effect**  
+5. **Social trends and the Simmel effect**   -- [[Slides]](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/05_SocialTrends/Slides/Slides.html)
+    - [Handout: The Simmel effect](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/05_SocialTrends/SimmelEffect/SimmelEffect.html)
+    - [Handout: Baby names research](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/05_SocialTrends/BabyNameTrends/BabyNameTrends.html)
+    - [Handout: Bootstrapping](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/05_SocialTrends/Bootstrapping/Bootstrapping.html)
+
 *Exercise 2: Testing the division of impact hypothesis in social media*
 
 ### Block 3: Text in social media  
