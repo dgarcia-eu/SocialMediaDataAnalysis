@@ -40,7 +40,9 @@ The course is organized in lecture blocks with one practical exercise for each o
 *Exercise 2: Testing the division of impact hypothesis in social media*
 
 ### Block 3: Text in social media  
-6. **Dictionary methods in social media data analysis**  
+6. **Dictionary methods in social media data analysis** -- [[Slides]](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/06_DictionaryMethods/Slides/DictionaryMethods.html)
+    - [Handout: Dictionary methods and sentiment analysis](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/06_DictionaryMethods/DictionaryMethods/DictionaryMethods.html)
+    - [Handout: Measurement of emotions](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/06_DictionaryMethods/MeasuringEmotions/Emotions.html)  
 7. **Supervised social media text analysis**  
 8. **The measurement of meaning in social media**  
 *Exercise 3: Validating sentiment analysis for social media text*
