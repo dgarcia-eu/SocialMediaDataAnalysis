@@ -43,7 +43,9 @@ The course is organized in lecture blocks with one practical exercise for each o
 6. **Dictionary methods in social media data analysis** -- [[Slides]](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/06_DictionaryMethods/Slides/DictionaryMethods.html)
     - [Handout: Dictionary methods and sentiment analysis](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/06_DictionaryMethods/DictionaryMethods/DictionaryMethods.html)
     - [Handout: Measurement of emotions](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/06_DictionaryMethods/MeasuringEmotions/Emotions.html)  
-7. **Supervised social media text analysis**  
+7. **Supervised social media text analysis**  -- [[Slides]](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/07_SupervisedMethods/Slides/Slides.html)  
+    - [Handout: Emotions in pagers after 9/11](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/07_SupervisedMethods/PagerEmotions/PagerEmotions.html)
+    - [Handout: Supervised methods](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/07_SupervisedMethods/SupervisedMethods/SupervisedSentimentAnalysis.html)  
 8. **The measurement of meaning in social media**  
 *Exercise 3: Validating sentiment analysis for social media text*
 
