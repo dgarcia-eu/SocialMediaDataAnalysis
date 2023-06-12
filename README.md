@@ -46,7 +46,11 @@ The course is organized in lecture blocks with one practical exercise for each o
 7. **Supervised social media text analysis**  -- [[Slides]](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/07_SupervisedMethods/Slides/Slides.html)  
     - [Handout: Emotions in pagers after 9/11](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/07_SupervisedMethods/PagerEmotions/PagerEmotions.html)
     - [Handout: Supervised methods](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/07_SupervisedMethods/SupervisedMethods/SupervisedSentimentAnalysis.html)  
-8. **The measurement of meaning in social media**  
+8. **The measurement of meaning in social media**  -- [[Slides]](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/08_MeasurementOfMeaning/Slides/Slides.html)    
+    - [Handout: The semantic differential](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/08_MeasurementOfMeaning/SemanticDifferential/SemanticDifferential.html)
+    - [Recommended reading: Speech and Language Processing. Chapter 6: Vector Semantics and Embeddings. Daniel Jurafsky & James H. Martin. (2023)](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
+    - [Recommended reading: LEIA: Linguistic Embeddings for the Identification of Affect (2023)](https://arxiv.org/pdf/2304.10973v1.pdf)
+    
 *Exercise 3: Validating sentiment analysis for social media text*
 
 ### Block 4: Networks in social media  
