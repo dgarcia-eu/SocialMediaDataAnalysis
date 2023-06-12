@@ -245,6 +245,12 @@ $$ argmax_{\mu_w} = \frac{exp(\mu_w \cdot \vec{v})}{\sum_j exp(\mu_j \cdot \vec{
 where $\vec{v}$ is the mean vector for the words in the context and $j$ iterates over the words in the language
 
 ---
+
+layout: true
+
+<div class="my-footer"><span>David Garcia - Social Media Data Analysis</span></div> 
+
+---
 .pull-left[
 # ML Warning
 
@@ -306,5 +312,88 @@ You don't need to fit your own word embeddings model, several alternatives exist
 
 ## *3. Language models*
 
-
+---
+```{r, echo=F}
+magick::image_read_pdf("Session08-part2-LM-LEIA.pdf", pages = 1)
+```
+---
+```{r, echo=F}
+magick::image_read_pdf("Session08-part2-LM-LEIA.pdf", pages = 2)
+```
+---
+```{r, echo=F}
+magick::image_read_pdf("Session08-part2-LM-LEIA.pdf", pages = 3)
+```
+---
+```{r, echo=F}
+magick::image_read_pdf("Session08-part2-LM-LEIA.pdf", pages = 4)
+```
+---
+```{r, echo=F}
+magick::image_read_pdf("Session08-part2-LM-LEIA.pdf", pages = 5)
+```
+---
+```{r, echo=F}
+magick::image_read_pdf("Session08-part2-LM-LEIA.pdf", pages = 6)
+```
+---
+```{r, echo=F}
+magick::image_read_pdf("Session08-part2-LM-LEIA.pdf", pages = 7)
+```
+---
+```{r, echo=F}
+magick::image_read_pdf("Session08-part2-LM-LEIA.pdf", pages = 8)
+```
+---
+```{r, echo=F}
+magick::image_read_pdf("Session08-part2-LM-LEIA.pdf", pages = 9)
+```
+---
+```{r, echo=F}
+magick::image_read_pdf("Session08-part2-LM-LEIA.pdf", pages = 10)
+```
+---
+```{r, echo=F}
+magick::image_read_pdf("Session08-part2-LM-LEIA.pdf", pages = 11)
+```
+---
+```{r, echo=F}
+magick::image_read_pdf("Session08-part2-LM-LEIA.pdf", pages = 12)
+```
+---
+```{r, echo=F}
+magick::image_read_pdf("Session08-part2-LM-LEIA.pdf", pages = 13)
+```
+---
+```{r, echo=F}
+magick::image_read_pdf("Session08-part2-LM-LEIA.pdf", pages = 14)
+```
+---
+```{r, echo=F}
+magick::image_read_pdf("Session08-part2-LM-LEIA.pdf", pages = 15)
+```
+---
+```{r, echo=F}
+magick::image_read_pdf("Session08-part2-LM-LEIA.pdf", pages = 16)
+```
+---
+```{r, echo=F}
+magick::image_read_pdf("Session08-part2-LM-LEIA.pdf", pages = 17)
+```
+---
+```{r, echo=F}
+magick::image_read_pdf("Session08-part2-LM-LEIA.pdf", pages = 18)
+```
+---
+```{r, echo=F}
+magick::image_read_pdf("Session08-part2-LM-LEIA.pdf", pages = 19)
+```
+---
+```{r, echo=F}
+magick::image_read_pdf("Session08-part2-LM-LEIA.pdf", pages = 20)
+```
+---
+```{r, echo=F}
+magick::image_read_pdf("Session08-part2-LM-LEIA.pdf", pages = 21)
+```
 
