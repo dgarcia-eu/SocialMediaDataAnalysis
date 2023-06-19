@@ -17,7 +17,8 @@ I am the Professor for Social and Behavioral Data Science at the University of K
 The course is organized in lecture blocks with one practical exercise for each one. In the exercises you will apply part of what you have learned in the block. In exercises, you collect your own data to answer research questions. 
 
 ### Block 1: Introduction
-1. **Introduction to social media data analysis within social data science** -- [[Slides]](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/01_Introduction/Slides/Slides.html) -- [[Handout]](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/01_Introduction/SocialDataScience/SocialDataScience.html)
+1. **Introduction to social media data analysis within social data science** -- [[Slides]](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/01_Introduction/Slides/Slides.html)  
+    - [Handout: Social media data analysis and social data science](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/01_Introduction/SocialDataScience/SocialDataScience.html)
 2. **Algorithms and digital traces: The case of Google trends** -- [[Slides]](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/02_SearchData/Slides/Slides.html)
     - [Handout: Google trends and temporal orientation](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/02_SearchData/TemporalOrientation/TemporalOrientationGtrends.html)
     - [Handout: Google flu trends](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/02_SearchData/GoogleFluTrends/GoogleFluTrends.html)
@@ -54,8 +55,10 @@ The course is organized in lecture blocks with one practical exercise for each o
 *Exercise 3: Validating sentiment analysis for social media text*
 
 ### Block 4: Networks in social media  
-9. **Introduction to social networks and the friendship paradox**  
-10. **Centrality measures in online social networks**  
+9. **Introduction to social networks and the friendship paradox**  -- [[Slides]](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/09_IntroSocialNetworks/Slides/Slides.html)  
+    - [Handout: Social network concepts](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/09_IntroSocialNetworks/SNAIntro/SNAIntro.html)
+    - [Handout: The friendship paradox](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/09_IntroSocialNetworks/FriendshipParadox/FriendshipParadox.html)
+ 10. **Centrality measures in online social networks**  
 11. **Communities and assortativity in social media**  
 *Exercise 4: Political assortativity on Twitter*
 
@@ -70,4 +73,4 @@ The course is organized in lecture blocks with one practical exercise for each o
 
 Participants need to be familiar with programming in Python (e.g. having passed Introduction to Computation for the Social Sciences). 
 
-The course grade is composed of the grade of four assignments delivered during the semester (40%) and a final written exam (60%).
+The course grade is composed of the grade of four assignments delivered during the semester (40%) and a final project (60%). [For more information on projects and reports, see slides of session 09.]( https://dgarcia-eu.github.io/SocialMediaDataAnalysis/09_IntroSocialNetworks/Slides/Slides.html)
