@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+  <head>
+    <title>Introduction to social networks and the friendship paradox</title>
+    <meta charset="utf-8" />
+    <meta name="author" content="David Garcia    University of Konstanz" />
+    <script src="libs/header-attrs/header-attrs.js"></script>
+    <link rel="stylesheet" href="xaringan-themer.css" type="text/css" />
+    <link rel="stylesheet" href="libs/footer.css" type="text/css" />
+  </head>
+  <body>
+    <textarea id="source">
+class: center, middle, inverse, title-slide
+
+.title[
+# Introduction to social networks and the friendship paradox
+]
+.author[
+### David Garcia <br><br> <em>University of Konstanz</em>
+]
+.date[
+### Social Media Data Analysis
+]
+
+---
+
+
+
+
+
+
+
+layout: true
+
+&lt;div class="my-footer"&gt;&lt;span&gt;David Garcia - Social Media Data Analysis&lt;/span&gt;&lt;/div&gt; 
+
+---
+
+# So Far
+
+- Search behavior and future orientation
+
+- Social trends: the Simmel effect
+
+- Social Impact Theory
+
+- Text and Sentiment Analysis
+  - Theoretical basis: measuring emotions and the semantic differential
+  - Unsupervised methods based on dictionaries
+  - Supervised methods
+  - Applications and evaluation
+
+---
+
+# What comes next
+
+### Today: social network basics and the friendship paradox
+
+### 27.06: centrality measures and social resilience
+  
+### 4.07: assortativity and communities, permutation tests
+  
+### 11.07: social issues: polarization, misinformation, representation
+
+### 18.07: No Lecture 
+Week 24.07-28.07: available for consultations about projects (online and office)
+
+---
+
+# Exam registrations
+
+- Exam registrations are available in Zeus
+
+- **If you take the full course, you have to register to both the exam for the tutorial and the lecture in Zeus**
+
+- **If you have any problems doing this, talk to Katharina Arendt: seds.admin@uni-konstanz.de**
+
+- If anything goes wrong, Katharina can fix it later with the exam and Zeus admins
+  - But try to register!
+
+---
+
+# Course feedback
+.pull-left[![](QR-SMDA.png)]
+.pull-right[
+
+- Course feedback form available online
+
+- Deadline: 09.07.2023 18:00:00
+
+- Another form for tutorials
+
+- Your feedback is greatly appreciated!
+
+]
+---
+
+
+# Outline
+
+## 1. Projects guide
+
+## 2. Basics of social networks
+
+## 3. The friendship paradox
+---
+
+
+# Evaluation as final projects
+
+- **Course grading mode is changed to project-based evaluation**
+
+- Grade is still 40% exercises, 60% project work
+
+- Project grade is solely based on final project report
+
+- **Project concept: Illustrating what you have learned during the course**
+  - No need to cover all methods in the course, but at least some
+  - Need to reflect on how project relates to content of the lectures: theories, limitations, examples from research, etc
+  - Methodological standards comparable to the course, e.g. bootstrapping, permutation tests, visualization quality, etc
+  
+
+---
+
+# Three project paths
+
+- A) **Replicating a previous paper**
+  - Starting from a research article, collect your own dataset to address the same research question
+  - No need to cover the full paper - consider course size
+
+
+- B) **Reproducing a previous paper**
+  - Starting from the data shared by the authors of a paper, code your analysis
+  - More analysis expected than on replication path
+
+
+- C) **Proposing your own idea**
+  - Be careful about data availability, formulation of research questions, measurement validity...
+  - A more exciting path but also one that can be harder
+
+None of these paths has a higher expected grade, they are all equally valid.
+
+---
+# Project report structure
+
+1. **Motivation:** What question(s) do you seek to answer and why?
+
+2. **Background:** Who has worked on this before? How does this project relate to the content covered in the lectures and tutorials?
+
+3. **Data:** Describe the data and any resources used to collect it. Explain how you filtered data, normalized values, computed additional variables, etc.
+
+4. **Methods:** Detail the data analysis and statistical methods. Justify your choice.
+
+5. **Results:** Show the results of statistical analyses and visualizations that assess the question(s).
+
+6. **Discussion:** Evaluate answers to the question and their reliability. Assess limitations and critique. Relate to results from other work or replicated paper
+
+
+---
+
+# Papers to reproduce or replicate
+
+.center[![:scale 65%](Doc.png)]
+https://docs.google.com/document/d/1gXuypHfjZ5mrWQhYuwvMJ6oqW84l8lehJ9SIGGmXYfQ/
+.center[**Start reading soon and assess how and what you can do!**]
+
+---
+# Projects Timeline
+
+- by 23.07 (**mandatory**): Writing a post on Ilias forum with:
+  - the paper to replicate or research question you want to address
+  - data sources you will use
+  - analysis plan including methods
+- between now and 28.07: getting feedback from me on project topics and approaches. Possible over Discord, Ilias, or in person.
+- week of 24-28.07 last week in person - consulation hours by request
+- I will provide final feedback on Ilias until 28.07. Questions are also welcome before that date - **prepare your project by the end of July**
+- **Submission deadline: 24.09**
+  - Submit as a pdf (only) file via email: david.garcia@uni-konstanz.de
+  - Include link to github repository (or invitation if private) with the code of your analysis. Include data if possible too.
+- **Questions?**
+---
+
+# Basics of social networks
+
+## 1. Projects guide
+
+## *2. Basics of social networks*
+
+## 3. The friendship paradox
+
+---
+
+# Social networks
+&lt;div style="float:right"&gt;
+&lt;img src="MorenoNetwork.png" alt="Jacob Moreno network." width=450px/&gt;  
+&lt;/br&gt;
+Jacob Moreno's sociogram
+&lt;/div&gt;
+
+Social Networks are models to represent individuals and the relationships between them. The minimal components of a social network are:  
+
+- **Nodes** (or vertices), which represent individuals. These individuals are social actors, for example humans, animals, fictional characters...
+- **Links** (or edges) are relationships between individuals, for example friendship, family ties, interaction, communication...
+
+---
+
+# Representing social networks
+&lt;div style="float:right"&gt;
+&lt;img src="networkDirected.png" alt="Social network example." width=400px/&gt;  
+&lt;/div&gt;
+A graph or network is a tuple `\(G = (V, E)\)`  
+  - V is a set of vertices or nodes  
+  - E ⊆ V × V is a set of edges or links  
+  - V × V is the Cartesian product (i.e. the set of all possible links)  
+
+Edges are denoted as ordered pairs `\((i, j)\)`, which means that a link points from node `\(i\)` to node `\(j\)`. 
+
+The example of the picture can be written as:  
+`\(V = {a, b, c, d, e}\)`  
+`\(E = {(b, a),(c, a),(e, a),(d, e),(c, b),(b, c)}\)`
+
+---
+
+# Adjacency matrix
+&lt;div style="float:right"&gt;
+&lt;img src="networkDirected.png" alt="Social network example." width=400px/&gt;  
+&lt;/div&gt;
+
+The above list is what is called an *edge list*, but there are other ways to represent a network. A common one is to use an **adjacency matrix** `\(\mathbf{A}\)` with 1 in the entries of nodes connected by an edge and 0 otherwise. 
+
+|a|b|c|d|e
+--|--|--|--|--
+a|0|0|0|0|0
+b|1|0|1|0|0
+c|1|1|0|0|0
+d|0|0|0|0|1
+e|1|0|0|0|0
+---
+
+# Undirected networks
+&lt;div style="float:right"&gt;
+&lt;img src="networkUndirected.png" alt="Social network example." width=400px/&gt;  
+&lt;/div&gt;
+
+Networks might be **undirected** if a link between two nodes is always reciprocal.  
+
+Their adjacency matrices satisfy the condition `\(A_{ij}=A_{ji}\)`. 
+
+An example of an undirected network is the network of friendships on Facebook.
+
+---
+
+# Mulit-edge networks
+
+&lt;div style="float:right"&gt;
+&lt;img src="networkPhonecalls.png" alt="Social network example." width=400px/&gt;  
+&lt;/div&gt;
+
+In a **multi-edge network**, multiple links are allowed from one node to another. Multi-edge networks can be both directed and undirected. 
+
+The adjacency matrix of multi-edge networks is not well-defined, as each entry of the matrix would have to contain more than just a number.
+
+A common example is a network of phone calls between people, where edges can be differentiated by the timestamp when the call was initiated. 
+
+---
+
+# Weighted networks
+
+&lt;div style="float:right"&gt;
+&lt;img src="networkWeighted.png" alt="Social network example." width=400px/&gt;  
+&lt;/div&gt;
+
+The nodes of a network can have weights associated to them, then we talk about a **weighted network**. 
+
+The weighting function `\(w\)` maps links to weights:  `\(w:E \rightarrow \mathbb{R}\)`. 
+
+Weighted networks can be represented by adjacency matrices with real values in their entries that correspond to the link weights: `\(A_{ij}= w(i, j)\)`.
+ 
+---
+
+# Paths and cycles
+
+&lt;div style="float:right"&gt;
+&lt;img src="pathsExample.png" alt="Social network example." width=400px/&gt;  
+&lt;/div&gt;
+
+One of the most important concepts in a network is that of a **path**. A path is defined as a sequence of nodes, where any pair of consecutive nodes is connected by a link.
+
+A **cycle** is a path starting and ending in the same node. A **triangle** is a cycle of length 3, in the example the nodes `\(a\)`, `\(b\)` and `\(c\)` form a triangle.
+
+---
+
+# Self-loops
+
+&lt;div style="float:right"&gt;
+&lt;img src="networkSelfLoops.png" alt="Social network example." width=400px/&gt;  
+&lt;/div&gt;
+
+Some networks might contain **self-loops**, which are links that start and end in the same node, i.e. they have the form `\((i,i)\)`. 
+
+Self-loops appear as ones in the diagonal of the adjacency matrix. 
+
+Self-loops are rare in social networks. They can appear in some communication networks, for example when a Twitter user retweets their own tweet or sends an email to themselves.
+---
+
+# Connected components
+
+&lt;div style="float:right"&gt;
+&lt;img src="networkConnectedComponents.png" alt="Social network example." width=400px/&gt;  
+&lt;/div&gt;
+
+A network is **connected** if, for each pair of nodes in the network, there is at least one path connecting them. 
+
+If a network is not connected, it can be divided in **connected components**, which are maximally connected subgraphs. The example is not a connected network, as it has two connected components.
+
+---
+
+# Distance
+
+&lt;div style="float:right"&gt;
+&lt;img src="networkUndirected.png" alt="Social network example." width=400px/&gt;  
+&lt;/div&gt;
+
+The **distance** between nodes `\(v\)` and `\(w\)` is denoted as `\(dist(v,w)\)` and measures the minimum length among all the paths connecting `\(v\)` and `\(w\)`. 
+
+If there is no path between `\(v\)` and `\(w\)`, the distance between them is defined as `\(dist(v,w) := \infty\)`. 
+
+Example: `\(dist(b, e) = 2\)` 
+
+In directed networks, it might happen that `\(dist(v,w) \neq dist(w,v)\)`. 
+
+**proximity:** `\(prox(v,w)=\frac{1}{dist(v,w)}\)`. 
+
+---
+
+# Node degree
+
+&lt;div style="float:right"&gt;
+&lt;img src="networkDirected.png" alt="Network example." width=400px/&gt;  
+&lt;/div&gt;
+
+A node's **degree centrality** measures the number of links connected to it. 
+
+In directed networks:
+- **in-degree** `\(d_{in}(i)\)` that is the number of edges ending in `\(i\)`, i.e. `\((j,i)\)` 
+- **out-degree** `\(d_{out}(i)\)` that is the number of edges leaving from `\(i\)`, i.e. `\((i,j)\)`
+
+`\(d_{in}(c) = 1\)` and `\(d_{out}(c) = 2\)`
+
+If importance on Twitter is the number of followers of an account, in-degree centrality is a way to measure it.
+---
+
+# The friendship paradox
+
+## 1. Projects guide
+
+## 2. Basics of social networks
+
+## *3. The friendship paradox*
+
+
+---
+
+# Friendship and social comparison
+
+&lt;div style="float:right"&gt;
+&lt;img src="friendshipHighSchool.png" alt="class size paradox." width=600px/&gt;  
+&lt;/div&gt;
+
+- **five** girls have fewer friends than the average of their friends (Betty, Jane, Pam, Dale, Tina), two have more friends  
+- **two** have more friends than the average of their friends (Sue and Alice)  
+- **one** has as many friends as the average of her friends (Carol)  
+
+Most girls will think that they have less friends than the norm! If we average all numbers, the average number of friends is **2.5** and the average number of friends of friends is **2.99**. 
+
+---
+
+# The Friendship paradox
+
+&gt; **The Friendship Paradox**:
+The fact that most people have less friends than the average number of friends of their friends
+
+.center[![:scale 80%](FBfriends.png)]  
+
+---
+
+# The class size paradox
+
+.center[![:scale 58%](classSizeParadox.png)]
+
+---
+
+# Random sampling
+
+.center[![:scale 100%](Sampling.PNG)]
+
+---
+
+# Stratified sampling 
+
+.center[![:scale 55%](StratifiedSampling.PNG)]
+
+---
+
+# Self-selection bias
+
+.center[![:scale 80%](Jshape.png)]
+
+---
+
+# Summary 
+
+- **Projects guide**
+  - Start looking into papers or thinking ideas soon!
+  - Ask for feedback but do it before the end of July
+
+
+- **Introduction to Social Networks**
+  - Basic terminology: nodes, edges, directed networks, weights
+  - Concepts: paths, distance, self-loops, connected components
+
+  
+- **The Friendship Paradox**
+  - Most people have less friends than the average number of friends of their friends
+  - Generated by sampling bias in social networks
+  
+    </textarea>
+<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script src="libs/perc.js"></script>
+<script>var slideshow = remark.create({
+"highlightStyle": "github",
+"highlightLines": true,
+"countIncrementalSlides": false,
+"ratio": "16:9"
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function(d) {
+  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})(document);
+
+(function(d) {
+  var el = d.getElementsByClassName("remark-slides-area");
+  if (!el) return;
+  var slide, slides = slideshow.getSlides(), els = el[0].children;
+  for (var i = 1; i < slides.length; i++) {
+    slide = slides[i];
+    if (slide.properties.continued === "true" || slide.properties.count === "false") {
+      els[i - 1].className += ' has-continuation';
+    }
+  }
+  var s = d.createElement("style");
+  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
+  d.head.appendChild(s);
+})(document);
+// delete the temporary CSS (for displaying all slides initially) when the user
+// starts to view slides
+(function() {
+  var deleted = false;
+  slideshow.on('beforeShowSlide', function(slide) {
+    if (deleted) return;
+    var sheets = document.styleSheets, node;
+    for (var i = 0; i < sheets.length; i++) {
+      node = sheets[i].ownerNode;
+      if (node.dataset["target"] !== "print-only") continue;
+      node.parentNode.removeChild(node);
+    }
+    deleted = true;
+  });
+})();
+// add `data-at-shortcutkeys` attribute to <body> to resolve conflicts with JAWS
+// screen reader (see PR #262)
+(function(d) {
+  let res = {};
+  d.querySelectorAll('.remark-help-content table tr').forEach(tr => {
+    const t = tr.querySelector('td:nth-child(2)').innerText;
+    tr.querySelectorAll('td:first-child .key').forEach(key => {
+      const k = key.innerText;
+      if (/^[a-z]$/.test(k)) res[k] = t;  // must be a single letter (key)
+    });
+  });
+  d.body.setAttribute('data-at-shortcutkeys', JSON.stringify(res));
+})(document);
+(function() {
+  "use strict"
+  // Replace <script> tags in slides area to make them executable
+  var scripts = document.querySelectorAll(
+    '.remark-slides-area .remark-slide-container script'
+  );
+  if (!scripts.length) return;
+  for (var i = 0; i < scripts.length; i++) {
+    var s = document.createElement('script');
+    var code = document.createTextNode(scripts[i].textContent);
+    s.appendChild(code);
+    var scriptAttrs = scripts[i].attributes;
+    for (var j = 0; j < scriptAttrs.length; j++) {
+      s.setAttribute(scriptAttrs[j].name, scriptAttrs[j].value);
+    }
+    scripts[i].parentElement.replaceChild(s, scripts[i]);
+  }
+})();
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+// adds .remark-code-has-line-highlighted class to <pre> parent elements
+// of code chunks containing highlighted lines with class .remark-code-line-highlighted
+(function(d) {
+  const hlines = d.querySelectorAll('.remark-code-line-highlighted');
+  const preParents = [];
+  const findPreParent = function(line, p = 0) {
+    if (p > 1) return null; // traverse up no further than grandparent
+    const el = line.parentElement;
+    return el.tagName === "PRE" ? el : findPreParent(el, ++p);
+  };
+
+  for (let line of hlines) {
+    let pre = findPreParent(line);
+    if (pre && !preParents.includes(pre)) preParents.push(pre);
+  }
+  preParents.forEach(p => p.classList.add("remark-code-has-line-highlighted"));
+})(document);</script>
+
+<script>
+slideshow._releaseMath = function(el) {
+  var i, text, code, codes = el.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+};
+slideshow._releaseMath(document);
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>
