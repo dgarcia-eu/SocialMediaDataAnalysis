@@ -58,6 +58,7 @@ The course is organized in lecture blocks with one practical exercise for each o
 9. **Introduction to social networks and the friendship paradox**  -- [[Slides]](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/09_IntroSocialNetworks/Slides/Slides.html)  
     - [Handout: Social network concepts](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/09_IntroSocialNetworks/SNAIntro/SNAIntro.html)
     - [Handout: The friendship paradox](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/09_IntroSocialNetworks/FriendshipParadox/FriendshipParadox.html)
+    - [Reading: The Structure of Political Discussion Networks: A Model for the Analysis of Online Deliberation. Gonzalez-Bailon et al (2010)](https://journals.sagepub.com/doi/abs/10.1057/jit.2010.2?journalCode=jina)
  10. **Centrality measures in online social networks**  
 11. **Communities and assortativity in social media**  
 *Exercise 4: Political assortativity on Twitter*
