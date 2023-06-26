@@ -1,0 +1,491 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+  <head>
+    <title>Centrality measures in online social networks</title>
+    <meta charset="utf-8" />
+    <meta name="author" content="David Garcia, University of Konstanz" />
+    <script src="libs/header-attrs/header-attrs.js"></script>
+    <link rel="stylesheet" href="xaringan-themer.css" type="text/css" />
+    <link rel="stylesheet" href="libs/footer.css" type="text/css" />
+  </head>
+  <body>
+    <textarea id="source">
+class: center, middle, inverse, title-slide
+
+.title[
+# Centrality measures in online social networks
+]
+.author[
+### David Garcia, University of Konstanz
+]
+.date[
+### Social Media Data Analysis
+]
+
+---
+
+
+
+
+
+
+layout: true
+
+&lt;div class="my-footer"&gt;&lt;span&gt;David Garcia - Social Media Data Analysis&lt;/span&gt;&lt;/div&gt; 
+
+---
+
+# Overview
+
+
+## 1. Centrality and importance in social networks
+## 2. The death of social networks
+## 3. Coreness centrality and social resilience
+
+---
+
+
+
+
+# The concept of centrality
+
+Social network analysis can be used to measure the importance of a person as a function of the social structure of a community or organization. 
+
+In social networks, **centrality** measures this kind of structural importance of the node of a person. There are various centrality measures that stem from different kinds of structural importance. 
+
+Today you will learn about four centrality measures:
+
+1. Degree centrality
+2. Betweenness centrality
+3. Closeness centrality
+4. Coreness centrality
+
+---
+
+# Degree centrality
+
+&lt;div style="float:right"&gt;
+&lt;img src="networkDirected.png" alt="Network example." width=400px/&gt;  
+&lt;/div&gt;
+
+A node's **degree centrality** measures the number of links connected to it. 
+
+In directed networks:
+- **in-degree** `\(d_{in}(i)\)` that is the number of edges ending in `\(i\)`, i.e. `\((j,i)\)` 
+- **out-degree** `\(d_{out}(i)\)` that is the number of edges leaving from `\(i\)`, i.e. `\((i,j)\)`
+
+`\(d_{in}(c) = 1\)` and `\(d_{out}(c) = 2\)`
+
+If importance on Twitter is the number of followers of an account, in-degree centrality is a way to measure it.
+---
+
+# Betweenness Centrality
+
+&lt;div style="float:right"&gt;
+&lt;img src="undirNetworkBtw.png" alt="Network betweenness example." width=400px/&gt;  
+&lt;/div&gt;
+
+Sometimes the importance of a person is quantified as the number of shortest paths between two other people that pass through this person. In this case, **betweenness** centrality measures importance:
+`$$C_B(i) = \sum_{s \neq i, t \neq i} n_i(s,t)$$`
+
+Where `\(n_i(s,t)\)` is the number of shortest paths from `\(s\)` to `\(t\)` that pass through `\(i\)`.
+
+Example: `\(C_B(b) = 16\)`
+
+---
+
+# Closeness Centrality
+
+&lt;div style="float:right"&gt;
+&lt;img src="undirNetworkBtw.png" alt="Network betweenness example." width=400px/&gt;  
+&lt;/div&gt;
+
+Sometimes the most important people in a group are the ones that can reach everyone with the least effort. In these cases, **closeness** centrality measures importance as:
+`$$C_C(i) = \frac{n-1}{\sum_{j\neq i} dist(i,j)}$$`
+Where `\(dist(i, j)\)` is the distance from `\(i\)` to `\(j\)` and `\(n\)` is the number of nodes in the network. 
+
+Example: `\(C_C(d)=0.75\)`
+
+---
+
+
+## Neocortex Size as a limit to degree centrality
+
+![:scale 47%](Neocortex.png)![:scale 53%](Dunbar.png)
+
+---
+
+
+## Dunbar's number in Online Social Networks
+
+.center[![:scale 90%](DunbarB.jpeg)]
+
+
+---
+
+
+# Dunbar's number on Twitter
+
+.center[![:scale 52%](Dunbar2.png)]
+
+  
+
+---
+
+# The death of social networks
+
+## 1. Centrality and importance in social networks
+## **2. The death of social networks**
+## 3. Coreness centrality and social resilience
+
+---
+# Why do online social networks collapse?
+&gt; **Social Resilience:** The ability of a community to withstand external stresses, disturbances, and environmental changes
+
+.center[![:scale 55%](Figures/FriendsterLogin.jpg)]
+[Friendster Was the Best Social Media Site, Ever. Yudhistira Agato, Vice (2017)](https://www.vice.com/en/article/ezjqzn/friendster-was-the-best-social-media-site-ever-1)
+---
+# The rise and fall of Friendster
+
+**Friendster** went from 80 Million active users to disappear completely.
+
+![](Figures/FriendsterGT.png)
+---
+
+# The rise and fall of MySpace
+
+**MySpace** went from being valued more than 12 Billion USD in 2008 to be bought by [Justin Timberlake for 35 Million USD](https://www.theguardian.com/technology/2011/jun/30/myspace-internet). 
+
+![](Figures/MySpaceGT.png)
+
+
+---
+
+# The rise and fall of Orkut
+
+**Orkut** was the first attempt of Google to launch an online social network. It was very popular in some countries but lost users to Facebook and it was eventually taken offline.
+
+![](Figures/OrkutGT.png)
+
+---
+
+# Coreness centrality and social resilience
+## 1. Centrality and importance in social networks
+## 2. The death of social networks
+## **3. Coreness centrality and social resilience**
+
+---
+
+# Modelling social resilience online
+
+Social resilience can be modelled as a process of how users stay active or inactive in a social networking site. 
+
+If we consider social network users as rational, they will respond to incentives to stay active or to abandon social networks depending on **benefits and costs**.
+
+**Benefits** can be quantified through the content users receive from their friends (shares, comments) and through the attention and support given by their friends (likes, votes).
+
+A simple way to model monotonic benefits is proportionally to the active friends of a user `\(k_u\)`:
+
+`$$benefit_u = b * k_u$$`
+---
+
+# Costs of using an online social network
+
+&lt;div style="float:right"&gt;
+&lt;img src="Figures/user3.jpg" alt="table flip." width=300pt/&gt;
+&lt;/div&gt;
+**Costs:** Using social network is not only benefits, there are also costs associated with being active.   
+--
+
+For example:
+- Time spent to learn to use the interface of the platform  
+- Risks of disclosing personal information  
+- Opportunity costs: you could be doing something else  
+- Economic costs, for example membership fees.
+
+A common assumption about costs is that they are relatively similar for all users, thus modeling them as a constant `\(c\)`. Then, a user will become inactive when the total benefits are below the cost:
+
+$$ b *k_u &lt; c $$
+
+---
+.center[![:scale 60%](Figures/N1.png)]
+---
+.center[![:scale 60%](Figures/cascade.gif)]
+---
+.center[![:scale 60%](Figures/N15.png)]
+---
+
+# Iterative removal by degree
+
+.center[![:scale 75%](Figures/CascadeComparison.png)]
+
+
+---
+# The k-core decomposition
+
+The graph remaining after the cascade above is what is called a k-core
+
+&gt; **k-core**: A k-core of a graph `\(G\)` is a maximal connected subgraph of `\(G\)` in which all vertices have degree at least k.
+
+For any network, you can calculate its k-core decomposition as follows:  
+
+- Start with `\(k_s=1\)`  
+- Remove all nodes with degree less than or equal to `\(k_s\)` and their links  
+- Repeat until all nodes have degree larger than `\(k_s\)`  
+- Increase `\(k_s\)` by one and repeat until no nodes are left
+
+The nodes and the edges removed for certain of `\(k_s=k\)` is called the **k-shell**.  
+A **k-core** is the set of all k-shells with `\(k_s \geq k\)`.
+
+---
+
+# Coreness centrality
+
+.center[![:scale 27%](Figures/kcore_total.png)![:scale 72%](Figures/kcore_shells.png)]
+
+The k-shell number of a node is also called **coreness centrality**.
+
+
+Figure from [Kitsak et al. Identification of influential spreaders in complex networks. Nature Physics (2010)](https://www.nature.com/articles/nphys1746) 
+---
+
+# Coreness and social resilience
+
+The cost to benefit ratio `\(c/b\)` defines a critical value of the degree `\(K\)`, below which users with degree `\(k_u&lt;K\)` will leave the social network. The remaining active social network is the k-core corresponding to `\(K\)`. The **cumulative density function** of coreness values in the network serves as a **resilience function**:
+
+.center[![](Figures/resilience.png)]
+
+---
+
+# Backtesting with Friendster's collapse
+
+.center[![:scale 70%](Figures/FriendsterPred1.png)]
+Constantly decreasing `\(k_s\)` in simple k-core model. Inset: fraction of nodes with coreness below the median over the lifetime of Friendster.
+
+---
+
+# Predicting Facebook's collapse
+
+.pull-left[![:scale 90%](Figures/facebookQueries.png)]
+.pull-right[
+
+- Cannarella and Spechler, 2014
+
+- Epidemics model applied to the decay of online social networks
+
+- Google trends to measure the number of active Facebook users
+
+- Extrapolation predicted that Facebook would lose 80% of its users by 2017
+
+]
+
+
+[Epidemiological modeling of online social network dynamics. John Cannarella, Joshua A. Spechler. Arxiv preprint (2014)](https://arxiv.org/pdf/1401.4208v1.pdf)
+
+
+---
+
+# Stretching the Google trends method
+
+Data scientists at Facebook [replied to the Arxiv paper](https://www.facebook.com/notes/mike-develin/debunking-princeton/10151947421191849/) showing the problem with measuring social network use levels using Google Trends data. Applying the same methodology, Facebook researchers reached the conclusion that Princeton would lose 80% of its students by 2021:
+
+![](Figures/princetonQueries.png)
+
+---
+
+# Stretching the Google trends method
+
+You can even apply it to air and come to the conclusion that the atmosphere will run out of air by 2060:
+
+![](Figures/airQueries.png)
+
+---
+
+# Google trends for Facebook
+
+The Facebook examples show that decrease in search volume is a decrease in information searching about the social network, not a decrease in access and use.
+
+![](Figures/FacebookGT.png)
+
+
+---
+
+# Google trends for Twitter
+
+Twitter is not living a second growth, in fact it's growth has been rather slow to stagnant for a few years, even though it appears it is gaining users after Trump's permanent suspension.
+
+![](Figures/TwittterGT.png)
+
+
+---
+
+# Temporal validity issues
+
+&lt;/br&gt;
+A more accurate way to measure activity in a social network is Bruno Ribeiro's [approach using Alexa data](https://dl.acm.org/doi/abs/10.1145/2566486.2567984), but Alexa focuses on website visits without considering access through mobile apps. 
+
+
+&lt;/br&gt;
+Measurement is always an important issue in Computational Social Systems, and just because a paper used a measurement method few years ago, it does not mean it is valid today.
+
+&lt;/br&gt;
+&gt; **Take home message:** Your measures based on today's digital traces might not work on tomorrow's
+
+---
+
+# Summary
+
+- Measuring importance as centrality in social networks
+  - Degree: when having lots of links makes you important
+  - Betweenness: when being in shorter paths makes you important
+  - Closeness: When having short distances to the rest makes you important
+
+
+- Social resilience as networked decisions
+  - Modeling human decisions rather than disease spreading
+  - A decision of a user leaving affects the situation of other users
+  - This can be mapped to network metrics like coreness centrality
+
+
+- Empirical analysis of online social resilience
+  - Using trends as activity and sometimes social network data
+  - Historical analysis of the Friendster collapse
+  - Limits of Google trends: the Facebook case
+    </textarea>
+<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script src="libs/perc.js"></script>
+<script>var slideshow = remark.create({
+"highlightStyle": "github",
+"highlightLines": true,
+"countIncrementalSlides": false,
+"ratio": "16:9"
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function(d) {
+  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})(document);
+
+(function(d) {
+  var el = d.getElementsByClassName("remark-slides-area");
+  if (!el) return;
+  var slide, slides = slideshow.getSlides(), els = el[0].children;
+  for (var i = 1; i < slides.length; i++) {
+    slide = slides[i];
+    if (slide.properties.continued === "true" || slide.properties.count === "false") {
+      els[i - 1].className += ' has-continuation';
+    }
+  }
+  var s = d.createElement("style");
+  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
+  d.head.appendChild(s);
+})(document);
+// delete the temporary CSS (for displaying all slides initially) when the user
+// starts to view slides
+(function() {
+  var deleted = false;
+  slideshow.on('beforeShowSlide', function(slide) {
+    if (deleted) return;
+    var sheets = document.styleSheets, node;
+    for (var i = 0; i < sheets.length; i++) {
+      node = sheets[i].ownerNode;
+      if (node.dataset["target"] !== "print-only") continue;
+      node.parentNode.removeChild(node);
+    }
+    deleted = true;
+  });
+})();
+// add `data-at-shortcutkeys` attribute to <body> to resolve conflicts with JAWS
+// screen reader (see PR #262)
+(function(d) {
+  let res = {};
+  d.querySelectorAll('.remark-help-content table tr').forEach(tr => {
+    const t = tr.querySelector('td:nth-child(2)').innerText;
+    tr.querySelectorAll('td:first-child .key').forEach(key => {
+      const k = key.innerText;
+      if (/^[a-z]$/.test(k)) res[k] = t;  // must be a single letter (key)
+    });
+  });
+  d.body.setAttribute('data-at-shortcutkeys', JSON.stringify(res));
+})(document);
+(function() {
+  "use strict"
+  // Replace <script> tags in slides area to make them executable
+  var scripts = document.querySelectorAll(
+    '.remark-slides-area .remark-slide-container script'
+  );
+  if (!scripts.length) return;
+  for (var i = 0; i < scripts.length; i++) {
+    var s = document.createElement('script');
+    var code = document.createTextNode(scripts[i].textContent);
+    s.appendChild(code);
+    var scriptAttrs = scripts[i].attributes;
+    for (var j = 0; j < scriptAttrs.length; j++) {
+      s.setAttribute(scriptAttrs[j].name, scriptAttrs[j].value);
+    }
+    scripts[i].parentElement.replaceChild(s, scripts[i]);
+  }
+})();
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+// adds .remark-code-has-line-highlighted class to <pre> parent elements
+// of code chunks containing highlighted lines with class .remark-code-line-highlighted
+(function(d) {
+  const hlines = d.querySelectorAll('.remark-code-line-highlighted');
+  const preParents = [];
+  const findPreParent = function(line, p = 0) {
+    if (p > 1) return null; // traverse up no further than grandparent
+    const el = line.parentElement;
+    return el.tagName === "PRE" ? el : findPreParent(el, ++p);
+  };
+
+  for (let line of hlines) {
+    let pre = findPreParent(line);
+    if (pre && !preParents.includes(pre)) preParents.push(pre);
+  }
+  preParents.forEach(p => p.classList.add("remark-code-has-line-highlighted"));
+})(document);</script>
+
+<script>
+slideshow._releaseMath = function(el) {
+  var i, text, code, codes = el.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+};
+slideshow._releaseMath(document);
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>
