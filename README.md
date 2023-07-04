@@ -60,7 +60,7 @@ The course is organized in lecture blocks with one practical exercise for each o
     - [Handout: The friendship paradox](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/09_IntroSocialNetworks/FriendshipParadox/FriendshipParadox.html)
     - [Reading: The Structure of Political Discussion Networks: A Model for the Analysis of Online Deliberation. Gonzalez-Bailon et al (2010)](https://journals.sagepub.com/doi/abs/10.1057/jit.2010.2?journalCode=jina)
  10. **Centrality measures in online social networks** -- [[Slides]](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/10_Centrality/Slides/Slides.html)  
-      - [Handout: Centrality and Importance in Social Networks](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/10_Centrality/Centra lity/Centrality.html)  
+      - [Handout: Centrality and Importance in Social Networks](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/10_Centrality/Centrality/Centrality.html)  
       - [Handout: The Death of Online Social Networks](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/10_Centrality/DeathOfSocialNetworks/SocialNetworkDeath.html)  
       - [Handout: Social Resilience and Coreness Centrality](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/10_Centrality/Coreness/SocialResilience.html)  
 11. **Communities and assortativity** -- [[Slides]](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/11_Assortativity/Slides/Slides.html)    
