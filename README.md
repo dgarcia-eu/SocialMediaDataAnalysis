@@ -67,10 +67,10 @@ The course is organized in lecture blocks with one practical exercise for each o
     - [Handout: Structural holes](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/11_Assortativity/StructuralHoles/StructuralHoles.html)    
     - [Handout: Assortativity](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/11_Assortativity/Assortativity/Assortativity.html)   
     - [Handout: Permutation tests](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/11_Assortativity/PermutationTests/PermutationTests.html)    
-12. **Social issues**
-    - Polarization and digital technologies
-    - Misinformation and information disorder
-    - Representation issues - The case of Twitter
+12. **Social issues** -- [[Slides]](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/12_SocialIssues/Slides/SocialIssues.html)
+    - [Polarization and digital technologies - recommended readings](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/12_SocialIssues/Polarization/Polarization.html)
+    - [Misinformation and information disorder - recommended readings](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/12_SocialIssues/Misinformation/Misinformation.html)
+    - [Handout: Representation issues - The case of Twitter](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/12_SocialIssues/TwitterElections/TwitterElections.html)
     
 *Exercise 4: Political assortativity on Twitter*
 
