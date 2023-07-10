@@ -1,0 +1,396 @@
+---
+title: "Social Issues and Social Media"
+author: "David Garcia <br><br> *University of Konstanz*"
+date: "Social Media Data Analysis"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs 
+    css: [xaringan-themer.css, "libs/footer.css"]
+    nature:
+      beforeInit: ["libs/perc.js"]
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+---
+
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+#This block contains the theme configuration for the CSS lab slides style
+library(xaringanthemer)
+library(showtext)
+style_mono_accent(
+  base_color = "#5c5c5c",
+  text_font_size = "1.5rem",
+  header_font_google = google_font("Arial"),
+  text_font_google   = google_font("Arial", "300", "300i"),
+  code_font_google   = google_font("Fira Mono")
+)
+```
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+layout: true
+
+<div class="my-footer"><span>David Garcia - Social Media Data Analysis</span></div> 
+
+
+---
+
+# Project guidance week
+
+- **24.07-28.07: Last week to ask questions or for guidance about projects**
+
+- 26.07, 14:00-16:00: Online session for group discussion about projects
+  - Link can be found on Discord and Ilias
+
+- **28.07: Deadline for registering your project topic and approach on Ilias forum**
+
+- Thanks for the lecture and tutorial feedback! Your input helps improving the course
+---
+
+# Outline
+
+## 1. Polarization and digital technologies
+
+## 2. Misinformation and information disorder
+
+## 3. Representation issues - The case of Twitter
+
+---
+# Definitions: Opinion polarization
+
+```{r, echo=FALSE, out.width=480, fig.align='center'}
+knitr::include_graphics("figures/Polarization1.png")
+```
+
+**Opinion polarization:** Two opinion groups with extreme distance in between
+[Political Polarization in the American Public. Fiorina & Abrams (2008)](https://www.annualreviews.org/doi/10.1146/annurev.polisci.11.053106.153836)
+
+---
+# Definitions: Relational polarization
+
+```{r, echo=FALSE, out.width=680, fig.align='center'}
+knitr::include_graphics("figures/Polarization2.jpg")
+```
+
+**Relational polarization:** Social structure divided into two groups with high internal connectivity and low inter-group connectivity  
+[A sign of the times? Weak and strong polarization in the U.S. Congress, 1973–2016. Neal (2020)](https://www.sciencedirect.com/science/article/abs/pii/S0378873317303039)
+
+---
+# Echo chambers vs filter bubbles
+
+Early definitions of the filter bubble focused on search results and personalization but not on polarized social structures (algorithmic definition). </br>
+[The filter bubble: What the Internet is hiding from you. Eli Pariser (2011)](https://www.amazon.de/Filter-Bubble-What-Internet-Hiding/dp/1594203008)
+
+Axel Bruns's definitions to distinguish echo chambers from filter bubbles:
+
+- An **echo chamber** comes into being where a group of participants choose to preferentially connect with
+each other, to the exclusion of outsiders.
+- A **filter bubble** emerges when a group of participants, independent of the underlying network
+structures of their connections with others, choose to preferentially communicate with each other, to
+the exclusion of outsiders.
+
+[Echo chamber? What echo chamber? Reviewing the evidence
+Axel Bruns (2017)](https://snurb.info/files/2017/Echo%20Chamber.pdf) </br>
+[Are filter bubbles real? Axel Bruns (2019)](https://www.wiley.com/en-us/Are+Filter+Bubbles+Real%3F-p-9781509536443)
+
+
+---
+
+# Definitions: Affective polarization
+
+```{r, echo=FALSE, out.width=680, fig.align='center'}
+knitr::include_graphics("figures/Polarization3.jpeg")
+```
+
+**Affective polarization:** Extreme support within groups and hate across groups
+[The Origins and Consequences of Affective Polarization in the United States. Iyengar et al. Annual Review of Political Science (2019)](https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-051117-073034)
+
+[Political sectarianism in America. Finkel et al. Science (2020)](https://science.sciencemag.org/content/370/6516/533)
+
+---
+
+## The leaving Facebook experiment: US case
+
+```{r, echo=FALSE, out.width=600, fig.align='center'}
+knitr::include_graphics("figures/FB1.png")
+```
+
+[The welfare effects of social media. Allcott et al. (2019)](https://web.stanford.edu/~gentzkow/research/facebook.pdf)
+---
+### When leaving Facebook makes things worse: The Bosnia case
+
+```{r, echo=FALSE, out.width=900, fig.align='center'}
+knitr::include_graphics("figures/FB2.jpg")
+```
+
+[Testing the effects of Facebook usage in an ethnically polarized setting. Asimovic et al. (2021)](https://www.pnas.org/content/118/25/e2022819118)
+---
+# Backfire effects on Twitter experiments
+
+```{r, echo=FALSE, out.width=1000, fig.align='center'}
+knitr::include_graphics("figures/Twitter1.jpg")
+```
+
+[Exposure to opposing views on social media can increase political polarization. Bail et al. (2018)](https://www.pnas.org/content/115/37/9216)
+---
+# Does social media create polarization?
+
+The role of social media is not the same in all conflicts. 
+
+The question "does social media create polarization?" implies an oversimplification of the problem:
+- use of social media (e.g. Facebook vs Twitter)
+- the definition of polarization (e.g. affective vs opinions)
+- the social context of polarized societies (e.g. partisan vs ethnic).
+
+The issue of polarization is an example of why we need precise and robust definitions, why we need research on many different platforms, and why we need no-WEIRD (Western, Educated, Industrialized, Rich and Democratic) populations in research.
+
+---
+
+# Misinformation and information disorder
+
+## 1. Polarization and digital technologies
+
+## *2. Misinformation and information disorder*
+
+## 3. Representation issues - The case of Twitter
+
+---
+
+# The hot topic of fake news
+
+```{r, echo=FALSE, out.width=800, fig.align='center'}
+knitr::include_graphics("figures/fakenews.png")
+```
+Number of publications including the term "fake news" per year, Dimensions.ai
+
+---
+
+### Fake news during the 2016 US presidential election
+
+```{r, echo=FALSE, out.width=950, fig.align='center'}
+knitr::include_graphics("https://img.buzzfeed.com/buzzfeed-static/static/2016-11/2/15/asset/buzzfeed-prod-web06/sub-buzz-8001-1478115629-1.jpg?downsize=700%3A%2A&output-quality=auto&output-format=auto")
+```
+
+https://www.buzzfeednews.com/article/craigsilverman/how-macedonia-became-a-global-hub-for-pro-trump-misinfo
+---
+
+## Clickbait made in Veles, North Macedonia
+
+```{r, echo=FALSE, out.width=1200, fig.align='center'}
+knitr::include_graphics("figures/TrumpFakeNews.png")
+```
+
+
+[The Macedonian Fake News Industry and the 2016 US Election. H. Hughes and I. Waismel-Manor (2021)](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/macedonian-fake-news-industry-and-the-2016-us-election/79F67A4F23148D230F120A3BD7E3384F)
+
+---
+
+# Terminology about misinformation
+
+```{r, echo=FALSE, out.width=1200}
+knitr::include_graphics("figures/misinfoClasses.png")
+```
+
+- **False information:** 
+  - False or fake news: news-like content that is verifiably false
+  - False rumours: General talk or hearsay not based on factual knowledge
+  - Factitious information blends: half-truths and speculations
+  - Satire and parody
+  - Deep fakes and cheap fakes
+  
+<div style="font-size:15pt">
+Technology and democracy: Understanding the influence of online technologies on political behaviour and decision-making. S. Lewandowsky, et al. (2020)
+</div>
+ 
+
+---
+
+# Terminology about misinformation
+
+```{r, echo=FALSE, out.width=1200}
+knitr::include_graphics("figures/misinfoClasses.png")
+```
+
+- **Information disorders:** 
+  - **Misinformation:** false or misleading content shared without malicious intent
+  - **Disinformation:** false or fabricated content shared with the intent to mislead or cause harm
+  - **Malinformation:** true information shared to cause harm (hate speech, private information)
+
+<div style="font-size:15pt">
+Information disorder: Toward an interdisciplinary framework for research and policymaking. C. Wardle and H. Derakhshan (2017)
+</div>
+
+---
+
+# Terminology about misinformation
+
+```{r, echo=FALSE, out.width=1200}
+knitr::include_graphics("figures/misinfoClasses.png")
+```
+
+- **Propaganda:** Information, especially of a biased or misleading nature, used to promote a political cause or point of view. Can be political or industrial
+- **Systematic lies:** Carefully constructed fabrications or obfuscations (e.g. weapons of mass destruction in Irak)
+- **Conspiracy theories:** Alternative explanations for traditional news events which assume that these events are controlled by a secret elite group
+
+
+---
+
+# Comparing fact-checked content
+
+```{r, echo=FALSE, out.width=700, fig.align='center'}
+knitr::include_graphics("figures/snopes.png")
+```
+
+<center>**Caution: True Snoped tweets != Legitimate news sharing**</center>
+[The spread of true and false news online. S. Vosoughi, D. Roy, S. Aral (2018)](https://www.science.org/doi/10.1126/science.aap9559)
+
+---
+
+# Detection via domain quality lists
+
+```{r, echo=FALSE, out.width=1200, fig.align='center'}
+knitr::include_graphics("figures/List.jpg")
+```
+
+<div style="font-size:15pt">
+Fighting misinformation on social media using crowdsourced judgments of news source G. Pennycook, D. Rand (2019)
+
+Fake news on Twitter during the 2016 US presidential election. N. Grinberg, et al (2018)
+</div>
+
+---
+
+### When the users help spreading: Collaborative disinformation
+
+```{r, echo=FALSE, out.width=530}
+knitr::include_graphics("figures/capitol.png")
+```
+```{r, echo=FALSE, out.width=540}
+knitr::include_graphics("figures/capitol2.png")
+```
+
+
+<div style="font-size:15pt">
+Misinformation or expressive responding? What an inauguration crowd can tell us about the source of political misinformation in surveys. Schaffner & Luks. Public Opinion Quarterly (2018)
+</div>
+
+Disinformation's spread: bots, trolls and all of us. K. Starbird (2019)
+---
+ 
+## Fighting misinformation: priming and inoculation
+
+```{r, echo=FALSE, out.width=950, fig.align='center'}
+knitr::include_graphics("figures/Fight.png")
+```
+
+<div style="font-size:15pt">
+Shifting attention to accuracy can reduce misinformation online. G. Pennycook, et al. (2021)
+</div>
+<div style="font-size:15pt">
+Countering misinformation and fake news through inoculation and prebunking. S. Lewandowsky, S. Van Der Linden (2021)
+</div>
+
+---
+
+
+# Representation issues - The case of Twitter
+
+## 1. Polarization and digital technologies
+
+## 2. Misinformation and information disorder
+
+## *3. Representation issues - The case of Twitter*
+
+
+---
+
+# Politicians on Twitter
+
+.pull-left[![](GermanPoliticians.png)]
+
+.pull-right[
+- Example of social network among German Politicians on Twitter
+[from Lietz et al, 2014](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM14/paper/viewPaper/8069)
+
+- Nodes are the Twitter accounts of politicians
+
+- Directed links link a politician that follows another
+
+- Node color corresponds to the party of a politician
+
+- Force-directed layout
+]
+---
+
+## Predicting the German elections with Twitter
+.center[![:scale 55%](tweetsElection.png)]
+
+- German election Twitter prediction, from [Tumasjan et al, 2010](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM10/paper/view/1441)
+- Same ranking, prediction errors on average less than 2%! 
+- "the mere number of messages reflects the election result and even comes close to traditional election polls". Why are we still using traditional surveys?
+
+---
+
+# The Victory of the Pirate Party
+
+.center[![](ElectionsFail.png)]
+
+- Study replication by [Jungherr et al, 2012](https://journals.sagepub.com/doi/abs/10.1177/0894439311404119?journalCode=ssce). 
+- Not to judge parties beforehand, they included the Pirate Party too, not just the six most voted parties in the previous election. 
+- The Pirate Party would have won by landslide, with almost double the mentions the second party got on Twitter
+---
+
+## Comparing original results and replication
+
+```{r echo=F, warning=F, message=F, fig.width=14, fig.height=5, fig.align="center"}
+library(ggplot2)
+library(patchwork)
+df <- read.csv("ElectionPrediction.csv", sep="\t")
+g1 <- ggplot(aes(x=Twitter1, y=result), data=df) + geom_point() + geom_text(label=df$Party, hjust = 0, nudge_x = 0.5, size=7) + theme_bw() + xlab("Twitter prediction 1 (%)") + ylab("Election result") + xlim(c(3,35)) + geom_smooth(method = "lm", se = F,col=rgb(0,0,0,0.25)) + theme(text = element_text(size = 30))
+g2 <- ggplot(aes(x=Twitter2, y=result), data=df) + geom_point() + geom_text(label=df$Party, hjust = "inward", nudge_x = c(0,rep(0.5,5),-0.5),size=7) + theme_bw() + xlab("Twitter prediction 2 (%)") + ylab("Election result")+ xlim(c(3,35)) + geom_smooth(method = "lm", se = F, col=rgb(0,0,0,0.25))+ theme(text = element_text(size = 30))
+g1 + g2
+```
+
+Jugherr and colleagues found other issues with the original prediction, for example how small changes in the dates considered for the analysis had a dramatic impact on the results.
+
+---
+# Who uses Twitter?
+.pull-left[
+![:scale 85%](Pew1.png)]
+.pull-right[![:scale 90%](Pew2.png)]
+
+[Pew Internet Research survey data from 2018](https://www.pewresearch.org/fact-tank/2019/08/02/10-facts-about-americans-and-twitter/)
+---
+
+## Can we predict election results with Twitter?
+.center[![:scale 55%](AngryBird.png)  
+by Daniel Gayo-Avello  
+**Estimating public opinion through tweets suffers self-selection bias**
+]
+
+
+---
+
+# Summary
+
+
+- **Polarization and digital technologies**
+  - Definitions: opinions, relations, and affect
+  - Echo chambers and filter bubbles
+  - Experiments and questions about the role of social media
+
+
+- **Misinformation and information disorder**
+  - How fake news became an issue in 2016
+  - Terminology about misinformation and information disorder
+  - Detecting and intervening on misinformation
+
+
+- **Representation issues - The case of Twitter**
+  - Political research using Twitter
+  - Predicting elections with Twitter data?
+  - Comparing Twitter users and the rest of the population

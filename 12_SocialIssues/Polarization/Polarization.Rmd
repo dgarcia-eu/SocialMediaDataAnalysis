@@ -1,0 +1,21 @@
+---
+title: "Polarization and digital technologies"
+author: "David Garcia"
+output: html_document
+---
+
+### Recommended Readings
+
+1. [Political sectarianism in America. Finkel et al. Science (2020)](https://science.sciencemag.org/content/370/6516/533)
+
+2. [Testing the effects of Facebook usage in an ethnically polarized setting. Asimovic et al. (2021)](https://www.pnas.org/content/118/25/e2022819118)
+
+3. [Exposure to opposing views on social media can increase political polarization. Bail et al. (2018)](https://www.pnas.org/content/115/37/9216)
+
+### Additional Readings
+
+- [A sign of the times? Weak and strong polarization in the U.S. Congress, 1973–2016. Neal (2020)](https://www.sciencedirect.com/science/article/abs/pii/S0378873317303039)
+
+- [The welfare effects of social media. Allcott et al. (2019)](https://web.stanford.edu/~gentzkow/research/facebook.pdf)
+
+-  [Echo chamber? What echo chamber? Reviewing the evidence Axel Bruns (2017)](https://snurb.info/files/2017/Echo%20Chamber.pdf)

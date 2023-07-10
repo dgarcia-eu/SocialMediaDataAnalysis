@@ -1,0 +1,21 @@
+---
+title: "Misinformation and Information Disorder"
+author: "David Garcia"
+output: html_document
+---
+
+### Recommended Readings
+
+1. [The Macedonian Fake News Industry and the 2016 US Election. H. Hughes and I. Waismel-Manor (2021)](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/macedonian-fake-news-industry-and-the-2016-us-election/79F67A4F23148D230F120A3BD7E3384F)
+
+2. [Disinformation's spread: bots, trolls and all of us. K. Starbird (2019)](https://www.nature.com/articles/d41586-019-02235-x)
+
+3. [Technology and democracy: Understanding the influence of online technologies on political behaviour and decision-making. S. Lewandowsky, et al. (2020) Chapter 6: Misinformation and disinformation](https://publications.jrc.ec.europa.eu/repository/handle/JRC122023)
+
+### Additional Readings
+
+- [Fighting misinformation on social media using crowdsourced judgments of news source. G. Pennycook, D. Rand (2019)](https://www.pnas.org/content/116/7/2521)
+
+- [The spread of true and false news online. S. Vosoughi, D. Roy, S. Aral (2018)](https://www.science.org/doi/10.1126/science.aap9559)
+
+- [Shifting attention to accuracy can reduce misinformation online. G. Pennycook, et al. (2021)](https://www.nature.com/articles/s41586-021-03344-2)
