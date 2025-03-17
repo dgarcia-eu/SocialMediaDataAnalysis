@@ -1,0 +1,1002 @@
+Sentence_id	Prior_Emotion	Sentence	Temporal_Distance	Intensity	Duration	Gender	City	Country	Worker_id	Time	Anger	Disgust	Fear	Guilt	Joy	Sadness	Shame
+271	Fear	I felt ... when my 2 year old broke her leg, and we felt helpless to assist her.	Y	Vi	Dom	Ml	Bristol	GBR	87	11/28/2018 00:58:52	0	0	0	1	0	3	1
+597	Shame	I felt ... one Christmas as one of our patients lives alone and would be spending Christmas by herself. I arranged for her to spend the day with her local church. They were going to pick her up and she would spend the day with other people who would otherwise be on their own. When I visited her after Christmas and asked her if she enjoyed Christmas day, she told me that they had forgotten to pick her up. I felt ... as if I had let her down even though I couldn't have done anymore.	Y	I	Dom	Fl	Dulwich	GBR	86	11/26/2018 06:52:02	1	0	0	4	0	0	0
+282	Guilt	I felt ... because I could not help a friend when she was really in need of help but I had already promised to be somewhere else that week, and could not let that person down.	M	Mi	Dom	Fl	Linlithgow	GBR	83	11/21/2018 18:45:00	0	0	0	4	0	1	0
+171	Disgust	I felt ... when I read that hunters had killed one of the world famous lions.	Y	Mi	H	Ml	Bristol	GBR	87	11/28/2018 00:55:11	3	0	0	0	0	2	0
+509	Sadness	I felt ... when my Gran passed away.	Y	Vi	Dom	Fl	Stoke-on-trent	GBR	92	11/26/2018 09:23:38	0	0	0	0	0	5	0
+181	Disgust	I felt ... when I stepped in dog shit on the way to the shops.	M	I	H	Fl	Shepherds Bush	GBR	90	11/28/2018 21:42:00	0	5	0	0	0	0	0
+218	Fear	I felt ... when an aeroplane I was on hit a heavy turbulence and dropped a long way down suddenly.	Y	Vi	Sh	Ml	Prescot	GBR	63	11/24/2018 09:14:44	0	0	5	0	0	0	0
+642	Shame	I felt ... when my daughter was rude to my wife.	D	N	Fm	Ml	Chelmsford	GBR	91	11/26/2018 23:35:24	3	0	0	0	0	2	0
+553	Sadness	I felt ... when my lover Pierre-Guillaume left me for another woman.	M	Vi	Dom	Fl	nan	GBR	105	11/28/2018 09:31:20	4	0	0	0	0	1	0
+58	Anger	I felt ... when someone hit my wife's car and drove away.	W	Mi	H	Ml	Bristol	GBR	87	11/28/2018 00:53:03	5	0	0	0	0	0	0
+102	Disgust	I felt ... with myself for gambling more money than I could not afford.	W	I	Sh	Ml	Droitwich	GBR	119	11/22/2018 14:38:42	3	1	0	1	0	0	0
+443	Joy	I felt ... when I found some money in the street.	Y	I	Sh	Fl	Hull	GBR	74	11/26/2018 22:35:57	0	0	0	0	5	0	0
+32	Anger	I felt ... when I was driving earlier and cyclists cut in front of me when it was my right of way. It scared me that I thought I might hit and hurt them, but it would have been entirely their own fault.	D	Mi	Fm	Fl	Oxford	GBR	92	11/22/2018 22:37:15	4	0	1	0	0	0	0
+607	Shame	I felt ... when was in the doctors surgery and the receptionist announced my medical issues very loudly, for all to hear.	M	I	H	Fl	Hull	GBR	74	11/26/2018 22:41:39	0	0	0	0	0	0	5
+127	Disgust	I feel ... to watch someone eat insects on television.	W	N	Fm	Ml	nan	GBR	88	11/26/2018 08:27:11	0	5	0	0	0	0	0
+105	Disgust	I felt ... when my mom offered me curry.	D	Mi	Fm	Ml	Caldicot	GBR	106	11/23/2018 10:23:06	0	2	0	0	3	0	0
+381	Joy	I felt ... because my son was picked as the outstanding student of the year at his university. He had a real struggle to understand how to express himself, many tears and frustrations, but he fought through and got there. I was so delighted for him.	M	Vi	Dom	Fl	Earith	GBR	62	11/23/2018 19:13:46	0	0	0	0	5	0	0
+276	Fear	I felt ... when I went to the bank for a meeting with the manager about a loan application, wondering with apprehension what black marks may have accrued on my credit history.	M	I	Sh	Ml	nan	GBR	68	11/28/2018 09:57:13	0	0	5	0	0	0	0
+566	Shame	I felt ... when I was caught under pricing a water melon in a local supermarket. I did it because I was feeling not too well at the time. Never went back to do shopping there.	Y	Vi	Dom	Fl	nan	GBR	105	11/22/2018 21:13:49	0	0	0	2	0	0	3
+502	Sadness	I feel ... when I think about the effects of BREXIT on destroying peace in Europe.	D	I	Sh	Fl	Shepherds Bush	GBR	90	11/25/2018 15:52:01	3	0	1	0	0	1	0
+230	Fear	I felt ... when walking home alone late at night. I had to walk down a dark alley way and felt very vulnerable and ... of being followed.	W	Mi	Fm	Fl	Cambridge	GBR	116	11/26/2018 21:34:19	0	0	5	0	0	0	0
+382	Joy	I felt ... when I received a bonus at work.	M	Mi	Fm	Ml	Chelmsford	GBR	91	11/23/2018 22:48:16	0	0	0	0	5	0	0
+525	Sadness	I felt ... when my 15 year old cat had to be put to sleep in my arms because she had a tumour on her heel that could not be operated on because of the location.	M	Vi	Dom	Fl	Bedford	GBR	97	11/26/2018 15:59:59	0	0	0	0	0	5	0
+501	Sadness	I felt ... when I saw a homeless cat on the street.	W	Mi	Sh	Ml	Caldicot	GBR	106	11/25/2018 15:49:00	0	0	0	0	0	5	0
+396	Joy	I felt ... when I saw my child perform in the school play.	D	Vi	Dom	Fl	Cheltenham	GBR	58	11/23/2018 18:25:52	0	0	0	0	5	0	0
+31	Anger	I felt ..., when my neighbour told me I had no right to live in my house and could not park my car in front of it. He's a mad man, but still I could not help to be ... by his statements.	W	Vi	Dom	Fl	nan	GBR	105	11/22/2018 21:16:00	5	0	0	0	0	0	0
+611	Shame	I felt ... when someone commented that I was looking very untidy.	M	Mi	Fm	Ml	Prescot	GBR	63	11/27/2018 18:57:11	0	0	0	0	0	0	5
+83	Anger	I felt ... at a recent news story, where a rapist was trying to get sole custody of the child that resulted from the rape.	D	Vi	Sh	Ml	Prescot	GBR	63	11/28/2018 10:25:19	4	1	0	0	0	0	0
+523	Sadness	I felt ... when I saw rabbits looking very miserable in rather small cages in the city pet store, although these doubtless met all the regularity requirements.	M	I	Fm	Ml	nan	GBR	68	11/26/2018 10:29:42	0	0	0	0	0	5	0
+488	Sadness	I felt ... because my children were very sad as one of their beloved pets of many years died suddenly and I was very ... because of both the pet dying and because of my childrens' sadness.	M	Mi	Sh	Ml	Eastbourne	GBR	103	11/23/2018 06:30:46	0	0	0	1	0	4	0
+531	Sadness	I felt ... when I left my old job through ill health. I was very ... to leave.	Y	Mi	Dom	Fl	Cheltenham	GBR	73	11/27/2018 06:05:05	0	0	1	0	0	4	0
+530	Sadness	I felt ... when my wife got drunk at work.	M	Mi	H	Ml	Chelmsford	GBR	91	11/26/2018 23:38:18	1	1	0	0	0	0	3
+412	Joy	I felt ... when I was a young girl because we used to travel to see my nan in Somerset, who we didn't get to see often and she would take us out, me, my mum and my brother to the seaside and I was so happy to see her and spend that time with her and my family.... eating ice cream, building sand castles, etc. During our summer holidays from School I would look forward to going and being there. Those times were the most joyful times of my life.	Y	I	Dom	Fl	Walsall	GBR	108	11/27/2018 01:25:43	0	0	0	0	5	0	0
+54	Anger	I felt ... when terrorist killed many young people at a Ariana Grande concert in Manchester, England.	Y	Mi	Fm	Ml	Paignton	GBR	101	11/27/2018 14:34:39	3	1	1	0	0	0	0
+91	Disgust	I felt ... when my cat woke me up by vomiting in my face. There was vomit all over my face, in my hair, all over my bed, over the wall... it was ... and I was unable to get rid of the smell all day.	W	I	Sh	Fl	Crewe	GBR	89	11/21/2018 23:25:19	0	5	0	0	0	0	0
+411	Joy	I felt ... when I got a cricket bat for my birthday when young.	Y	Mi	Sh	Ml	Chelmsford	GBR	91	11/26/2018 23:19:40	0	0	0	1	4	0	0
+540	Sadness	I felt ... when my great aunt passed away, because I hadn't seen her before she died.	Y	Vi	Dom	Fl	Workington	GBR	58	11/26/2018 12:37:22	0	0	0	2	0	3	0
+327	Guilt	I felt ... when my aunt died as I hadn’t seen her properly for a while. It stirred up lots of feelings of ..., especially the fact that I hadn’t had much time with my family. I felt ... that I hadn’t bothered.	M	Vi	Dom	Fl	Cheltenham	GBR	73	11/26/2018 06:24:05	0	0	0	3	0	2	0
+451	Joy	I felt ... when I received a call from an old friend I hadn't heard from in years.	M	I	Sh	Fl	nan	GBR	105	11/28/2018 09:32:16	0	0	0	0	5	0	0
+622	Shame	I felt ... because I settled for a relationship where I was never going to be happy but felt I had no choice for financial reasons.	Y	Vi	Dom	Fl	Bedford	GBR	97	11/26/2018 16:02:57	0	0	0	1	1	3	0
+521	Sadness	I felt ... because the woman I love has rejected my feelings, walking when we met together was very good :(	Y	Vi	Dom	Ml	Newcastle Upon Tyne	GBR	111	11/28/2018 15:15:32	1	0	0	0	0	3	1
+119	Disgust	Why do poo and ... go together?! My youngest child tried to eat his when we were potty training. He soon realised I was not happy.	Y	I	Sh	Fl	Earith	GBR	62	11/23/2018 19:07:12	0	4	0	0	0	0	1
+657	Shame	I felt ... when I did not volunteer to drive my parents back from London, when they said mum did not want dad to drive in the dark.	D	Mi	Sh	Fl	Shepherds Bush	GBR	90	11/28/2018 21:38:07	0	0	0	3	0	0	2
+17	Anger	I felt ... when I was showing a group of young adults how to build a block planting bed and explaining how to do the job properly. One of the people started messing about and laying the blocks wrong, and not taking any notice when told to stop. This not only ruined what had already been done, but it ruined the session for the other participants.	M	I	Sh	Ml	Prescot	GBR	63	11/22/2018 13:28:11	5	0	0	0	0	0	0
+53	Anger	I felt ... when the police did not update me on a crime.	Y	Vi	Dom	Ml	Chelmsford	GBR	91	11/26/2018 23:31:49	5	0	0	0	0	0	0
+416	Joy	I feel ... when Oldham Athletic manage to stay in the premiership.	Y	Vi	Dom	Ml	Prescot	GBR	63	11/27/2018 19:15:46	0	0	0	0	5	0	0
+417	Joy	I felt ... when I found a paperback I had been looking for in a charity shop, in excellent condition and much cheaper than it would have cost to buy online.	M	Mi	H	Ml	nan	GBR	68	11/25/2018 14:42:32	0	0	0	0	5	0	0
+366	Joy	I felt ... because I received more holidays than I thought I would get, so I could spend more time on my hobbies.	W	Vi	Dom	Fl	Camberwell	GBR	80	11/21/2018 21:36:42	0	0	0	1	4	0	0
+217	Fear	I felt ... when I first flew on a plane.	Y	Mi	Sh	Ml	Chelmsford	GBR	91	11/23/2018 22:45:57	0	0	5	0	0	0	0
+22	Anger	I felt ... because one of my children lied. I taught them not to, but natural sin came out and I was surprised to find myself so cross.	Y	Mi	H	Fl	Earith	GBR	62	11/23/2018 19:01:50	3	0	0	0	0	0	2
+485	Sadness	I feel ... when I read about the people drowning in the sea, while attempting to reach the coasts of Italy.	M	Vi	Dom	Fl	nan	GBR	105	11/22/2018 21:43:53	0	0	0	0	0	5	0
+631	Shame	I felt ... when I shouted at my children with a lost temper which was uncalled for. Of course I apologised, but I carried the ... of it.	Y	Vi	Dom	Fl	Ely	GBR	62	11/27/2018 19:02:28	0	0	0	3	0	0	2
+298	Guilt	I felt ... because I ate a cake. I am on a diet and I should have stuck to it.	D	N	Fm	Fl	Letchworth	GBR	59	11/22/2018 19:06:23	0	0	0	5	0	0	0
+442	Joy	I felt ... when I passed my exams. I had worked hard and felt very ... to know that I had succeeded in something.	Y	I	Dom	Fl	Cambridge	GBR	116	11/26/2018 21:39:43	0	0	0	0	5	0	0
+280	Fear	I felt ... when I had to drive along a flooded road on a dark night. I was ... that I would have an accident or that my car would break down.	D	I	H	Fl	Workington	GBR	58	11/28/2018 19:42:47	0	0	5	0	0	0	0
+592	Shame	I felt ... when I saw a man hit a woman in the street and did not step in to stop it.	M	Vi	Dom	Ml	Prescot	GBR	63	11/24/2018 09:05:29	0	0	0	4	0	0	1
+407	Joy	I felt ... when my sons graduated from university with excellent degrees setting them up for future prosperity.	M	Vi	Dom	Fl	Bedford	GBR	97	11/26/2018 16:21:28	0	0	0	0	5	0	0
+505	Sadness	I felt ... because of the death of my grandad.	Y	Vi	Dom	Ml	Norwich	GBR	77	11/25/2018 18:11:20	0	0	0	0	0	5	0
+115	Disgust	I felt ... when I let a man spit me on the face during a sexual intercourse. I wasn't expecting him to spit me in the face and I really felt sick after.	Y	Vi	Dom	Fl	nan	GBR	105	11/22/2018 21:27:58	0	5	0	0	0	0	0
+177	Disgust	I felt ... when I found half a sausage roll caked in fluff hidden down the back of my bed's headboard.	Y	Vi	Fm	Fl	Ely	GBR	62	11/28/2018 10:14:05	0	5	0	0	0	0	0
+5	Anger	I felt ... when it was late at night and my cat was out, I left my front door open slightly so she could come back in. I heard my door open fully and saw a man I didn't know standing in my flat without permission, shocked I asked, "who are you?" and he seemed drunk / on drugs and started murmuring as he wondered in. I demanded that he leave and he started to argue in my flat uninvited, I became extremely ... and I frightened him out of the door as I shouted at him going nuts. I lost my temper and felt like I could hit him hard, but I didn't. (background: I was born autistic and some people would describe my reaction as a meltdown, I felt terrible afterwards for ages and have little recollection of the event itself, I now use an alarm system by the door).	M	Vi	Fm	Ml	Leigh	GBR	79	11/21/2018 21:51:15	0	0	5	0	0	0	0
+335	Guilt	I felt ... when I had an extra marital affair. When the affair was discovered, I realised how selfish I had been and the hurt that I had caused.	Y	Vi	Dom	Fl	Cambridge	GBR	116	11/26/2018 21:35:44	0	0	0	3	0	0	2
+242	Fear	I felt ... when a man grabbed me on the bus and didn't want to let me go. People around stared at both of us doing nothing. Eventually I managed to escape.	Y	Vi	Dom	Fl	nan	GBR	105	11/26/2018 07:56:35	0	0	5	0	0	0	0
+444	Joy	I felt ... because my boyfriend proposed to me on my Birthday this year. He took me away to New York and set up rose petals with little messages for me to find and then got down on one knee and asked me to marry him, I felt such ... and was overcome with emotion.	M	I	Sh	Fl	Walsall	GBR	108	11/27/2018 01:32:20	0	0	0	0	5	0	0
+300	Guilt	I felt ... when I couldn't visit a relative because I was ill.	D	N	H	Fl	Cheltenham	GBR	58	11/23/2018 18:21:02	0	0	0	4	0	1	0
+478	Sadness	I felt ... when my father died.	Y	I	Dom	Ml	Droitwich	GBR	119	11/22/2018 14:49:45	0	0	0	0	0	5	0
+595	Shame	I felt ... when I went in to a courtroom to get a CCJ.	Y	Vi	Dom	Fl	Shepherds Bush	GBR	90	11/25/2018 15:54:08	0	0	1	0	0	0	4
+510	Sadness	I feel ... because my eldest son doesn't value his family and seems happy to separate himself from us unless he's going to benefit financially from seeing us.	M	Vi	Dom	Fl	Bedford	GBR	97	11/26/2018 15:57:49	1	0	0	0	0	3	1
+176	Disgust	I felt ... driving through my nearest city late one Saturday night and seeing groups of young males vomiting and urinating in various shop doorways.	Y	I	Fm	Ml	nan	GBR	68	11/28/2018 09:58:22	0	5	0	0	0	0	0
+508	Sadness	I felt ... because my friend was going to live abroad.	Y	Mi	Sh	Ml	nan	GBR	88	11/26/2018 08:23:34	0	0	0	0	0	5	0
+610	Shame	I felt a sense of ... when once I had to take off my clothes in front of a nurse preparing me for having a vasectomy operation.	Y	N	Fm	Ml	Paignton	GBR	101	11/27/2018 16:36:55	0	0	0	0	0	0	5
+590	Shame	I felt ... when a boy had his foot ran over by the school bus when we were crowding round to be first aboard. We all pushed him so his foot went under the wheel. To cap it all, I saw the bus door open in front of me and jumped in, when I should have backed off to get out of the way.	Y	Vi	Dom	Fl	Earith	GBR	62	11/23/2018 18:58:52	0	1	0	3	0	0	1
+43	Anger	I felt ... because someone cut me up in a car.	W	Mi	Fm	Ml	nan	GBR	88	11/26/2018 08:26:13	4	0	1	0	0	0	0
+240	Fear	I felt ... when I was having a heart attack. I was ... that I would die. It was such a horrible feeling as I did not know what was happening, I was so ...	Y	Vi	Sh	Fl	Cheltenham	GBR	73	11/26/2018 06:21:21	0	0	5	0	0	0	0
+341	Guilt	I feel ... because I cheated on a previous girlfriend.	Y	I	Dom	Ml	Bristol	GBR	87	11/28/2018 01:19:38	0	0	0	4	0	0	1
+627	Shame	I felt ... as a child when I did something naughty and my mum found out. I was so ... and didn’t know what to do to make the situation better.	Y	Vi	Sh	Fl	Cheltenham	GBR	73	11/27/2018 06:07:13	0	0	0	3	0	0	2
+30	Anger	I felt ... when I found out how sly my daughter's classmate was acting. She's not a nice person, but she won't be telling my child what to do.	D	Vi	Sh	Fl	Claremorris	IRL	98	11/22/2018 20:43:10	5	0	0	0	0	0	0
+602	Shame	I felt ... when I didn’t do as well in my exams as I should have. I was so ... I hid the results from everyone and told them I got a good mark.	Y	Mi	Sh	Fl	Cheltenham	GBR	73	11/26/2018 13:19:42	0	0	0	0	0	1	4
+623	Shame	I felt ... because I had no friends.	W	Mi	Dom	Fl	Sheffield	GBR	56	11/26/2018 17:20:26	0	0	0	0	0	5	0
+519	Sadness	I felt ... when my grandmother had passed away.	Y	I	Dom	Ml	Bristol	GBR	87	11/28/2018 00:41:13	0	0	0	0	0	5	0
+639	Shame	I felt ... when I was caught out lying to a friend. I told her that I had flu and could not go out. However she then found out that I had been out with another friend.	M	Mi	Sh	Fl	Cambridge	GBR	116	11/26/2018 21:23:38	0	0	0	3	0	0	2
+526	Sadness	I feel ... because I am depressed.	D	Vi	Dom	Fl	Sheffield	GBR	56	11/26/2018 17:24:03	0	0	0	0	0	5	0
+511	Sadness	I feel ... because my life sucks.	D	Vi	Dom	Fl	Sheffield	GBR	56	11/26/2018 17:19:45	0	0	0	0	0	5	0
+214	Fear	I felt ... when I recently opened the door of my house at nighttime to find a stranger at the door who seemed to know an awful lot about me and my family and was asking for directions. I was very unnerved and phoned the police to report the incident. From being unnerved, I then became very ... for my safety.	W	Vi	Dom	Ml	Claremorris	IRL	118	11/23/2018 10:47:46	0	0	5	0	0	0	0
+438	Joy	I felt ... when my son came down for breakfast early, because I was playing some fun music tracks on the phone. We danced along to the music as we ate breakfast.	D	I	Fm	Fl	Workington	GBR	58	11/26/2018 10:42:57	0	0	0	0	5	0	0
+160	Disgust	I feel ... when I read some of the racist posts that are allowed to pass on MSN Facebook page.	W	Mi	Fm	Ml	Bristol	GBR	87	11/28/2018 00:54:21	2	1	0	0	0	1	1
+260	Fear	I felt ... when I was being bullied at work and didn't think there was going to be an end to it.	Y	Vi	Dom	Fl	Bedford	GBR	97	11/26/2018 16:15:37	0	0	3	0	0	2	0
+89	Disgust	I felt ... because I bought a bacon sandwich from the deli and the bacon had been cremated.	D	Mi	Fm	Fl	Hull	GBR	74	11/21/2018 21:15:28	1	3	0	0	1	0	0
+321	Guilt	I felt ... when I didn’t take my cat to the vets for a while and she got ill. I felt ... and thought it was my fault, even though it wasn’t. I couldn’t focus on anything because I felt so guilty.	Y	I	Sh	Fl	Cheltenham	GBR	73	11/26/2018 06:22:40	0	0	0	5	0	0	0
+378	Joy	I felt ... when my partner and I got married. It was on a beautiful day in the botanic gardens surrounded by all the people who matter to us.	Y	I	Sh	Fl	Edinburgh	GBR	65	11/22/2018 14:26:07	0	0	0	0	5	0	0
+11	Anger	I felt ... when I saw a teenager kicking over some flowers in a park.	M	Mi	H	Ml	nan	GBR	68	11/22/2018 08:11:27	4	1	0	0	0	0	0
+227	Fear	I felt ... when I turned around and couldn't see my son.	W	Vi	Fm	Ml	nan	GBR	88	11/26/2018 13:45:39	0	0	5	0	0	0	0
+362	Joy	I felt ... when I saw my son married to a wonderful young lady among all her family who have welcomed him into their lives.	M	I	Dom	Fl	Linlithgow	GBR	83	11/21/2018 18:43:14	0	0	0	0	5	0	0
+20	Anger	I felt ... when I saw a man and his son walking their dog, and the son was throwing stones at the dog and the father said nothing.	Y	I	Dom	Fl	Oxford	GBR	92	11/22/2018 22:32:23	5	0	0	0	0	0	0
+596	Shame	I felt ... when I stole money from my mum.	Y	I	Sh	Fl	Troon	GBR	125	11/25/2018 16:00:14	0	0	0	1	0	0	4
+359	Guilt	I felt ... because I drank way too much, knowing that I had things to do the next day.	W	Mi	Sh	Ml	Bristol	GBR	87	11/28/2018 01:20:16	0	0	0	5	0	0	0
+467	Sadness	I felt ... when my house from a few years ago got damaged by burst pipes and flooded internally. Most of our belongings were destroyed and we had to move out for nearly 18 months while the house dried out and was refurbished. It was an awful lot of hassle and upheaval.	Y	I	Dom	Ml	Claremorris	IRL	118	11/23/2018 10:30:20	0	0	0	0	0	5	0
+299	Guilt	I felt ... when I forgot to set an alarm and was 2 hours late to go and let my mum's dog out for a walk and feed him.	W	I	Sh	Fl	Oxford	GBR	92	11/22/2018 22:34:41	0	0	0	5	0	0	0
+38	Anger	I felt ... when my computer crashed.	M	Vi	Sh	Ml	Caldicot	GBR	106	11/24/2018 11:07:23	3	0	0	0	0	2	0
+577	Shame	I felt ... when I could not pay all of my service charge bill as I had no money to do so.	M	I	Dom	Fl	Shepherds Bush	GBR	90	11/25/2018 15:53:11	0	0	0	0	0	1	4
+541	Sadness	I felt ... when my grandad died. The ... I felt overwhelmed me and I shut myself off from everyone. I couldn’t cry thou, I didn’t cry until his funeral. I still feel ... now.	Y	Vi	Dom	Fl	Cheltenham	GBR	73	11/26/2018 13:20:38	0	0	0	0	0	5	0
+358	Guilt	I felt ... because I witnessed an event of vandalism by a group of youths to a piece of lifesaving equipment today, and did not stop to try to correct the damage.	D	Mi	H	Ml	Thetford	GBR	107	11/27/2018 20:17:14	0	0	0	4	0	0	1
+380	Joy	I felt ... the first day I brought home our rescue kittens from the shelter and let them out of the carrier.	M	I	Sh	Fl	Oxford	GBR	92	11/22/2018 22:35:26	0	0	0	0	5	0	0
+424	Joy	I felt ... when my autistic son finally got a girlfriend. That we never thought would happen.	Y	Vi	Dom	Fl	Bedford	GBR	97	11/26/2018 16:19:50	0	0	0	0	5	0	0
+648	Shame	I feel ... because I owe more money than I should and don't tell.	D	Mi	Dom	Ml	Bristol	GBR	87	11/28/2018 00:48:59	0	0	0	1	0	0	4
+314	Guilt	I felt ... because I forgot my friend's birthday.	W	N	H	Fl	Cheltenham	GBR	58	11/23/2018 18:25:24	0	0	0	5	0	0	0
+487	Sadness	I felt ... when my mum messaged me when I was on holiday to say her dog had to be put down.	Y	I	Dom	Fl	Oxford	GBR	92	11/22/2018 22:54:24	0	0	0	0	0	5	0
+557	Sadness	I felt ... visiting a house that I grew up in and my parents built, it had changed out of all recognition as it had been developed considerably.	Y	Mi	Sh	Fl	Ely	GBR	62	11/28/2018 10:18:19	0	0	0	0	0	5	0
+527	Sadness	I felt ... when it was raining this morning as I been planning to go on a camping trip.	D	N	H	Fl	Cambridge	GBR	116	11/26/2018 21:20:35	0	0	0	0	0	5	0
+630	Shame	I felt ... when I smacked my granddaughter in public when she was being very naughty.	Y	Vi	Sh	Ml	Prescot	GBR	63	11/27/2018 18:54:24	0	0	0	5	0	0	0
+618	Shame	I felt ... because I forgot my parent's wedding anniversary.	W	Mi	H	Fl	Workington	GBR	58	11/25/2018 20:29:14	0	0	0	4	0	0	1
+250	Fear	I felt ... when I cycled down a mountain in Scotland.	Y	Mi	Fm	Ml	Chelmsford	GBR	91	11/26/2018 23:27:21	0	0	0	0	5	0	0
+495	Sadness	I felt ... when my cat Pepsi died. I felt ... that she had died and I felt ... about the fact I couldn’t do anything to help her. I remember just cuddling her before she was put to sleep and I was so ...	Y	Vi	Dom	Fl	Cheltenham	GBR	73	11/25/2018 07:28:19	0	0	0	1	0	4	0
+413	Joy	I felt ... when my team won.	D	Vi	Sh	Ml	Caldicot	GBR	106	11/27/2018 10:15:26	0	0	0	0	5	0	0
+1	Anger	I felt ... when someone I thought was my friend betrayed my confidences and got me fired.	Y	Vi	Dom	Fl	Shepherds Bush	GBR	90	11/25/2018 15:55:58	4	0	0	0	0	1	0
+84	Anger	I felt ... when last week the doctors messed up my prescription again. When I opened the bag and saw the wrong medication I was ... with them for messing up. I honestly thought I was going to burst with ...	W	I	Sh	Fl	Cheltenham	GBR	73	11/22/2018 05:33:49	5	0	0	0	0	0	0
+161	Disgust	I felt ... because the neighbour had hidden his plans for a development from us, without feeling any remorse.	Y	I	Dom	Fl	Bury	GBR	60	11/21/2018 19:41:57	5	0	0	0	0	0	0
+576	Shame	I felt ... when private messages between me and someone else were publicly posted on Facebook. I was ... because it was so embarrassing.	Y	I	Sh	Fl	Cheltenham	GBR	73	11/25/2018 07:31:38	0	0	0	0	0	0	5
+379	Joy	I felt ... when my son was born. It was an amazing feeling looking at his face for the first time.	Y	Vi	Dom	Fl	Letchworth	GBR	59	11/22/2018 19:07:20	0	0	0	0	5	0	0
+312	Guilt	I felt ... when I lost my sister's necklace that I had borrowed.	M	I	Sh	Fl	Oxford	GBR	92	11/22/2018 22:53:00	0	0	0	5	0	0	0
+537	Sadness	I felt ... when a little baby mouse we were caring for died, and it made my daughter cry.	M	I	Sh	Ml	Bristol	GBR	87	11/28/2018 00:43:29	0	0	0	0	0	5	0
+385	Joy	I felt ... when I heard that my friend had given birth to twins and that mother and babies were doing well.	W	I	Dom	Fl	Cheltenham	GBR	58	11/24/2018 16:51:43	0	0	0	0	5	0	0
+636	Shame	I felt ... when I got caught drink driving.	Y	Vi	Dom	Ml	Norwich	GBR	77	11/26/2018 14:50:46	0	0	0	1	0	0	4
+372	Joy	I felt ... because I had worked very hard at my job for quite a while. An opportunity arose for promotion and I worked very hard to get this. On the day it was announced that I had got the promotion, I was so ..., to think that all the hard work had paid off and that there was a reward at the end of it.	M	Vi	Dom	Ml	Claremorris	IRL	118	11/22/2018 08:58:37	0	0	0	0	5	0	0
+352	Guilt	I felt ... because I finished with a boyfriend who hadn't done anything wrong.	Y	I	Dom	Fl	Hull	GBR	74	11/26/2018 22:36:22	0	0	0	4	0	0	1
+351	Guilt	I felt ... when I lost a necklace that a friend had lent to me. It has sentimental value to her and I felt very ... for not taking more care of it.	M	Mi	Sh	Fl	Cambridge	GBR	116	11/26/2018 21:36:53	0	0	0	5	0	0	0
+370	Joy	I felt ... when I received a call from a person I'm in love with. This person lives abroad and we don't see each other too often.	M	Vi	Sh	Fl	nan	GBR	105	11/22/2018 07:50:13	0	0	0	0	5	0	0
+474	Sadness	I felt ... when I read an article in the Times about David Baddiel's cat dying.	D	N	Fm	Fl	Shepherds Bush	GBR	90	11/25/2018 15:49:34	0	0	0	0	0	5	0
+296	Guilt	I felt ... when I was stopped for driving while over the drink drive limit. I had to go to court and felt ... about the shame and embarassement I brought on my family.	Y	Vi	Dom	Ml	Prescot	GBR	63	11/22/2018 13:36:34	0	0	0	3	0	0	2
+290	Guilt	I felt ... because I lied to my partner about having an affair.	M	I	Dom	Fl	nan	GBR	105	11/22/2018 07:24:29	0	0	0	4	0	0	1
+375	Joy	I felt ... when I won several hundred pounds on the lottery.	Y	Mi	Sh	Ml	nan	GBR	88	11/22/2018 13:03:13	0	0	0	0	5	0	0
+432	Joy	I felt ... when I gave birth to each of my children, and I think it got more ... with each child as I wasn't worrying as much about the process! The wonder of meeting a small person who had been hidden away was incredible.	Y	Vi	Dom	Fl	Ely	GBR	62	11/27/2018 18:34:37	0	0	0	0	5	0	0
+313	Guilt	I felt ... because I had arranged to meet friends after work one evening for a catch up. I got engrossed in my work and didn't feel time slipping by. When I realised I was late, I made a rush to meet up with my friends. I was 45 mins late and felt very ... for leaving them waiting.	W	Mi	H	Ml	Claremorris	IRL	118	11/23/2018 17:26:13	0	0	0	4	0	1	0
+441	Joy	I felt ... when I pounced on a friend and started kissing them. They kissed me back even harder.	Y	Vi	Sh	Fl	Shepherds Bush	GBR	90	11/26/2018 21:37:27	0	0	0	0	5	0	0
+394	Joy	I felt ... when my sister told me she was getting married, so ... for her after a fair few bad relationships.	M	Mi	Dom	Fl	Oxford	GBR	92	11/22/2018 22:53:45	0	0	0	0	5	0	0
+462	Sadness	I felt ... when my grandad died.	Y	I	Sh	Ml	Norwich	GBR	77	11/22/2018 17:56:51	0	0	0	0	0	5	0
+368	Joy	I felt ... when my son was born.	Y	Vi	Dom	Ml	Norwich	GBR	77	11/21/2018 23:57:04	0	0	0	0	5	0	0
+365	Joy	I felt ... when I found a twenty pound note on the ground outside.	W	I	H	Fl	Hull	GBR	74	11/21/2018 21:18:38	0	0	0	0	5	0	0
+422	Joy	I felt ... when my favourite football team won.	D	Vi	Sh	Ml	Caldicot	GBR	106	11/26/2018 10:24:48	0	0	0	0	5	0	0
+285	Guilt	I felt ... when I was awarded a grant and a friend, who is worse off than me, was refused.	Y	I	Dom	Fl	Hull	GBR	74	11/21/2018 21:18:04	0	0	0	5	0	0	0
+635	Shame	I felt ... when I made a mistake at work and lost the company money.	Y	I	H	Fl	Workington	GBR	58	11/26/2018 10:41:46	0	0	0	2	0	0	3
+406	Joy	I felt ... when my team won the cup.	Y	I	Sh	Ml	nan	GBR	88	11/26/2018 13:45:14	0	0	0	0	5	0	0
+528	Sadness	I felt ... when my friend's eye was watering after an injection into it and I could do nothing to help.	D	Mi	Fm	Fl	Shepherds Bush	GBR	90	11/26/2018 21:22:38	0	0	0	3	0	2	0
+322	Guilt	I feel ... because I didn't thank my parent enough.	Y	Mi	Dom	Ml	nan	GBR	88	11/26/2018 08:29:45	0	0	0	3	0	1	1
+538	Sadness	I felt ... that it was the ten year anniversary of my grandad's funeral - I feel it every year, though this particular milestone seemed extra upsetting.	M	Mi	Dom	Ml	nan	GBR	68	11/26/2018 11:46:17	0	0	0	0	0	5	0
+651	Shame	I felt ... when I offended an old man in the supermarket.	W	Mi	H	Ml	Caldicot	GBR	106	11/28/2018 09:43:02	0	0	0	2	0	0	3
+463	Sadness	I felt ... today when I thought of an anniversary that today is for me. I relived different moments and I know I will for the next few days.	D	I	Sh	Fl	Claremorris	IRL	98	11/22/2018 20:36:59	0	0	0	0	0	5	0
+437	Joy	I felt ... when I saw a porcupine crossing the road. I was driving home and it really made my day knowing there could be such a lovely creatures around.	W	I	Sh	Fl	nan	GBR	105	11/26/2018 10:28:51	0	0	0	0	5	0	0
+345	Guilt	I felt ... when I had to leave my dog, whilst I went on holiday. I already felt ..., but when I said goodbye to her, she looked so sad which made me feel even worse. The ... continued whilst I was away when I heard she was pining for me at the door.	M	Vi	Dom	Fl	Cheltenham	GBR	73	11/26/2018 13:14:46	0	0	0	4	0	1	0
+338	Guilt	I felt ... at a young age when I was a boy. Some of my friends had tried shop lifting so I tried it. I stole something and felt quite bad about it inside. I never did it again after that experience.	Y	Mi	H	Ml	Paignton	GBR	101	11/27/2018 15:53:19	0	0	0	2	0	0	3
+306	Guilt	I felt ... that I moved away to another country from my family as I met my partner. Although my children are now older and both have their own lives, I feel I should be nearer them to support them.	Y	I	Dom	Fl	Dulwich	GBR	86	11/25/2018 16:20:15	0	0	0	5	0	0	0
+373	Joy	I felt ... because I was going to South Africa to see my partner who was waiting for a UK visa and we hadn't seen each other for a while, I was excited not just to see him but to visit a new country with such a wide variety of things to do, places to go and things to see.	Y	Vi	Dom	Ml	London	GBR	82	11/22/2018 10:26:07	0	0	0	0	5	0	0
+646	Shame	I felt ... because I had been told not to put my used monthly protection in a certain bin and I did, and then I lied about doing it.	Y	Vi	Dom	Fl	Ely	GBR	62	11/27/2018 19:01:07	0	0	0	3	0	0	2
+570	Shame	I felt ... when I forgot to do an errand that I promised I would do for a friend.	D	I	Fm	Fl	Cheltenham	GBR	58	11/23/2018 18:22:07	0	0	0	5	0	0	0
+471	Sadness	I felt ... when my ex-wife was going through a very hard time financially and emotionally, and felt that I was unable to help her, other than try to provide something inadequate.	Y	I	Dom	Ml	Prescot	GBR	63	11/24/2018 08:58:43	0	0	0	2	0	1	2
+339	Guilt	I felt ... because I accidentally killed my pet fish by decorating his tank with untreated sand.	Y	I	Dom	Fl	Ely	GBR	62	11/27/2018 18:39:50	0	0	0	4	0	0	1
+598	Shame	I felt ... because I split my trousers.	Y	Mi	Fm	Ml	nan	GBR	88	11/26/2018 08:25:14	0	0	0	0	0	0	5
+325	Guilt	I felt ... when I forgot a relative's birthday.	Y	I	H	Ml	Norwich	GBR	77	11/25/2018 18:09:18	0	0	0	4	0	0	1
+516	Sadness	I felt ... when Princess Diana died in a car accident in France.	Y	Mi	Fm	Ml	Paignton	GBR	101	11/27/2018 14:20:00	0	0	0	0	0	5	0
+482	Sadness	I felt ... when my grandad passed away.	Y	I	Sh	Ml	Norwich	GBR	77	11/22/2018 17:50:15	0	0	0	0	0	5	0
+428	Joy	I felt ... when Will Young won Pop Idol because he was nicer than Gareth Gates.	Y	Vi	Fm	Ml	Chelmsford	GBR	91	11/26/2018 23:22:10	0	0	0	0	5	0	0
+328	Guilt	I felt ... when I was about 8 years old as I took a packet of sweets from a shop when the shopkeeper was out the back. We had very little money and having sweets was a rarity.	Y	I	Dom	Fl	Dulwich	GBR	86	11/26/2018 07:10:19	0	0	0	3	0	0	2
+620	Shame	I felt ... when I ate my whole Easter egg in one go.	M	Mi	Sh	Fl	Stoke-on-trent	GBR	92	11/26/2018 09:22:27	0	0	0	4	0	0	1
+634	Shame	I felt ... when I lied about the reliability of a second hand bicycle I sold, neglecting to mention a problem with the crankset.	Y	Mi	Dom	Ml	nan	GBR	68	11/26/2018 10:31:46	0	0	0	5	0	0	0
+426	Joy	I felt ... when I got married. I married later in life and it was something that I had always wanted and was the happiest day of my life.	Y	Vi	Dom	Fl	Cambridge	GBR	116	11/26/2018 21:38:40	0	0	0	0	5	0	0
+369	Joy	I felt ... because my daughter scored in the highest percentile on a test designed to see how well she may do in her exams to decide her high school.	W	Vi	Dom	Ml	Eastbourne	GBR	103	11/22/2018 06:45:53	0	0	0	0	5	0	0
+287	Guilt	I felt ... when I decided not to go to my cousins wedding because I was exhausted and couldn’t find anyone to look after my sick parent at the time. I knew she really wanted me to be there, so I felt really ... that I didn’t make it.	Y	Mi	Sh	Fl	Crewe	GBR	89	11/21/2018 23:32:23	0	0	0	5	0	0	0
+353	Guilt	I felt ... when I broke a glass cabinet at a party.	Y	Mi	Dom	Ml	Chelmsford	GBR	91	11/26/2018 23:23:33	0	0	0	3	0	0	2
+317	Guilt	I felt ... when I told a lie to get out of an appointment, when there was not really any reason why I could not attend.	M	N	H	Ml	Prescot	GBR	63	11/24/2018 09:17:00	0	0	0	5	0	0	0
+294	Guilt	I felt ... when I forgot our anniversary.	Y	Mi	Sh	Ml	nan	GBR	88	11/22/2018 13:02:33	0	0	0	3	0	1	1
+583	Shame	I felt ... when I was in school and myself and some friends were playing outside. The ball we were playing with went through the school window and smashed it. We were brought in front of the school principal where he proceeded to chastise us.	Y	I	H	Ml	Claremorris	IRL	118	11/22/2018 17:16:42	0	0	0	4	0	0	1
+490	Sadness	I felt ... when my first boyfriend broke up with me. I really loved him and it broke my heart. In retrospect it was for the best, but it didn't seem like it at the time.	Y	Vi	Dom	Fl	Earith	GBR	62	11/23/2018 18:55:06	0	0	0	0	0	5	0
+604	Shame	I felt ... when I shoplifted as a child because my sister talked me into it and I should have known better.	Y	Vi	Dom	Fl	Bedford	GBR	97	11/26/2018 16:05:49	0	0	0	1	0	0	4
+336	Guilt	I felt ... because I refused to lend money to someone, even though I could afford to do so.	M	Mi	H	Fl	Hull	GBR	74	11/26/2018 22:45:03	0	0	0	4	0	0	1
+449	Joy	I felt ... when I got 5 numbers out of 6 on my lottery ticket.	Y	Mi	Sh	Ml	Bristol	GBR	87	11/28/2018 01:21:47	0	0	0	0	5	0	0
+355	Guilt	I felt ... on an occasion when I took the name of Jesus Christ in vain in an attempt to impress the ladies that I was a big shot. At that time I was not not religious but I did feel bad about it for some reason. Since that time, I have never done this again.	Y	I	Fm	Ml	Paignton	GBR	101	11/27/2018 15:56:14	0	0	0	4	0	0	1
+532	Sadness	I felt ... when I saw a homeless man with a dog on the street.	M	Mi	H	Ml	Caldicot	GBR	106	11/27/2018 10:18:02	0	0	0	1	0	3	1
+460	Sadness	I felt ... when I remembered how many years have past since I last saw the person who was my best friend during my schooldays.	M	Mi	Dom	Ml	nan	GBR	68	11/22/2018 15:28:29	0	0	0	4	0	1	0
+390	Joy	I felt ... when I opened my A-Level results and achieved good enough grades to get to my first choice university.	Y	Vi	Sh	Ml	nan	GBR	68	11/22/2018 15:55:15	0	0	0	0	5	0	0
+389	Joy	I felt ... when my best friend had a little boy, who she had been trying for years for.	M	Vi	Sh	Fl	Hull	GBR	74	11/22/2018 15:33:05	0	0	0	0	5	0	0
+653	Shame	I felt … when, as a teenager, I found a lip gloss on the ground outside. I didn't want to use it as I didn't know where it had been, so I put it in a friend's desk with a note which I disguised my handwriting in, saying it was a present. Thankfully she didn't drop dead from a contagious disease, but I still feel a bit ...!	Y	Mi	Dom	Fl	Ely	GBR	62	11/28/2018 10:15:37	0	0	0	5	0	0	0
+292	Guilt	I felt ... because I had promised my son that I would bring him to a football game one weekend. He was looking forward to it for so long and was very excited. One day beforehand, I found out in work that I was needed to work overtime, which would mean that I would miss the match. There was nothing I could do about it, but I was feeling very ... about missing the game. When I told my son, he was so disappointed, but understood, which made my ... even worse.	M	I	Sh	Ml	Claremorris	IRL	118	11/22/2018 08:53:26	0	0	0	5	0	0	0
+628	Shame	I felt ... when my credit card was refused in a shop.	Y	N	Sh	Ml	nan	GBR	88	11/27/2018 10:55:16	0	0	0	0	0	0	5
+472	Sadness	I felt ... when my mother died after suffering from cancer for months.	Y	Vi	Dom	Ml	Denbigh	GBR	95	11/24/2018 09:13:53	0	0	0	0	0	5	0
+360	Joy	I felt ... because I was going to see my favourite music artist perform live.	M	Vi	Dom	Ml	Brampton	GBR	72	11/21/2018 18:22:32	0	0	0	0	5	0	0
+494	Sadness	I feel ... when I hear sad things, such as news of a death, or somebody having a terminal illness. I feel ... when I watch sad films and sometimes I feel ... when the weather is grey and depressing.	D	Mi	H	Fl	Tunbridge Wells	GBR	122	11/24/2018 11:08:54	0	0	0	0	0	5	0
+320	Guilt	I felt ... because I had to make the decision to have my chocolate labrador put down, she was struggling to walk. It was a such a hard decision because I wanted to keep her with me, she was outstanding, so good and perceptive. I know she couldn't have carried on as as she was and the vet said she had lived longer than a lot of labradors, but I still felt/feel ... for having to make that decision.	W	I	Dom	Fl	Dulwich	GBR	86	11/25/2018 16:49:58	0	0	0	3	0	2	0
+492	Sadness	I felt ... when there was a tsunami in Thailand because lots of people were killed.	Y	Vi	Sh	Ml	Chelmsford	GBR	91	11/23/2018 22:37:39	0	0	0	0	0	5	0
+515	Sadness	I felt ... when I lost my dad. The ... I felt was later in life as I was very young when he died. As I got older I felt ... that he wouldn’t be here for the big moments.	Y	I	Dom	Fl	Cheltenham	GBR	73	11/27/2018 06:06:02	0	0	0	0	0	5	0
+439	Joy	I felt ... when I realised that it was less than a month until Xmas. I absolutely love Xmas and it’s my favourite time of the year, so I often very ...	D	Vi	Dom	Fl	Cheltenham	GBR	73	11/26/2018 13:12:03	0	0	0	0	5	0	0
+567	Shame	I felt ... when I was eating at school for the first time in years, when I actually had money, and people made fun of me for eating because I was overweight. It made me feel worthless and like I shouldn’t have been eating anything at all.	Y	Vi	Dom	Fl	Crewe	GBR	89	11/22/2018 22:30:25	0	0	0	1	0	0	4
+295	Guilt	I feel ... because I didn't visit a friend who was unwell.	W	Mi	Dom	Fl	Claremorris	IRL	96	11/22/2018 13:07:16	0	0	0	5	0	0	0
+456	Joy	I felt ... when I bet and I had won.	D	Mi	Fm	Ml	nan	GBR	88	11/28/2018 14:13:59	0	0	0	0	5	0	0
+408	Joy	I felt ... because I won a raffle prize.	Y	Mi	Fm	Fl	Sheffield	GBR	56	11/26/2018 17:27:12	0	0	0	0	5	0	0
+484	Sadness	I felt ... when my beautiful dog had to be brought to the vet and the decision was made for her to be put to sleep.	M	Vi	Dom	Fl	Claremorris	IRL	98	11/22/2018 20:38:28	0	0	0	0	0	5	0
+454	Joy	I felt ... because I was baptised in the Holy Spirit as a Christian. It was like all my worries were pushed to one side and I had a feeling of immense love, peace and ...	Y	Vi	Dom	Fl	Ely	GBR	62	11/28/2018 10:23:28	0	0	0	0	5	0	0
+562	Shame	I felt ... because I walked past a beggar and didn't bother to stop and give her a pound.	D	Mi	H	Fl	Hull	GBR	74	11/22/2018 15:17:28	0	0	0	3	0	0	2
+633	Shame	I felt ... when my swimming costume broke and I came out of the sea naked.	Y	Mi	Fm	Fl	nan	GBR	105	11/26/2018 10:31:28	0	0	0	0	0	0	5
+430	Joy	I felt ... because my son gave me a big hug when I got home from work.	W	I	Fm	Ml	nan	GBR	88	11/27/2018 10:53:30	0	0	0	0	5	0	0
+392	Joy	I felt ... when I finally got all the children into bed after a very, long day.	D	Mi	Fm	Fl	Claremorris	IRL	98	11/22/2018 21:05:02	0	0	0	0	5	0	0
+289	Guilt	I felt ... because my grandfather passed away and I was not there because I didn't want to drive in the early hours of the morning.	Y	Vi	Dom	Ml	Eastbourne	GBR	103	11/22/2018 07:09:16	0	0	0	3	0	2	0
+475	Sadness	I felt ... when my mother died age only 59. I sat with her as she took her last breath and have never felt ... like it.	Y	Vi	Dom	Fl	Troon	GBR	125	11/25/2018 15:53:47	0	0	0	0	0	5	0
+551	Sadness	I felt ... when I watched some of the sad cases of children in need.	D	Mi	Fm	Ml	Bristol	GBR	87	11/28/2018 00:46:49	0	0	0	0	0	5	0
+561	Sadness	I felt ... when my Granny passed away. It's her anniversary and I'm so ... again. I miss her so...	Y	Vi	Dom	Fl	Claremorris	IRL	98	11/29/2018 10:07:37	0	0	0	0	0	5	0
+376	Joy	I feel ... when there are tasks to complete on this platform and that ... is doubled when I get my earning paid into my paypal account.	W	Mi	Sh	Fl	Claremorris	IRL	96	11/22/2018 13:35:45	0	0	0	0	5	0	0
+638	Shame	I felt ... because I did something silly.	Y	N	Fm	Fl	Sheffield	GBR	56	11/26/2018 17:24:52	0	0	0	1	0	0	4
+616	Shame	I felt ... because I cheated on my husband.	Y	Vi	Dom	Fl	Troon	GBR	125	11/25/2018 15:59:02	0	0	0	3	0	0	2
+405	Joy	I felt ... when I came home from hospital and was greeted by my beautiful dog who I had missed dearly. She was so pleased to see me, and I was so ...	Y	I	Sh	Fl	Cheltenham	GBR	73	11/26/2018 13:10:36	0	0	0	0	5	0	0
+400	Joy	I felt ... dancing down Gloucester Place in London with the man I loved.	Y	I	Fm	Fl	Shepherds Bush	GBR	90	11/25/2018 16:11:40	0	0	0	0	5	0	0
+397	Joy	I felt ... because my daughter managed to achieve an amazing result in an international competition for creatives. As a finalist, she had some brilliant prizes and encouragement and it brought the whole family much ...	Y	Vi	Dom	Fl	Earith	GBR	62	11/23/2018 19:16:00	0	0	0	0	5	0	0
+560	Sadness	I felt ... when my grandmother died as she was the only one who understood me.	Y	Vi	Dom	Fl	Shepherds Bush	GBR	90	11/28/2018 21:37:06	0	0	0	0	0	5	0
+303	Guilt	I felt ... when I ate the last burrito which belonged to my sister.	M	Mi	H	Ml	Caldicot	GBR	106	11/24/2018 11:02:54	0	0	0	5	0	0	0
+624	Shame	I felt ... when I had an extra marital affair. It was not until I was found out that I realised the hurt and pain I had caused.	Y	I	Dom	Fl	Cambridge	GBR	116	11/26/2018 21:22:32	0	0	0	3	0	0	2
+549	Sadness	I felt ... when my bridesmaid died of cancer. She was amazing, she was so generous and spent years in Africa doing charity work, and then ran a night shelter. She regularly had awful migraines, but that pain blinded her to the dangers of stomach cancer.	Y	Vi	Dom	Fl	Ely	GBR	62	11/27/2018 19:08:22	0	0	0	0	0	5	0
+391	Joy	I felt ... after the birth of my first grandchild.	M	I	Dom	Ml	Norwich	GBR	77	11/22/2018 17:51:55	0	0	0	0	5	0	0
+283	Guilt	I felt ... because I wasn't there when my mother died.	Y	Vi	Dom	Fl	Bury	GBR	60	11/21/2018 19:45:39	0	0	0	4	0	0	1
+402	Joy	I felt ... when I received a postage stamp that I had bought online for my collection - it was in excellent condition and completed a set that I had been accumulating since childhood.	M	I	H	Ml	nan	GBR	68	11/26/2018 11:45:11	0	0	0	0	5	0	0
+288	Guilt	I felt ... when my best mate died from a drug overdose and I couldn't save him.	Y	Vi	Dom	Ml	Norwich	GBR	77	11/21/2018 23:56:09	0	0	0	0	0	5	0
+60	Anger	I felt ... when my colleagues did not even bother to say goodbye to me when I got made redundant or even call me to say they were sorry I was going.	Y	I	Dom	Fl	Shepherds Bush	GBR	90	11/25/2018 15:58:23	0	0	0	0	0	5	0
+609	Shame	I felt ... when I offended a young woman.	W	Mi	H	Ml	Caldicot	GBR	106	11/27/2018 10:13:37	0	0	0	3	0	0	2
+447	Joy	I felt ... when I got married. I hope I wasn't alone, it was a near-perfect day.	Y	Vi	Dom	Fl	Ely	GBR	62	11/27/2018 18:43:23	0	0	0	0	5	0	0
+552	Sadness	I felt ... when the neighbour's wife had passed away. Although I did not know him very well, I felt sorry for him.	W	Mi	H	Ml	Bristol	GBR	87	11/28/2018 09:18:58	0	0	0	0	0	5	0
+483	Sadness	I felt ... because my mother died of cancer. It was the biggest loss I ever had and I still miss her everyday.	Y	Vi	Dom	Fl	Letchworth	GBR	59	11/22/2018 19:02:05	0	0	0	0	0	5	0
+357	Guilt	I felt ... when a shop assistant gave me too much change and I didn't say anything.	M	N	H	Ml	Prescot	GBR	63	11/27/2018 19:11:57	0	0	0	5	0	0	0
+599	Shame	I felt ... that I lied about consuming the last of the milk this morning, letting my son take the blame from his mother.	D	N	Fm	Ml	nan	GBR	68	11/26/2018 11:47:30	0	0	0	4	0	0	1
+644	Shame	I felt ... when I attempted to steal a book in a store. I took the book with the intention of walking out the store without paying for it. A sense of ... came over me and I actually put the book back. Since that time I have never attempted anything like this again.	Y	I	Fm	Ml	Paignton	GBR	101	11/27/2018 16:32:52	0	0	0	2	0	0	3
+594	Shame	I felt ... when I forgot to take my son to a football match because I didn't read messages in a text group carefully enough.	W	Mi	H	Fl	Cheltenham	GBR	58	11/24/2018 16:50:10	0	0	0	5	0	0	0
+473	Sadness	I felt ... when my friend died the other week. I hadn’t seen him for a while and this made me very ... Then on the day of his funeral the ... overwhelmed me and I could not even speak.	W	Vi	Dom	Fl	Cheltenham	GBR	73	11/25/2018 06:40:06	0	0	0	0	0	5	0
+301	Guilt	I felt ... because I encouraged a boyfriend to like me and then later split up with him. It was wrong of me to be as encouraging I was with the reservations I had.	Y	I	Dom	Fl	Earith	GBR	62	11/23/2018 18:47:35	0	0	0	4	0	0	1
+429	Joy	I felt ... when my best friend who moved to Australia surprised me by coming over to England to see me unexpectedly as a surprise visit, she stayed and we spent the whole week making up for lost time.... going to the cinema, going shopping, having girly nights in with old friends and nights out at the weekend. That ... lasted for an entire week. She's back in Australia now and I miss her.	M	I	Dom	Fl	Walsall	GBR	108	11/27/2018 01:37:56	0	0	0	0	5	0	0
+403	Joy	I felt ... when I won a price for writing an article on podcasting.	Y	I	Sh	Fl	nan	GBR	105	11/26/2018 12:15:28	0	0	0	0	5	0	0
+340	Guilt	I felt ... when I smacked my dog after he weed in the house.	M	I	H	Ml	Prescot	GBR	63	11/27/2018 19:10:51	0	0	0	4	0	0	1
+354	Guilt	I felt ... when I offended an old man.	W	I	Sh	Ml	Caldicot	GBR	106	11/27/2018 10:10:31	0	0	0	1	0	0	4
+498	Sadness	I felt ... because we had a beautiful tortoiseshell and white cat who was very loving. When she was only 2 she became very unwell and I had to take her to the vets they x rayed her and said she had a twisted gut and it would be better to put her down.	M	I	Dom	Fl	Dulwich	GBR	86	11/25/2018 16:55:06	0	0	0	0	0	5	0
+658	Shame	I felt ... when I realized how selfish I was being to someone recently. The situation is none of my business, so I'll butt out.	W	Mi	Sh	Fl	Claremorris	IRL	98	11/29/2018 10:08:39	0	0	0	1	0	0	4
+652	Shame	I felt ... that I failed to pay back a loan from my parents, preferring to assume it had been forgotten about rather than reminded them of the subject when the opportunity arose.	Y	Mi	Dom	Ml	nan	GBR	68	11/28/2018 09:52:12	0	0	0	3	0	0	2
+625	Shame	I felt ... when I said "no" to helping someone out simply because I couldn't be bothered.	W	Mi	H	Fl	Hull	GBR	74	11/26/2018 22:43:39	0	0	0	4	0	0	1
+337	Guilt	I felt ... when I laughed at a milkman falling over.	Y	N	Fm	Ml	Chelmsford	GBR	91	11/26/2018 23:24:32	0	0	0	3	0	0	2
+425	Joy	I felt ... when I passed my Nursing exams to become a qualified Staff Nurse. I worked hard to get there and wanted to make my parents proud of me.	Y	I	Dom	Fl	Port Talbot	GBR	86	11/26/2018 21:04:16	0	0	0	0	5	0	0
+612	Shame	I felt ... because my dog was aggressive with another smaller dog for no obvious reason.	D	Mi	Sh	Fl	Ely	GBR	62	11/27/2018 18:57:55	0	0	0	2	0	0	3
+305	Guilt	I felt ... when I did not have the money for tickets to go and see my parents more often.	M	Mi	H	Fl	Shepherds Bush	GBR	90	11/25/2018 16:07:03	0	0	0	1	0	3	1
+291	Guilt	I felt ... that I moan about a life that is essentially privileged and comfortable, when there is real poverty in the world, even on the streets of my city.	M	Mi	Fm	Ml	nan	GBR	68	11/22/2018 08:20:23	0	0	0	4	0	0	1
+293	Guilt	I felt ... at my last birthday, I got a present from my partner I didn't really want, it was expensive and I knew that we couldn't really afford it. I told him to take it back and he was very upset by it. I felt pangs of ... afterwards and knew I had dealt with it all wrong as the gift was given out of love and I responded with what appeared to be spite.	M	I	Sh	Ml	London	GBR	82	11/22/2018 10:28:07	0	0	0	5	0	0	0
+388	Joy	I felt ... when I got a new job.	Y	Vi	Dom	Ml	Droitwich	GBR	119	11/22/2018 14:48:42	0	0	0	0	5	0	0
+409	Joy	I felt ... when I bought my first home.	Y	I	Dom	Fl	Shepherds Bush	GBR	90	11/26/2018 21:38:22	0	0	0	0	5	0	0
+559	Sadness	I felt ... when I had to attend my grandmother's funeral.	Y	Vi	Dom	Fl	Workington	GBR	58	11/28/2018 19:41:53	0	0	0	0	0	5	0
+503	Sadness	I felt ... when watching children in need and seeing some of the stories the families had.	M	Mi	H	Fl	Troon	GBR	125	11/25/2018 16:00:58	0	0	0	1	0	4	0
+486	Sadness	I felt ... when I wasn’t able to speak to a close friend when he was been sick in hospital. It made me ... because I wanted to be able to make him feel happier, and wasn’t able to do so.	D	Mi	Sh	Fl	Crewe	GBR	89	11/22/2018 22:24:09	0	0	0	0	0	5	0
+522	Sadness	I felt ... when my father was diagnosed with dementia and stopped acting as a rational human being.	Y	Vi	Dom	Fl	nan	GBR	105	11/26/2018 10:27:37	0	0	0	0	0	5	0
+533	Sadness	I felt ... when my mother-in-law passed away.	Y	Mi	Dom	Ml	nan	GBR	88	11/27/2018 10:54:32	0	0	0	0	0	5	0
+319	Guilt	I felt ... when I did not get round to doing the minutes of a meeting for almost three weeks.	W	N	H	Fl	Shepherds Bush	GBR	90	11/25/2018 16:08:09	0	0	0	5	0	0	0
+349	Guilt	I felt ... when I took something without paying.	Y	Mi	Fm	Fl	Sheffield	GBR	56	11/26/2018 17:22:41	0	0	0	3	0	0	2
+199	Fear	I felt ... when I was playing Red Dead Redemption 2.	D	I	Sh	Ml	Caldicot	GBR	106	11/23/2018 10:25:51	0	0	0	0	5	0	0
+330	Guilt	I felt ... because I forgot a friend's birthday.	Y	Mi	H	Ml	nan	GBR	88	11/26/2018 08:30:17	0	0	0	5	0	0	0
+582	Shame	I felt ... when I got intoxicated at a lively work Christmas party and said some rather unwise things to a senior colleague.	Y	I	Dom	Ml	nan	GBR	68	11/22/2018 16:00:47	0	0	0	0	0	0	5
+297	Guilt	I felt ... because I failed to save the life of a mouse. My cat had brought a mouse into the house and it escaped her clutches and dashed into a waste paper bin. Instead of doing something constructive such as covering the bin or picking it up off the floor, I just screamed and jumped on the furniture. This allowed my cat to recapture the mouse and I have felt ... for not saving that mouse from that day.	Y	Mi	Dom	Fl	nan	GBR	127	11/22/2018 17:11:45	0	0	0	4	0	0	1
+458	Joy	I felt ... lying on a yacht sweeping though the waves off Southern Brazil with a cold beer in my hand.	Y	Mi	H	Fl	Shepherds Bush	GBR	90	11/28/2018 21:45:06	0	0	0	0	5	0	0
+626	Shame	I felt ... when I forgot a hairdressers appointment.	Y	Vi	Sh	Ml	Chelmsford	GBR	91	11/26/2018 23:36:19	0	0	0	5	0	0	0
+586	Shame	I felt ... after telling my aunt a little white lie as I didn't want to take her to a hospital appointment. I'm ... of my laziness.	D	Mi	Sh	Fl	Claremorris	IRL	98	11/22/2018 20:40:56	0	0	0	0	0	0	5
+564	Shame	I felt ... when I was arrested for stealing.	Y	I	H	Ml	Norwich	GBR	77	11/22/2018 17:53:44	0	0	0	0	0	0	5
+641	Shame	I felt ... when I shouted at someone for no good reason	M	Mi	H	Fl	Hull	GBR	74	11/26/2018 22:34:37	0	0	0	4	0	0	1
+398	Joy	I felt ... when I finally managed to complete my undergraduate degree. I felt ... because it had been a long hard three years so when it was finally completed, I felt very ...	Y	Vi	Dom	Fl	Cheltenham	GBR	73	11/24/2018 07:48:29	0	0	0	0	5	0	0
+578	Shame	I felt ... when I was caught stealing sweets as a child.	Y	I	H	Fl	Troon	GBR	125	11/25/2018 15:55:39	0	0	0	1	0	0	4
+350	Guilt	I felt ... snogging a friend as I really did like his girlfriend.	Y	I	Dom	Fl	Shepherds Bush	GBR	90	11/26/2018 21:36:20	0	0	0	4	0	0	1
+517	Sadness	I felt ... when I heard that an old work colleague had died.	M	I	Dom	Ml	Prescot	GBR	63	11/27/2018 18:50:10	0	0	0	0	0	5	0
+640	Shame	I felt ... that a member of staff was being nice to me when I was not able to afford what they showed me and which suited me.	D	Mi	Sh	Fl	Shepherds Bush	GBR	90	11/26/2018 21:25:03	0	0	0	1	1	0	3
+309	Guilt	I felt ... when my mate died and I wasn't there to help him.	Y	I	Dom	Ml	Norwich	GBR	77	11/22/2018 17:52:45	0	0	0	2	0	3	0
+558	Sadness	I felt ... when my football team lost.	D	N	H	Ml	nan	GBR	88	11/28/2018 14:13:06	0	0	0	0	0	5	0
+504	Sadness	I felt ... when my daughter miscarried her first child as she had been trying for a couple of years and was really looking forward to it. She would have been a lovely mother and it would have been another grand child for me.	M	I	Dom	Fl	Dulwich	GBR	86	11/25/2018 16:46:51	0	0	0	0	0	5	0
+645	Shame	I felt ... when I shouted at a colleague for not doing the job properly and had to apologise.	M	I	Sh	Ml	Prescot	GBR	63	11/27/2018 18:55:40	0	0	0	2	0	0	3
+588	Shame	I felt ... when I realized I had pulled out a pair of pants from my bag when I was getting my wallet out	M	I	Sh	Fl	Oxford	GBR	92	11/22/2018 22:55:07	0	0	0	0	0	0	5
+315	Guilt	I felt ... when my dog decided to try to be too friendly with another dog and was a real pest. It was embarrassing and made me feel ... as the other dog owner was so nice about it.	D	Mi	H	Fl	Earith	GBR	62	11/23/2018 18:45:43	0	0	0	1	0	0	4
+544	Sadness	I felt ... when my grandparent died. It was very unexpected and although we were not close, it came as a shock.	Y	I	Dom	Fl	Cambridge	GBR	116	11/26/2018 21:21:32	0	0	0	0	0	5	0
+323	Guilt	I feel ... that I am sitting at home eating too much when there are people starving in the world, and regular adverts on certain cable tv channels reminds me of this.	D	Mi	Fm	Ml	nan	GBR	68	11/25/2018 14:36:12	0	0	0	4	0	0	1
+346	Guilt	I felt ... when I forgot to pick someone up for a lift.	Y	I	Sh	Ml	nan	GBR	88	11/26/2018 14:00:23	0	0	0	5	0	0	0
+326	Guilt	I felt ... when I ran over a bird on the road.	Y	I	H	Fl	Workington	GBR	58	11/25/2018 20:34:59	0	0	0	3	0	2	0
+324	Guilt	I felt ... about having let my debt situation get so bad that I ended up with a CCJ.	Y	I	Dom	Fl	Shepherds Bush	GBR	90	11/25/2018 16:09:12	0	0	0	1	0	0	4
+613	Shame	I felt ... because I could not afford a foreign holiday for my family.	M	Mi	Dom	Ml	Bristol	GBR	87	11/28/2018 00:48:08	0	0	0	1	0	1	3
+601	Shame	I felt ... when I had to file my divorce petition because I had to reveal the causes why my marriage failed.	Y	Vi	Dom	Fl	Workington	GBR	58	11/26/2018 12:36:49	0	0	0	0	0	0	5
+572	Shame	I felt ... when I found money and did not hand it in.	Y	Mi	Fm	Ml	Chelmsford	GBR	91	11/23/2018 22:39:31	0	0	0	5	0	0	0
+310	Guilt	I felt ... because I looked at all the stuff that Santa has organised for my children, and I felt ... for all the children who will get nothing.	D	I	Sh	Fl	Claremorris	IRL	98	11/22/2018 21:08:21	0	0	0	0	0	5	0
+307	Guilt	I felt ... when i stole something from a shop.	Y	Mi	H	Fl	Hull	GBR	74	11/22/2018 15:22:09	0	0	0	5	0	0	0
+331	Guilt	I felt ... when I scraped another car and drove off, so I drove back there to leave my Insurance details.	Y	I	H	Fl	Stoke-on-trent	GBR	92	11/26/2018 09:13:16	0	0	0	5	0	0	0
+200	Fear	I felt ... when we were making a long journey and my husband, who was driving, failed to see a lorry pulling out in front of us. I yelled and he acted, which saved us, but I still was ...	Y	Vi	Fm	Fl	Earith	GBR	62	11/23/2018 19:09:41	1	0	4	0	0	0	0
+256	Fear	I felt ... when I was attacked by a huge dog while walking to my working place.	Y	Vi	Sh	Fl	nan	GBR	105	11/26/2018 10:33:07	0	0	5	0	0	0	0
+92	Disgust	I felt ... when I saw a security man handling a homeless guy outside a shop, my ... was due to the fact they were not treating him like a human.	M	I	H	Ml	Norwich	GBR	77	11/21/2018 23:54:00	5	0	0	0	0	0	0
+74	Anger	I felt ... when the Twin Towers in New York were destroyed in a terrorist attack.	Y	Mi	Dom	Ml	Paignton	GBR	101	11/27/2018 14:28:35	1	0	2	0	0	2	0
+14	Anger	I felt ... because I saw in the news that a 98 year old man had been robbed and beaten up.	W	I	H	Fl	Caerphilly	GBR	86	11/22/2018 11:30:45	1	1	0	0	0	3	0
+273	Fear	I felt ... a huge spider just plopped on down on the sofa besides me, staring me out.	Y	Mi	Fm	Ml	Bristol	GBR	87	11/28/2018 09:14:27	0	0	5	0	0	0	0
+229	Fear	I felt ... when I nearly got ran over.	W	I	Fm	Fl	Sheffield	GBR	56	11/26/2018 17:26:31	1	0	4	0	0	0	0
+251	Fear	I felt ... when I was riding my motor scooter too fast and saw that I was going to hit a car. I hit the car and was not badly hurt but it was a ... experience.	Y	I	Fm	Ml	Paignton	GBR	101	11/27/2018 16:09:33	0	0	5	0	0	0	0
+64	Anger	I felt ... when my house was burgled as my children were asleep in bed at the time, and it was the thought that anything could have happened to them.	Y	I	Dom	Fl	Dulwich	GBR	86	11/26/2018 06:59:37	2	0	3	0	0	0	0
+236	Fear	I felt ... when starting to open an envelope that I presumed contained the results of a hospital test I had taken recently.	W	Vi	Fm	Ml	nan	GBR	68	11/25/2018 14:34:44	0	0	5	0	0	0	0
+4	Anger	I felt ... when someone made a racist comment to my friend while we were in the supermarket.	D	Vi	H	Fl	Hull	GBR	74	11/21/2018 21:12:56	3	2	0	0	0	0	0
+52	Anger	I felt ... when someone accused me of spreading a rumour, but I had nothing to do with it.	Y	Vi	Sh	Fl	Hull	GBR	74	11/26/2018 22:38:42	4	1	0	0	0	0	0
+118	Disgust	I felt ... when my son was slapped by a teaching assistant at school and said teaching assistant didn't tell me about it.	M	Vi	Dom	Fl	Cheltenham	GBR	58	11/23/2018 18:23:40	3	1	0	0	0	0	1
+86	Anger	I felt ... when I was dumped by being ignored by the man I loved.	Y	Vi	Dom	Fl	Shepherds Bush	GBR	90	11/28/2018 21:40:48	1	0	0	0	0	4	0
+42	Anger	I felt ... when I asked my ex husband to pick up a take away for us. He asked me to pick him up from the pub after I had finished working. I work as a District Nurse and work 10 hour shifts. I pulled up outside the pub and he was standing outside with a kebab in his hand for himself. I was very ... as I was really hungry then and he'd been in the pub most of the day.	Y	I	Dom	Fl	Dulwich	GBR	86	11/25/2018 16:34:34	5	0	0	0	0	0	0
+124	Disgust	I felt ... when I ate something I thought was fresh pineapple and looked at the rest of it and saw it was squirming.	Y	I	H	Fl	Shepherds Bush	GBR	90	11/25/2018 16:01:13	0	5	0	0	0	0	0
+168	Disgust	I felt ... when my mother forgot my daughter's birthday.	Y	Vi	Dom	Ml	Chelmsford	GBR	91	11/26/2018 23:29:57	2	0	0	1	0	2	0
+73	Anger	I felt ... when the gas board dug up a local road.	D	Mi	Fm	Ml	Chelmsford	GBR	91	11/26/2018 23:33:26	4	0	0	1	0	0	0
+262	Fear	I felt ... when I woke up from having a nightmare. When I awoke I felt ... in the dark and had to put the lights on and give myself some time to calm down.	W	N	Fm	Fl	Cambridge	GBR	116	11/26/2018 21:32:54	0	0	5	0	0	0	0
+206	Fear	I felt ... when trying to go to the top of a set of high stairs to ride a water ride. The height made me ...	Y	I	Fm	Fl	Troon	GBR	55	11/25/2018 16:04:38	0	1	4	0	0	0	0
+82	Anger	I felt ... when another dog owner told someone else that my dog was vicious when he is not.	M	Mi	Sh	Fl	Ely	GBR	62	11/28/2018 10:12:17	5	0	0	0	0	0	0
+65	Anger	I felt ... when I saw on tv how Trump is dealing with immigrants from Mexico.	M	I	Sh	Fl	nan	GBR	105	11/26/2018 07:59:30	3	2	0	0	0	0	0
+138	Disgust	I felt ... when I had bean soup.	D	I	Fm	Ml	Caldicot	GBR	106	11/27/2018 08:12:04	0	2	0	0	3	0	0
+249	Fear	I felt ... because I had to have a general anaesthetic for an operation.	Y	I	Sh	Fl	Hull	GBR	74	11/26/2018 22:45:36	0	0	5	0	0	0	0
+157	Disgust	I felt ... when I saw an old man being attacked at a football match.	Y	Vi	Fm	Ml	Chelmsford	GBR	91	11/26/2018 23:30:49	2	2	0	0	0	1	0
+269	Fear	I felt ... when my son came out in a purple rash all over his body. The doctor didn't know what it was, nor did A&E. It was the not knowing how to help him that was worst.	Y	Vi	Dom	Fl	Ely	GBR	62	11/27/2018 18:47:23	0	0	4	1	0	0	0
+19	Anger	I felt ... when I saw a news report of people rioting and looting in my country.	Y	I	Dom	Ml	Droitwich	GBR	119	11/22/2018 14:35:03	1	2	1	0	0	0	1
+133	Disgust	I felt ... because the drain smelled.	W	Mi	Fm	Fl	Sheffield	GBR	56	11/26/2018 17:26:09	0	5	0	0	0	0	0
+88	Disgust	I felt ... when I came across a dead cat in bits on the motorway, when I was driving earlier.	D	Vi	Fm	Fl	Claremorris	IRL	98	11/21/2018 20:25:16	0	1	0	0	0	4	0
+62	Anger	I feel ... because my ex-husband lies to my children and always puts himself first.	W	I	H	Fl	Workington	GBR	58	11/25/2018 20:36:56	4	1	0	0	0	0	0
+266	Fear	I felt ... when I could hear shouting outside my house. I really didn’t want to hear it, and I was ... to look out of the window. I was very ... and couldn’t settle and my breathing wasn’t very good.	M	Vi	Sh	Fl	Cheltenham	GBR	73	11/27/2018 06:11:48	2	0	3	0	0	0	0
+137	Disgust	I felt ... when my ex-partner cheated on me numerous times. He did not even try to hide it, and when I look back on the situation I feel ...	Y	Mi	Sh	Fl	Cheltenham	GBR	73	11/27/2018 06:10:49	5	0	0	0	0	0	0
+66	Anger	I felt ... because I was overlooked at work.	Y	I	Sh	Ml	nan	GBR	88	11/26/2018 08:26:42	3	0	0	0	0	2	0
+243	Fear	I felt ... because I was walking around in the dark.	Y	Mi	Fm	Ml	nan	GBR	88	11/26/2018 08:29:01	0	0	5	0	0	0	0
+132	Disgust	I felt ... when I saw a load of dog poo on the pavement that someone had trod in and smeared all over the pavement.	D	Vi	Fm	Fl	Bedford	GBR	97	11/26/2018 16:12:17	0	4	1	0	0	0	0
+99	Disgust	I felt ... when I unblocked a drain filled with raw sewage.	Y	N	H	Ml	nan	GBR	88	11/22/2018 13:00:58	0	5	0	0	0	0	0
+37	Anger	I felt ... when watching Prime Ministers Questions on TV at the way the MPs barracked and behaved. It was not appropriate.	W	Mi	H	Ml	Prescot	GBR	63	11/24/2018 09:09:45	2	2	0	0	0	0	1
+139	Disgust	I felt ... when I stepped into a pile of dog excrement on the pavement.	Y	Mi	Fm	Ml	Paignton	GBR	101	11/27/2018 16:23:15	1	4	0	0	0	0	0
+13	Anger	I felt ... when I was on a bus, it was evening and we where going through the down town area about 10 minutes from home. Suddenly, there was a loud bang and a shattering of glass at the back of the bus. Some louts threw a rock through the window, and although everyone was ok, they could have caused serious injury. I could see some kids laughing, I was sure they did it or just thought it was funny. It made me so ... to think what could have happened and what injuries could have occurred, and they were laughing.	M	Vi	H	Ml	London	GBR	82	11/22/2018 10:36:03	2	1	2	0	0	0	0
+156	Disgust	I felt ... when I heard a man shouting at his girlfriend in a rather abusive manner.	W	Vi	Fm	Fl	Hull	GBR	74	11/26/2018 22:47:40	3	1	1	0	0	0	0
+23	Anger	I felt ... when I saw somebody with their feet on a station seat.	Y	Vi	Fm	Ml	Chelmsford	GBR	91	11/23/2018 22:41:51	2	3	0	0	0	0	0
+141	Disgust	I felt ... when I saw a drunk man falling about in the street.	W	Mi	Fm	Ml	Prescot	GBR	63	11/27/2018 19:05:31	0	2	0	0	0	3	0
+15	Anger	I felt ... when somebody nearly crashed into me driving a bus.	Y	Mi	H	Ml	nan	GBR	88	11/22/2018 13:04:10	0	0	5	0	0	0	0
+241	Fear	I felt ... before doing my driving test. I had taken important exams before and wasn't ... but for some reason my driving test was really ...	Y	Mi	Sh	Fl	Dulwich	GBR	86	11/26/2018 07:07:28	0	0	4	0	1	0	0
+51	Anger	I felt ... when my brother and sister in law did not turn up for Christmas with my parents for days. Leaving me getting their anger about this unfairly inflicted on me.	Y	Vi	Dom	Fl	Shepherds Bush	GBR	90	11/26/2018 21:29:23	5	0	0	0	0	0	0
+140	Disgust	I felt ... when someone I knew faked having cancer to win sympathy and approval. It all came out afterwards, and people had given money, time and energy into him.	Y	Vi	Sh	Fl	Ely	GBR	62	11/27/2018 18:48:56	3	2	0	0	0	0	0
+195	Fear	I felt ... when I was climbing up a very high ladder and when I got to the top I panicked and froze. I had to be talked down by the man footing the ladder as I could not look down or move properly.	Y	Vi	Sh	Ml	Prescot	GBR	63	11/22/2018 13:34:36	0	0	5	0	0	0	0
+97	Disgust	I felt ... when I was at a football game watching my favourite team, who were playing at home against their biggest local rivals. This was an important game in the season and involved silverware. My team was not really playing well and it showed at half time, as my team was losing. Hoping that things would turn around, I remember thinking that my team could still win this but this was not the way it worked out. My team was well beaten, the rival fans were jeering and I was absolutely ...	Y	Vi	Dom	Ml	Claremorris	IRL	118	11/22/2018 08:46:33	1	0	0	0	0	3	1
+252	Fear	I felt ... because I was knocked off my bike by a car, and trapped between my bike and the car, on the edge of a steep verge. There was a moment when you didn't know which way it was going to go.	Y	I	Fm	Fl	Ely	GBR	62	11/27/2018 18:37:45	0	0	5	0	0	0	0
+103	Disgust	I felt ... when I went into an unclean toilet. It was not fit for use and I walked out again.	W	N	Fm	Fl	Letchworth	GBR	59	11/22/2018 19:04:40	0	5	0	0	0	0	0
+180	Disgust	I felt ... when I was watching a programme on television that was very gory. It involved a celebrity doing horrible challenges like eating witchety grubs.	D	Vi	Fm	Fl	Workington	GBR	58	11/28/2018 19:43:23	0	3	2	0	0	0	0
+28	Anger	I felt ... that another teenage child had been bullying my son at high school, resulting in him injuring his wrist and requiring a visit to the local hospital.	M	Vi	Dom	Ml	nan	GBR	68	11/22/2018 15:35:51	5	0	0	0	0	0	0
+78	Anger	I felt ... because the parents dropping their kids off to school were driving and parking dangerously.	D	Mi	Fm	Ml	Bristol	GBR	87	11/28/2018 09:16:53	4	1	0	0	0	0	0
+186	Fear	I felt ... because my grand daughter was born via emergency C section.	W	Vi	Sh	Ml	Norwich	GBR	77	11/21/2018 23:52:49	0	0	2	0	3	0	0
+104	Disgust	I felt ... when I opened a pea shell and found a maggot inside it.	Y	I	Sh	Fl	Oxford	GBR	92	11/22/2018 22:33:14	0	5	0	0	0	0	0
+71	Anger	I felt ... when I discovered that I had been overcharged for some work on my car and that I could have had the job completed for a cheaper price.	W	N	H	Fl	Cambridge	GBR	116	11/26/2018 21:25:03	4	0	0	1	0	0	0
+39	Anger	I was ... when my partner came home very drunk after a night out with his friends. He then proceeded to tell me everything that was wrong with myself and was very hurtful. I was so ... I didn’t speak to him for a week.	Y	Vi	Dom	Fl	Cheltenham	GBR	73	11/25/2018 07:33:10	4	0	0	0	0	1	0
+70	Anger	I felt ... because my housemates were dicks.	Y	N	Dom	Fl	Sheffield	GBR	56	11/26/2018 17:17:42	4	0	0	0	0	0	1
+189	Fear	I felt ... when I had to walk back alone after a night out in London, having recently been reading a lot of news about an increase in the occurrence of stabbings in the capital.	W	Mi	Sh	Ml	nan	GBR	68	11/22/2018 08:16:22	0	0	5	0	0	0	0
+209	Fear	I felt ... when it was dark and I was in an unknown area.	D	I	Fm	Ml	Norwich	GBR	77	11/22/2018 17:56:04	0	0	5	0	0	0	0
+258	Fear	I felt ... when I thought I had lost my wallet.	Y	I	Fm	Ml	nan	GBR	88	11/26/2018 14:01:10	0	0	4	0	0	1	0
+190	Fear	I felt ... because I woke up one night recently and was convinced there was someone in my bedroom. I was ... to even breathe and was listening so closely to establish if indeed, there was someone in the room. After what seemed like an age, I ventured out of the bed and checked everywhere in the room, but found nobody. The ... that I felt affected me badly, so much so that I was unable to sleep any more that night.	W	I	Sh	Ml	Claremorris	IRL	118	11/22/2018 08:50:19	1	0	4	0	0	0	0
+167	Disgust	I feel ... when I read about a recent case of animal cruelty in the newspaper.	D	I	Fm	Fl	Hull	GBR	74	11/26/2018 22:37:43	1	1	0	0	0	3	0
+155	Disgust	I felt ... when I had to clean up after people.	M	N	Fm	Fl	Sheffield	GBR	56	11/26/2018 17:18:19	3	2	0	0	0	0	0
+108	Disgust	I felt ... when I cleaned my child's room and found mugs that had sat there so long they had mould growing in them.	W	I	Fm	Fl	Cheltenham	GBR	58	11/24/2018 16:52:53	1	4	0	0	0	0	0
+158	Disgust	I felt ... because my child projectile vomited all over his bed, himself and the wall.	Y	Mi	Sh	Fl	Ely	GBR	62	11/27/2018 18:51:54	0	4	0	0	0	1	0
+179	Disgust	I felt ... reading about the life of the Kardashians.	W	Vi	Fm	Ml	nan	GBR	88	11/28/2018 14:15:03	0	2	0	0	3	0	0
+130	Disgust	I feel ... when I see news headlines on television of how people have not cared for their children or have abused them.	M	Vi	Dom	Fl	Workington	GBR	58	11/26/2018 12:38:47	0	1	0	0	0	4	0
+45	Anger	I felt ... when I found out I was trapped in a lift, because they had forgotten to do the proper maintenance.	M	I	Fm	Fl	nan	GBR	105	11/26/2018 12:23:37	2	0	3	0	0	0	0
+222	Fear	I felt ... because I had to climb a high ladder.	M	Mi	Fm	Ml	nan	GBR	88	11/26/2018 08:28:36	0	0	5	0	0	0	0
+232	Fear	I felt ... because there was a very loud and unexpected bang behind me.	W	Vi	Fm	Fl	Hull	GBR	74	11/26/2018 22:40:08	0	0	5	0	0	0	0
+131	Disgust	I feel ... when I see how some people live on television.	M	Mi	Fm	Ml	nan	GBR	88	11/26/2018 13:46:22	0	2	0	0	0	2	1
+233	Fear	I felt ... when on one of my first airline flights when we hit some air turbulence and the plane was bouncing up and down.	Y	Mi	Fm	Ml	Paignton	GBR	101	11/27/2018 15:44:50	0	0	5	0	0	0	0
+106	Disgust	I felt ... when my dog ate his own poo. I do apologize. He now is more selective and just eats fresh poo of other dogs. Still ...	M	Mi	H	Fl	Earith	GBR	62	11/23/2018 19:05:33	0	5	0	0	0	0	0
+76	Anger	I felt ... when someone said my dog was scruffy.	W	I	Sh	Ml	Prescot	GBR	63	11/27/2018 18:59:03	2	0	0	0	0	2	1
+162	Disgust	I felt ... when I was served almost a chicken head as a traditional dish in the south of Italy.	Y	Mi	Fm	Fl	nan	GBR	105	11/26/2018 10:34:09	0	5	0	0	0	0	0
+77	Anger	I felt ... when we lost the Referendum on brexit.	Y	I	Dom	Ml	Bristol	GBR	87	11/28/2018 00:50:55	0	0	1	0	0	4	0
+265	Fear	I felt ... when I was last interviewed for a job.	Y	Mi	H	Ml	Chelmsford	GBR	91	11/26/2018 23:26:14	1	0	3	0	1	0	0
+3	Anger	I felt ... when a drunk man insulted my intelligence.	W	I	Fm	Fl	Claremorris	IRL	98	11/21/2018 20:24:12	5	0	0	0	0	0	0
+192	Fear	I felt ... on the last flight I took because there was a lot of turbulence the plane wasn't very big and it kept dropping. Some children were crying and it really ... me.	W	I	H	Fl	Caerphilly	GBR	86	11/22/2018 11:38:09	0	0	5	0	0	0	0
+100	Disgust	I felt ... when I had to clean up some fairly ... cat puke from the sofa this morning.	D	N	Fm	Fl	Claremorris	IRL	96	11/22/2018 13:10:12	0	5	0	0	0	0	0
+278	Fear	I felt ... when there was an unexplained withdrawal from my bank account and thought I was being fleeced. It was eventually corrected.	M	Vi	Sh	Ml	Prescot	GBR	63	11/28/2018 10:29:45	4	0	1	0	0	0	0
+182	Fear	I felt ... because I was delivering leaflets around a run down housing estate and there was a a menacing atmosphere.	Y	I	H	Fl	Bury	GBR	60	11/21/2018 19:44:05	0	0	4	1	0	0	0
+112	Disgust	I felt ... when I stepped in some dog excrement whilst walking on a footpath to the library.	D	Vi	Fm	Ml	nan	GBR	68	11/22/2018 15:38:06	1	4	0	0	0	0	0
+202	Fear	I felt ... when I got told there was an irregularity in my heart ECG called "long QT" after a regular check up conducted by a nurse who couldn't give me more information at the time because of not being qualified. While waiting for a doctor to give me further information, I started to feel intermittent pain in my chest a couple of days later, I felt like I could be having a heart attack at any moment, although I wasn't certain whether it was also psychosomatic because I was ... about it and I didn't want to call an ambulance wasting their time either, this pain went on for quite a few days on and off and gave me constant ... I had a ... of literally dropping dead, since I read online that this was a genuine risk with "long QT" and it caused ... especially since I live alone. A friend and neighbour were given a key and checked up on me regularly, but it didn't take the ... away. I also ensured I carried my phone with me, even to the toilet and I was reluctant to exercise, every time the pain increased I felt a lot of ... wondering if this is going to be it, it made me feel almost sick inside down to the stomach. PS: I was taking a medication that was said to have possibly caused the issue and after quickly cutting down (faster than advised by my doctor) my ECG was fine again just over a week later and the pain stopped. I am autistic if that has any relevance.	M	I	Dom	Ml	Leigh	GBR	79	11/24/2018 14:52:33	0	0	4	0	1	0	0
+205	Fear	I felt ... when I was trapped in a subway train in New York with a crazy person threatening me and my friends with a broken bottle.	Y	Vi	H	Fl	Shepherds Bush	GBR	90	11/25/2018 16:03:23	0	0	5	0	0	0	0
+175	Disgust	I felt ... when I smelled the garbage bin.	W	Mi	H	Ml	Caldicot	GBR	106	11/28/2018 09:36:03	0	5	0	0	0	0	0
+146	Disgust	I felt ... when I saw somebody kicking their dog.	W	I	H	Ml	Norwich	GBR	77	11/25/2018 18:10:17	3	1	0	0	0	1	0
+35	Anger	I felt ... because my husband's former wife kept his children away for him one weekend and influenced them not to see us.	Y	I	H	Fl	Earith	GBR	62	11/23/2018 19:03:59	5	0	0	0	0	0	0
+203	Fear	I felt ... when my partner's four year old daughter went missing in a supermarket.	Y	Vi	Fm	Fl	Cheltenham	GBR	58	11/24/2018 16:52:19	0	0	5	0	0	0	0
+95	Disgust	I felt ... when I had to clean a very old toilet in a country house and the loo was very dirty and made me sick.	Y	I	Fm	Fl	nan	GBR	105	11/22/2018 07:53:32	0	5	0	0	0	0	0
+135	Disgust	I felt ... when I walked past a pool of vomit in the street	D	I	Fm	Fl	Hull	GBR	74	11/26/2018 22:39:27	0	5	0	0	0	0	0
+173	Disgust	I felt ... because the milk I put in my coffee had lumps in it.	M	Mi	Fm	Ml	Bristol	GBR	87	11/28/2018 09:15:58	0	5	0	0	0	0	0
+81	Anger	I felt ... at the supermarket checkout, waiting behind a woman who insisted on paying for her weekly shop with a combination of small change and vouchers, making me go late home.	D	I	Fm	Ml	nan	GBR	68	11/28/2018 09:59:50	5	0	0	0	0	0	0
+40	Anger	I felt ... when someone I gave a job to lied about me to my boss and helped get me fired.	Y	Vi	Dom	Fl	Shepherds Bush	GBR	90	11/25/2018 15:56:56	5	0	0	0	0	0	0
+48	Anger	I felt ... when I was kept waiting by a sales assistant.	M	N	Fm	Ml	nan	GBR	88	11/26/2018 13:47:06	4	0	0	0	0	0	1
+219	Fear	I felt ... when I had to go into hospital for an angiogram. I was ... that something would go wrong and I would die. It was a horrible feeling.	M	Vi	Dom	Fl	Cheltenham	GBR	73	11/25/2018 07:36:13	0	0	5	0	0	0	0
+270	Fear	I felt ... when I had to climb a ladder to do a job on the gutters.	M	I	H	Ml	Prescot	GBR	63	11/27/2018 19:08:04	0	0	5	0	0	0	0
+93	Disgust	I felt ... when yesterday I watched a lady let her dog poo outside my back gate and then just walk off without picking it up. It was ... and I really don’t like people who let that happen and don’t pick it up.	D	Mi	Fm	Fl	Cheltenham	GBR	73	11/22/2018 05:35:36	0	5	0	0	0	0	0
+69	Anger	I felt ... because my son stripped the wallpaper in the hall where he was supposed to be sitting for time out when he was a little boy.	Y	I	Sh	Fl	Bedford	GBR	97	11/26/2018 16:06:49	4	0	0	0	0	0	1
+208	Fear	I felt ... when I was ten years old and trying to get to sleep after staying up late, unknown to my parents, to watch a late night hammer horror film.	Y	I	Sh	Ml	nan	GBR	68	11/22/2018 15:42:58	0	0	4	1	0	0	0
+223	Fear	I felt ... when I lay awake during the night and kept hearing unusual sounds coming from downstairs, though I tried to rationalise them so as not to get up and investigate.	Y	Mi	H	Ml	nan	GBR	68	11/26/2018 11:43:48	0	0	5	0	0	0	0
+96	Disgust	I felt ... that the boss of a betting company had paid herself over two hundred million pounds this year, all earned off the backs of many people being forced into debt.	D	I	Fm	Ml	nan	GBR	68	11/22/2018 08:14:34	4	1	0	0	0	0	0
+196	Fear	I felt ... when climbing some rocks because of the height and the danger of slipping.	M	I	Fm	Ml	Droitwich	GBR	119	11/22/2018 14:43:14	0	0	5	0	0	0	0
+9	Anger	I felt ... because my best friend visited the United States and was mugged at gunpoint and ended up with a broken arm which was bad enough, but then the police officers who took the complaint made him feel like it was all his fault and that they had no interest in doing anything about it even though he gave them more than enough details.	Y	Vi	Dom	Ml	Eastbourne	GBR	103	11/22/2018 07:25:59	5	0	0	0	0	0	0
+235	Fear	I felt ... when I was trying to contact my ex-wife and couldn't do so when she was very ill.	M	Vi	Sh	Ml	Prescot	GBR	63	11/27/2018 19:09:33	0	0	1	1	0	3	0
+238	Fear	I felt ... when walking alone after dark in an unknown area.	M	Mi	Fm	Ml	Norwich	GBR	77	11/25/2018 18:08:37	0	0	5	0	0	0	0
+59	Anger	I felt ... that my bank had charged me so much for briefly exceeding my overdraft limit, considering how many hours it would take me to earn that amount in the outside world.	W	Vi	Fm	Ml	nan	GBR	68	11/25/2018 14:31:16	4	1	0	0	0	0	0
+21	Anger	I felt ... when me and my friend were talking. He insulted me.	D	N	Fm	Ml	Caldicot	GBR	106	11/23/2018 10:19:04	5	0	0	0	0	0	0
+85	Anger	I felt ... when someone overtook my car on a blind bend and nearly caused an accident.	D	I	Fm	Fl	Workington	GBR	58	11/28/2018 19:44:07	3	0	2	0	0	0	0
+268	Fear	I felt ... when I was a boy living with my Mother. On one occasion she did not come home at the expected time. I was alone in the house at quite a young age. I was about seven or eight at the time. It was not for another couple of hours before she eventually came home.	Y	I	Sh	Ml	Paignton	GBR	101	11/27/2018 15:48:38	1	0	4	0	0	0	0
+237	Fear	I felt ... when I saw someone else got stabbed near me in Cartagena in Colombia.	Y	I	H	Fl	Shepherds Bush	GBR	90	11/25/2018 16:06:04	0	0	5	0	0	0	0
+216	Fear	I felt ... because my son had a lump come up under his arm. It turned out to be benign, but it is ... when you see your child ill for any reason.	Y	Vi	Dom	Fl	Earith	GBR	62	11/23/2018 19:11:47	0	0	5	0	0	0	0
+72	Anger	I felt ... when a woman on the bus refused to fold her child’s buggy up to allow a wheelchair user to board.	W	Vi	Fm	Fl	Hull	GBR	74	11/26/2018 22:48:19	3	2	0	0	0	0	0
+267	Fear	I felt ... when I watched a scary movie at the night.	W	Mi	H	Ml	Caldicot	GBR	106	11/27/2018 10:03:49	0	0	5	0	0	0	0
+210	Fear	I felt ... when I realised the brake pads on my car were noisy. I felt very unsafe. I made an appointment with the garage to resolve the problem.	D	Mi	H	Fl	Claremorris	IRL	98	11/22/2018 20:47:09	0	0	5	0	0	0	0
+154	Disgust	I felt ... when I opened the door to my partner's bathroom and saw the stinking state of the toilet.	D	Vi	H	Fl	Bedford	GBR	97	11/26/2018 16:10:37	0	5	0	0	0	0	0
+142	Disgust	I felt ... when I saw a man with open broken leg wounds on 24 hours in AE.	D	Mi	Fm	Ml	Bristol	GBR	87	11/28/2018 00:56:23	0	2	0	0	0	3	0
+149	Disgust	I felt ... watching "I'm a celebrity" when the contestants have to drink and eat certain parts of animals anatomy that we wouldn't normally eat, and drink glasses of liquid. The worst was a glass of fish eye juice. It was a full glass and the contestant had to drink it all. That was ...	D	Mi	H	Fl	Dulwich	GBR	86	11/26/2018 07:02:07	0	5	0	0	0	0	0
+12	Anger	I felt ... when I was at work and nothing seemed to be going right. I was in a rush as I needed to leave work a small bit earlier that particular day, and was trying to get a lot done in a short space of time. Unfortunately, things started to go wrong, the more they went wrong, the more mistakes I made and the ... I became. The ... I became, the more mistakes I made, which just led to a very vicious circle.	Y	Vi	H	Ml	Claremorris	IRL	118	11/22/2018 08:43:15	3	0	0	1	0	1	0
+147	Disgust	I fetl ... when I saw celebrities having to hold worms and fish eyes in their mouth on "I'm a celebrity get me out of here."	D	Vi	Fm	Fl	Workington	GBR	58	11/25/2018 20:36:02	0	5	0	0	0	0	0
+120	Disgust	I felt ... when I saw somebody vomiting on a train.	Y	Mi	Fm	Ml	Chelmsford	GBR	91	11/23/2018 22:44:23	0	5	0	0	0	0	0
+248	Fear	I felt ... when I did a bungee jump. It was the first time I had done an extreme sport and I was ... of the height of the jump.	M	I	Sh	Fl	Cambridge	GBR	116	11/26/2018 21:31:46	0	0	5	0	0	0	0
+80	Anger	I felt ... when my best friend told me I was a useless person.	Y	Vi	Dom	Fl	nan	GBR	105	11/28/2018 09:35:31	3	0	0	0	0	2	0
+16	Anger	I felt ... when I had a disagreement with my brother about something, and afterwards I was ... with myself for not saying things that should have been said.	D	N	H	Fl	Claremorris	IRL	96	11/22/2018 13:08:28	2	1	0	2	0	0	0
+10	Anger	I felt ... when my neighbour dumped his rubbish in my garden and started to scream nonsense about my garden belonging to him.	Y	I	Sh	Fl	nan	GBR	105	11/22/2018 07:55:01	5	0	0	0	0	0	0
+101	Disgust	I felt ... when having a meal with a group of people and one of them made a point of emphasizing a loud fart and trying to make it into a big laugh. I and others were ... and made it very clear.	M	Vi	Dom	Ml	Prescot	GBR	63	11/22/2018 13:31:48	0	5	0	0	0	0	0
+36	Anger	I felt ... when Donald Trump was elected US President.	Y	I	Dom	Ml	Chelmsford	GBR	91	11/23/2018 22:42:43	2	2	0	0	1	0	0
+109	Disgust	I felt ... when my elderly mother gave me a cup of coffee made with mouldy instant coffee.	Y	I	Fm	Fl	Shepherds Bush	GBR	90	11/25/2018 15:59:44	0	4	0	0	0	1	0
+264	Fear	I felt ... because a fight broke out in a bar where I was drinking	M	Vi	Fm	Fl	Hull	GBR	74	11/26/2018 22:37:16	1	0	4	0	0	0	0
+129	Disgust	I felt ... when an old man pissed in the middle of the road while I was passing by.	M	Mi	Fm	Fl	nan	GBR	105	11/26/2018 12:25:05	0	4	0	1	0	0	0
+194	Fear	I felt ... because there was potential for some bad weather in my area about a month ago and I was very ... that it might cause some damage it wasn't as severe and no damage in the end thankfully.	W	I	Dom	Fl	Claremorris	IRL	96	11/22/2018 13:11:36	0	0	5	0	0	0	0
+279	Fear	I felt ... when I had to remove a large spider from the house.	M	Mi	Fm	Ml	nan	GBR	88	11/28/2018 14:14:28	0	1	4	0	0	0	0
+163	Disgust	I felt ... when my ex husband threatened me and put me down in front of my children.	M	Vi	Dom	Fl	Workington	GBR	58	11/26/2018 10:45:22	1	0	2	0	0	1	1
+281	Fear	I felt ... when walking around Lima, Peru after midnight when there was a blackout. I felt very vulnerable to being mugged.	Y	I	H	Fl	Shepherds Bush	GBR	90	11/28/2018 21:43:13	0	0	5	0	0	0	0
+34	Anger	I felt ... because my son was slapped at school by a teaching assistant.	M	I	Dom	Fl	Cheltenham	GBR	58	11/23/2018 18:23:12	5	0	0	0	0	0	0
+134	Disgust	I felt ... with my family that they voted for BREXIT and so ultimately to deport their Scottish born family member when this destroys the UK.	Y	Vi	Dom	Fl	Shepherds Bush	GBR	90	11/26/2018 21:32:09	4	0	0	0	0	1	0
+865	Fear	I felt … because my 8 week old son had problems breathing and was turning blue.	Y	Vi	Dom	Fl	Troon	GBR	55	1/7/2019 19:08:40	0	0	5	0	0	0	0
+1061	Sadness	I felt ... when my father was diagnosed with terminal cancer	D	Vi	Dom	Ml	Tadley	GBR	109	1/2/2019 16:08:35	0	0	0	0	0	5	0
+837	Fear	I felt … when I was taking my dog for a walk and another lady was walking a dog that wasn’t on a lead when the dog saw my dog it ran over and was snarling and barking at it.	M	I	Dom	Fl	Bridgwater	GBR	86	1/7/2019 16:18:49	2	0	3	0	0	0	0
+784	Disgust	I felt … when I saw a medical operation on a TV show.	Y	N	Fm	Ml	Bradford	GBR	76	1/8/2019 09:21:38	0	3	2	0	0	0	0
+1137	Shame	I felt ... when my step moms’ brother said something funny just after she’d died, and I laughed. Everyone in the room was staring at me and I felt like a complete idiot for laughing.	Y	I	Sh	Fl	Crewe	GBR	89	1/7/2019 20:07:03	0	0	0	2	0	0	3
+1077	Sadness	I felt ... when a man I thought of as my grandpa passed away, and during his funeral which was today. It makes me ... because he’s going to be sorely missed, and his wife is now all alone and suffering a lot without him.	D	I	Dom	Fl	Crewe	GBR	89	1/7/2019 20:16:56	0	0	0	0	0	5	0
+839	Fear	I felt … when I heard someone walking around downstairs but I knew I was home alone.	M	Vi	Fm	Fl	Troon	GBR	55	1/7/2019 19:08:00	0	0	5	0	0	0	0
+722	Anger	I felt … when a superior at work decided to make a huge issue out of something very petty just to try and show their authority/try to prove they have power over me.	W	I	H	Fl	Nottingham	GBR	117	1/21/2019 15:59:34	4	0	0	0	0	0	1
+1015	Joy	I felt ... when I watched a good movie.	D	I	Sh	Ml	nan	IRL	67	1/11/2019 02:12:06	0	0	0	0	5	0	0
+1104	Sadness	I felt ... when I woke up one morning to hear the radio alarm clock declaring that Princess Diana had died.	Y	I	Dom	Fl	Ely	GBR	62	1/9/2019 11:02:20	0	0	0	0	0	5	0
+1164	Shame	I felt ... because I was caught out lying about my diary engagements to escape a celebration meal with my inlaws.	Y	Mi	Dom	Ml	Norwich	GBR	68	1/7/2019 10:05:37	0	1	0	3	0	0	1
+772	Disgust	I felt … when I walked into a tube carriage and saw a brown stain on one of the seats that looked suspiciously like a faecal smear. I hoped my coat hadn’t brushed past it and I felt real ….	D	I	Fm	Fl	Southall	GBR	124	1/14/2019 13:52:05	0	5	0	0	0	0	0
+1063	Sadness	I felt ... when I found out one of my favourite shops had shut down.	W	I	Dom	Ml	Prescot	GBR	63	1/3/2019 12:22:04	0	0	0	0	0	5	0
+944	Guilt	I felt ... because I forgot to do something that I promised I would do for someone.	W	N	H	Fl	Workington	GBR	58	1/7/2019 10:34:10	0	0	0	4	0	0	1
+858	Fear	I feel … because life is an unknown, and it's not knowing in life that brings me fear. It's … sometimes. I feel it everyday.	Y	Mi	Dom	Fl	Walsall	GBR	108	1/14/2019 10:38:57	0	0	5	0	0	0	0
+744	Disgust	I felt … when I was walking along and I saw this dog excrement on a door stop. The door stop was raised above the street. How can dog owners not pick up after their pets.	D	Mi	Fm	Fl	Leven	GBR	99	1/5/2019 11:15:45	1	4	0	0	0	0	0
+1094	Sadness	I felt ... because I had to have my chocolate labrador put to sleep as she was old and her quality of life wasn’t very good.	W	Vi	Dom	Fl	Bridgwater	GBR	86	1/7/2019 16:26:53	0	0	0	2	0	3	0
+1110	Sadness	I felt ... when my mother passed away from cancer.	Y	Vi	Dom	Ml	Rhuddlan	GBR	95	1/20/2019 17:23:58	0	0	0	0	0	5	0
+806	Disgust	I felt … when my kitten was sick and I had to clean it up.	W	Mi	Fm	Fl	Oxford	GBR	92	1/21/2019 16:52:21	0	5	0	0	0	0	0
+841	Fear	I felt … when a couple were arguing right outside my living room window and I heard one of them smack into the window. I was … they were going to damage my house (that’s rented so I’d be forced to pay for the damage) but I was also … I’d be included in the argument then.	D	I	H	Fl	Crewe	GBR	89	1/7/2019 20:12:02	2	0	3	0	0	0	0
+876	Fear	I felt … when I realised that I made a mistake at work.	D	Mi	H	Ml	nan	IRL	67	1/11/2019 02:09:38	1	0	0	1	0	0	3
+823	Fear	I felt … because someone was yelling at me in a threatening manner when I did something wrong.	D	Vi	Dom	Fl	Crewe	GBR	89	1/2/2019 15:24:56	0	0	4	1	0	0	0
+889	Fear	I felt … when my friends baby started choking, she froze and started panicking, I took the baby off her turned it upside down and slapped its back a few times she coughed a few times then calmed down and started breathing normally.	Y	I	Fm	Fl	Caerphilly	GBR	86	1/21/2019 16:53:13	0	0	5	0	0	0	0
+972	Guilt	I felt ... when I stole a pencil from a shop by mistake, but went too far away to return it.	Y	I	Sh	Fl	nan	GBR	105	1/21/2019 19:01:43	0	0	0	5	0	0	0
+1048	Joy	I felt ... because a colleague of mine, whom I have known for many years, announced that he and his wife were finally expecting a child after many years unsuccessfully trying. I was so ... and ... at this news as I knew how hard it was for them and they almost separated a few times due to the stress and pressure.	D	Vi	Sh	Ml	Eastbourne	GBR	103	1/22/2019 06:36:30	0	0	0	0	4	0	1
+1159	Shame	I felt ... because I was not able to answer a very simple question in the exam. Even the least intelligent person in the class got it.	D	Vi	Fm	Ml	Johnstone	GBR	78	1/13/2019 17:31:56	0	1	0	0	0	1	3
+960	Guilt	I felt ... when I left the house and forgot to lock up, not realising my mistake for several hours.	M	I	Sh	Fl	Cheltenham	GBR	58	1/20/2019 14:59:57	1	0	4	0	0	0	0
+1120	Shame	I felt ... when I went to a party where I got quite drunk. While I was there I bumped into a neighbour and started talking to him. I only remember snippets of the conversation but I know that I embarrassed myself by saying stupid things. For ages I had to try and avoid bumping into him in my building.	M	Mi	Dom	Fl	Cambridge	GBR	116	12/31/2018 22:00:45	0	0	0	0	0	0	5
+1004	Joy	I felt ... when my grandma sent me an unexpected gift just because she wanted to make me ... . She doesn’t have a lot of money so that’s even more reason why I would never expect anything from her. We live a long way apart so getting something from her means a lot to me.	D	I	Sh	Fl	Crewe	GBR	89	1/7/2019 20:15:54	0	0	0	0	5	0	0
+1152	Shame	I felt ... when I said something inappropriate to a friend and then wished I had never opened my mouth.	Y	I	Sh	Fl	Ely	GBR	62	1/9/2019 11:10:03	0	0	0	3	0	0	2
+1029	Joy	I felt ... because we managed to get a mother bat to collect her baby that she had lost and fly off with it.	M	Vi	Dom	Fl	Accrington	GBR	126	1/7/2019 20:53:31	0	0	0	0	5	0	0
+920	Guilt	I felt ... when I told my boyfriend his favourite programme wasn’t on the telly because he watches it all the time and I wanted to watch something else.	D	Mi	H	Fl	Bridgwater	GBR	86	1/7/2019 16:37:33	0	0	0	4	0	1	0
+974	Joy	I felt ... when my first grandchild was born and my son rang me straight away and wanted me to go into the hospital to see the baby.	M	Vi	Dom	Fl	Bridgwater	GBR	86	12/31/2018 17:02:30	0	0	0	0	5	0	0
+1154	Shame	I felt ... when I weighed myself after Christmas.	W	I	H	Ml	nan	IRL	67	1/11/2019 02:15:40	0	2	0	0	0	0	3
+835	Fear	I felt … when awaiting the email results of an important and very expensive accountancy exam I had taken a few months previously.	Y	I	Dom	Ml	Norwich	GBR	68	1/7/2019 09:46:36	0	0	5	0	0	0	0
+1143	Shame	I felt ... when I managed to lock myself out of my car whilst my keys were inside the car and the engine was running!	Y	I	Sh	Fl	Workington	GBR	58	1/7/2019 10:54:27	5	0	0	0	0	0	0
+890	Fear	I felt … because I saw how some men treat women, especially in African countries and being a woman I don't want to find myself in any danger of being raped, or killed.	M	I	H	Fl	nan	GBR	105	1/21/2019 18:59:51	2	1	1	0	0	0	1
+1151	Shame	I felt ... when I argued with old woman and called her stupid.	W	I	H	Ml	Bristol	GBR	69	1/9/2019 10:32:57	1	0	0	3	0	0	1
+817	Fear	I felt … when our kitten escaped in the late evening and we thought he was lost.	W	I	H	Fl	Oxford	GBR	92	1/1/2019 11:48:41	0	0	4	0	0	1	0
+1125	Shame	I felt ... because I was a quizmaster at a party and I made a mess of it as I hadn't prepared adequately.	D	Mi	Sh	Fl	Ely	GBR	62	1/1/2019 20:14:04	0	0	0	0	0	0	5
+897	Guilt	I feel … because we are staying home on New Year's Eve and I should perhaps have organised something for the kids.	D	N	Fm	Fl	Workington	GBR	58	12/31/2018 22:15:07	0	0	0	5	0	0	0
+776	Disgust	I felt … when I went on holiday to Tunisia and it was an all inclusive holiday, a lady was eating a plate full of prawns in their shells and the flies were all over them.	Y	I	Dom	Fl	Bridgwater	GBR	86	1/7/2019 16:14:06	0	5	0	0	0	0	0
+739	Disgust	I felt … when I saw a bag full of moulded bananas on my kitchen counter. I felt … because I’d already cleaned the space and somehow missed them, so I had to clean it all again.	D	Mi	H	Fl	Crewe	GBR	89	1/2/2019 15:23:37	1	4	0	0	0	0	0
+942	Guilt	I felt ... because I had not made enough effort to return an item that I had borrowed from someone and they then had to come to find me in order to get the item back and this was embarrassing and made me feel rather ... that I had inconvenienced them. It may have harmed our relationship in the long term due to the tension over the issue.	Y	N	Sh	Ml	Southampton	GBR	94	1/15/2019 03:09:42	0	0	0	4	0	0	1
+1157	Shame	I felt ... when I drank too much and fell asleep.	D	Mi	Sh	Fl	Letchworth	GBR	59	1/13/2019 10:02:46	0	0	0	0	0	0	5
+829	Fear	I felt … when I had done something stupid and gone over drawn on my bank account that would cause a snowball of payments not being paid out.	D	I	H	Fl	Leven	GBR	99	1/5/2019 11:17:59	2	0	0	2	0	0	1
+871	Fear	I felt … because I watched a … inducing movie on TV late in the night.	M	I	H	Ml	Bristol	GBR	69	1/8/2019 14:50:43	0	0	5	0	0	0	0
+1173	Shame	I felt ... when I turned up drunk at a party and made a show of myself.	Y	Vi	Dom	Ml	Prescot	GBR	63	1/8/2019 12:38:51	0	0	0	0	0	0	5
+801	Disgust	I felt … when I saw the amount of dog mess left along a footpath near my home, ruining what would otherwise be a wonderfully pleasant walk.	D	Vi	Fm	Ml	Norwich	GBR	68	1/21/2019 13:01:57	1	4	0	0	0	0	0
+1146	Shame	I felt ... when I got drunk and squeezed a strangers bum, not ... of it at the time - but definitely the next day when I sobered up.	Y	Mi	Sh	Fl	Troon	GBR	55	1/7/2019 19:13:16	0	0	0	0	0	0	5
+949	Guilt	I felt ... when I encouraged my mother to report a dangerous driver, then she got attacked and nearly died by the driver when the police told the person she reported that it was her that did it. I felt ... because it was my fault she even went to the police about it in the first place and I nearly caused her to die.	Y	Vi	Dom	Fl	Crewe	GBR	89	1/7/2019 20:09:25	0	0	0	5	0	0	0
+852	Fear	I felt … when my partner was in hospital. He was really really ill and I was … they weren't going to find out why.	Y	Vi	Dom	Fl	Leven	GBR	99	1/10/2019 14:28:58	0	0	4	0	0	1	0
+791	Disgust	I felt … when my children made an inappropriate noise in public.	D	Mi	Fm	Ml	Liverpool	GBR	110	1/12/2019 07:37:09	1	0	0	0	0	0	4
+808	Disgust	I felt … at watching people eating dogs in a documentary on TV.	D	Vi	Sh	Fl	nan	GBR	105	1/21/2019 18:58:50	0	5	0	0	0	0	0
+713	Anger	I felt … when I broke the screen of my laptop by accident.	M	Mi	Sh	Ml	Rhuddlan	GBR	95	1/20/2019 17:18:24	3	1	0	0	0	1	0
+815	Fear	I felt … when housesitting a cottage in the countryside a few autumns ago for some friends who had gone abroad. That particular weekend was rather windy;  I was all alone and there were all sorts of strange sounds making me uneasy.	Y	I	Sh	Ml	Norwich	GBR	68	1/1/2019 10:24:03	0	0	5	0	0	0	0
+686	Anger	I felt … when someone at my work said something rude to me.	D	Vi	Dom	Fl	Letchworth	GBR	59	1/12/2019 12:27:00	4	1	0	0	0	0	0
+1013	Joy	I felt ... watching my sapphire ring sparkle in the sunshine.	M	I	Fm	Fl	Shepherds Bush	GBR	90	1/9/2019 22:31:24	0	0	0	0	5	0	0
+729	Disgust	I felt a lot of … towards my friend because he stole my wallet.	Y	Vi	Dom	Ml	London	GBR	54	12/31/2018 21:20:03	5	0	0	0	0	0	0
+1040	Joy	I felt ... because I spent Christmas with my family.	W	Mi	Dom	Ml	Rhuddlan	GBR	95	1/20/2019 17:23:19	0	0	0	0	5	0	0
+1090	Sadness	I felt great ... when we had to put our pet cat Skippy to sleep at the vets.  She was quite old and began to have serious health problems.	Y	I	Dom	Ml	Torquay	GBR	101	1/12/2019 23:15:12	0	0	0	0	0	5	0
+1060	Sadness	I felt ... when I heard that my husband's mother had to go back into hospital again after days of being home and appearing to get well.	D	I	Sh	Fl	Carlisle	GBR	81	1/2/2019 13:48:36	0	0	2	0	0	3	0
+985	Joy	I felt ... when my cat ate for the first time after being too sick to eat for weeks. Knowing she was eating again meant that she should survive so I’m glad she ate.	W	I	Sh	Fl	Crewe	GBR	89	1/2/2019 04:07:17	0	0	0	0	5	0	0
+807	Disgust	I felt … when I ordered a salad from a restaurant and there was slug attached to a piece lettuce.	M	I	Sh	Fl	Caerphilly	GBR	86	1/21/2019 16:50:48	0	5	0	0	0	0	0
+1053	Sadness	I felt ... when I remembered my grandfather, who died around Christmas time seven years ago - he is always missed at the festive table.	D	I	Dom	Ml	Norwich	GBR	68	1/1/2019 10:20:38	0	0	0	0	0	5	0
+1021	Joy	I felt ... when I was a young child in 1980 at the age of of just ten. I was waiting desperately for my computer to arrive which was the Sinclair ZX80 that my dad had ordered from Sinclair Research, I was absolutely addicted to computers as an autistic child but only had access to one for a limited time when my dad occasionally brought a Commodore Pet home from work and I was absolutely desperate to get a computer of my own. Every day I'd come back from school desperately hoping it had arrived to another day of disappointment. When it finally arrived after lots of delays I felt a huge amount of intense ... and also excitement, it was one of the best warm feelings as an autistic child I could have felt, it was like all my Christmas's had come together in one, I couldn't wait to get it connected and only my parents forcing me to go to bed later that night forced me away from it or I would have stayed up all night and the ... of receiving it remained for a long time, this remained an obsession that never ended. It's probably difficult to understand how much ... I felt to receive such a basic computer by someone who doesn't have an addictive autistic interest like I did and still have, but I haven't stopped using computers every day since then and I'm now 49 years old.	Y	Vi	Dom	Ml	Leigh	GBR	84	1/14/2019 01:04:12	0	0	0	0	5	0	0
+660	Anger	I felt … when I was criticized doing my job at work.	Y	Vi	Sh	Ml	Torquay	GBR	101	1/6/2019 00:35:05	2	0	0	0	0	0	3
+904	Guilt	I felt … when my Grandfather was very ill and I got a telephone call at 2am and, knowing who it would be and what it would be about, I pretended to be asleep and didn't answer. I found out the next morning my Grandfather had died and, if I had answered the phone, I could have gone and seen him before he passed away. This was nearly 20 years ago and I still feel … about it regularly.	Y	Vi	Dom	Ml	Eastbourne	GBR	103	1/2/2019 06:15:46	0	0	0	5	0	0	0
+1062	Sadness	I felt ... when we went to see my best friends dad in a hospice as he was very ill and he then passed away. My friend was intensely upset and seeing her like this made me feel ... for her future and how she has to live without him here. I felt ... for what she had lost.	D	N	Dom	Fl	Birmingham	GBR	121	1/2/2019 18:33:05	0	0	0	0	0	5	0
+1123	Shame	I felt ... when I recall that I cheated on my husband, something I should never have done and now wish I hadn’t.	Y	Vi	Dom	Fl	Troon	GBR	55	1/1/2019 11:47:04	0	0	0	3	0	0	2
+870	Fear	I felt … when I had to appear as a witness in court when I knew the person on trial.	Y	Vi	Dom	Ml	Prescot	GBR	63	1/8/2019 12:25:20	0	0	3	0	0	0	2
+1055	Sadness	I felt ... when I had to leave to go home on Christmas Day, I knew I would miss my family going back home and Christmas was all but over.	D	Mi	Sh	Fl	Oxford	GBR	92	1/1/2019 11:50:22	0	0	0	0	0	5	0
+936	Guilt	I felt ... by not letting my sister help me sort out my bedroom, after she offered.	D	Mi	Fm	Ml	Stowmarket	GBR	107	1/13/2019 16:15:55	0	0	0	5	0	0	0
+1111	Sadness	I felt ... when my dad died last year.	M	I	Dom	Ml	Ipswich	GBR	91	1/20/2019 19:27:22	0	0	0	0	0	5	0
+1034	Joy	I felt ... when my favourite character finally got the love interest he wanted.	Y	Vi	Dom	Fl	Shepherds Bush	GBR	90	1/9/2019 22:32:09	0	0	0	0	5	0	0
+575	Anger	I felt … when someone broke something I owned intentionally.	Y	Mi	Fm	Ml	Bradford	GBR	76	1/3/2019 13:32:29	5	0	0	0	0	0	0
+857	Fear	I felt … that I would not score that good in my last exam because of what my family will say.	W	I	Dom	Ml	Johnstone	GBR	78	1/13/2019 17:25:59	0	0	4	0	0	0	1
+781	Disgust	I feel … when people don't close their mouths when eating and talk with their mouths full.	D	Mi	Fm	Fl	Accrington	GBR	126	1/7/2019 20:49:34	0	5	0	0	0	0	0
+836	Fear	I felt … when my grandmother didn't answer the door when I visited. I was … that she was ill or had had a fall.	M	I	Fm	Fl	Workington	GBR	58	1/7/2019 10:56:41	0	0	5	0	0	0	0
+1126	Shame	I felt ... when I saw a man known as Wooley yesterday and as I knew that there is a Wooley spotters social media page, I did not make it known to him.	D	N	Fm	Ml	Ipswich	GBR	107	1/2/2019 12:02:49	0	1	0	2	1	0	1
+966	Guilt	I felt ... when I left my mother dealing with my father's illness.	D	I	Dom	Fl	nan	GBR	105	1/20/2019 22:22:25	0	0	0	4	0	0	1
+457	Anger	I felt … when my step dad kicked my dog. The dog wasn’t even in his way - he’d already moved, and he just launched himself at the dog kicking him. I was … because I hate anyone that hurts animals.	W	Vi	Dom	Fl	Crewe	GBR	89	1/2/2019 04:03:51	5	0	0	0	0	0	0
+1149	Shame	I felt ... when I remember an embarrassing social faux pas from my teenage years.	Y	N	Fm	Ml	Bradford	GBR	76	1/8/2019 09:21:55	0	1	0	0	0	0	4
+1057	Sadness	I felt ... at a nearby footpath level crossing over a railway line that the remains of a fox was present - and had likely been hit by a train.	W	Mi	Fm	Ml	Stowmarket	GBR	107	1/1/2019 22:36:29	0	3	0	0	0	2	0
+661	Anger	I felt … when my co-worker said they had completed a task which I later found they had not.	D	Mi	H	Fl	Cardiff	GBR	93	1/6/2019 08:54:17	4	1	0	0	0	0	0
+909	Guilt	I felt … when I had not done a job for a friend that I had promised to do.	D	N	H	Ml	Prescot	GBR	63	1/3/2019 12:18:04	0	0	0	5	0	0	0
+732	Disgust	I felt … when I recently heard of a man that had a dog and was encouraging it to fight with other dogs that they met in the street.	D	I	Fm	Ml	Ipswich	GBR	107	1/1/2019 02:09:11	4	1	0	0	0	0	0
+695	Anger	I felt … when someone hit my husbands brand new car while it was parked in the police station but no one saw or knew anything about it.	Y	Mi	Dom	Fl	Troon	GBR	55	1/7/2019 19:03:31	5	0	0	0	0	0	0
+937	Guilt	I felt ... when competing in a competition and I took the winning spot just seconds before the contest was over. The person that was bumped down to second was a child and they were very upset at losing. I hadn’t intentionally overtaken them and felt really ... about making them sad.	M	Mi	H	Fl	Crewe	GBR	89	1/13/2019 16:58:05	0	0	0	5	0	0	0
+710	Anger	I felt … when my ex husband was hateful towards our children.	M	Vi	Dom	Fl	Cheltenham	GBR	58	1/20/2019 15:01:28	5	0	0	0	0	0	0
+911	Guilt	I felt … when I crashed my grandfather's car.	Y	Vi	Sh	Ml	London	GBR	102	1/4/2019 07:00:56	0	0	0	4	0	0	1
+875	Fear	I felt … while hanging onto the side rope of a raft in a white water rapid with a rock coming up very quickly with my name on it.	Y	I	Fm	Fl	Shepherds Bush	GBR	90	1/9/2019 22:27:36	0	0	5	0	0	0	0
+847	Fear	I felt … when standing on the river bank at Cantley Christmas Eve, about to take a photo, the fear of falling in.	W	I	Fm	Ml	Great Yarmouth	GBR	107	1/8/2019 20:38:47	0	0	5	0	0	0	0
+1065	Sadness	I felt ... when my pet died.	Y	I	Dom	Ml	London	GBR	102	1/4/2019 06:58:31	0	0	0	0	0	5	0
+1156	Shame	I remember being ... when as a young teenager I phoned a girl I liked to ask her out to our school's football match.  She turned me down flat. The sense of ... came when I saw this girl later in the week.	Y	I	H	Ml	Torquay	GBR	101	1/12/2019 23:23:45	0	0	0	0	0	2	3
+856	Fear	I was once … when on my first flight abroad I experienced a spell of air turbulence.	Y	Mi	Fm	Ml	Torquay	GBR	101	1/12/2019 22:34:38	0	0	5	0	0	0	0
+743	Disgust	I felt … when I saw someone saying something intentionally unkind to someone else.	Y	Mi	Fm	Ml	Bradford	GBR	76	1/3/2019 13:33:21	4	1	0	0	0	0	0
+905	Guilt	I feel… because I lied to my partner.	Y	I	Dom	Ml	nan	GBR	88	1/2/2019 08:46:13	0	0	0	3	0	0	2
+846	Fear	I felt … when I applied for low-paid job at a place where lots of people knew me as a 'professional'. I felt … because people would know that I had 'failed' at what I had been trying to achieve for the last few years.	M	I	Dom	Fl	Wallasey	GBR	117	1/8/2019 16:27:15	0	0	0	0	0	0	5
+760	Disgust	I felt … when watching a television documentary about a child killer.	M	Mi	Fm	Ml	Bristol	GBR	69	1/8/2019 11:28:43	1	4	0	0	0	0	0
+699	Anger	I felt … when politicians overruled the local will of the people on a planning issue.	W	N	Fm	Ml	nan	GBR	88	1/8/2019 08:21:58	4	1	0	0	0	0	0
+1133	Shame	I felt ... when my girlfriend slapped me.	W	I	Sh	Ml	London	GBR	102	1/4/2019 06:59:36	4	0	1	0	0	0	0
+861	Fear	I felt … when I thought I had lost my purse in town.	W	Mi	H	Fl	Workington	GBR	58	1/7/2019 10:34:44	2	0	2	0	0	1	0
+1165	Shame	I felt ... when I was in a hurry and passed by a charity worker asking for donations.	Y	N	Fm	Ml	Bradford	GBR	76	1/7/2019 14:15:45	0	0	0	4	0	0	1
+983	Joy	I felt ... because my daughter was handpicked to travel abroad to prepare an advertising campaign for a well known charity.	W	I	Dom	Fl	Ely	GBR	62	1/1/2019 20:11:10	0	0	0	0	5	0	0
+1022	Joy	I feel ... when I spend time with my partner, he makes me laugh and makes me forget about my problems when we're together. Spending time with family too fills me with ..., especially my mum.	D	I	Sh	Fl	Walsall	GBR	108	1/14/2019 08:02:21	0	0	0	0	5	0	0
+902	Guilt	I felt … because my dog was playing ball of the lead with another younger dog, and suddenly for seemingly no reason mine decided to bare his teeth at the other dog and have a go. I felt like a bad dog owner.	D	Vi	Sh	Fl	Ely	GBR	62	1/1/2019 20:09:23	0	0	1	1	0	0	3
+1033	Joy	I felt ... when my daughter told me she has a prestigious job lined up.	D	Mi	Dom	Fl	Ely	GBR	62	1/9/2019 11:00:13	0	0	0	0	5	0	0
+963	Guilt	I felt ... when I ate a large amount of cake.	W	Mi	Sh	Ml	Rhuddlan	GBR	95	1/20/2019 17:22:07	0	0	0	4	0	0	1
+1019	Joy	I felt ... when one of my very shy foster cats came and sat beside me for a cuddle and purred contentedly.	D	Vi	Sh	Fl	Bedford	GBR	97	1/13/2019 13:22:09	0	0	0	0	5	0	0
+1170	Shame	I felt ... when I pretended to be less able bodied than I am so I could get a seat on a busy train.	Y	Mi	H	Fl	Bedford	GBR	97	1/7/2019 20:26:55	0	0	0	2	0	0	3
+863	Fear	I felt … when I saw a gigantic spider in the bath.	W	Mi	Sh	Fl	Bridgwater	GBR	86	1/7/2019 16:20:36	0	1	4	0	0	0	0
+773	Disgust	I felt … because I felt that I was not given enough credit for the quality of the work that I had done because the managers were only interested in the quantity of the work submitted and did not take into account the difficulty or the depth that was required to complete what I had done.	Y	Mi	Dom	Ml	Southampton	GBR	94	1/15/2019 03:06:20	4	0	0	0	0	1	0
+682	Anger	I felt … when I saw dog dirt left on a public footpath probably because the owner couldn't pick it up.	D	Mi	Fm	Ml	Norwich	GBR	107	1/9/2019 21:06:54	1	4	0	0	0	0	0
+1039	Joy	I felt ... when I completed my first half marathon.	Y	Vi	Dom	Fl	Cheltenham	GBR	58	1/20/2019 14:59:35	0	0	0	0	5	0	0
+1093	Sadness	I felt ... that a friend's pet rabbit had to be put to sleep, although he was a fine age and had always been wonderfully cared for.	W	N	Fm	Ml	Norwich	GBR	68	1/7/2019 10:02:59	0	0	0	0	0	5	0
+1084	Sadness	I felt ... when my boyfriend of several years broke up with me.	Y	Vi	Dom	Fl	Ely	GBR	62	1/9/2019 11:01:30	0	0	0	0	0	5	0
+723	Anger	I felt … because I got cut up by another car when driving.	M	N	H	Ml	nan	GBR	88	1/21/2019 16:04:24	5	0	0	0	0	0	0
+906	Guilt	I feel … because I have forgotten to renew my library books and those of my elderly neighbour and was worried that she would get a fine.	D	Mi	Sh	Fl	Carlisle	GBR	81	1/2/2019 13:50:31	0	0	1	4	0	0	0
+923	Guilt	I feel ... because I look back on my younger school days and I wasn't very nice to some people.  Even now it still bothers me that I could have been like that when I wouldn't dream of being horrible to someone as an adult.	Y	I	Dom	Fl	Bedford	GBR	97	1/7/2019 20:14:00	0	0	0	3	0	0	2
+976	Joy	I felt ... when I was very pleased when a dad gave me a bike.	Y	Vi	Dom	Ml	London	GBR	54	12/31/2018 21:11:08	0	0	0	0	5	0	0
+1115	Sadness	The last time I felt really ... was the day I heard that Stan Lee (creator of Marvel) died as I have always been a big fan of his.	M	Mi	Sh	Ml	Eastbourne	GBR	103	1/21/2019 06:50:27	0	0	0	0	0	5	0
+907	Guilt	I felt … because I didn't really want my eldest son to come over for Christmas when I should have left old feelings aside.	D	I	H	Fl	Bedford	GBR	97	1/2/2019 15:06:04	0	0	0	4	0	1	0
+898	Guilt	I felt … when I took full credit for a money saving initiative at work that was actually a concept that originated with a co-worker.	M	Mi	Dom	Ml	Norwich	GBR	68	1/1/2019 10:16:56	0	0	0	4	0	0	1
+742	Disgust	I felt … when my brother farted when I was eating.	D	Vi	Sh	Ml	Prescot	GBR	63	1/3/2019 12:14:32	0	5	0	0	0	0	0
+812	Fear	I felt a lot of … that my mother wouldn't know that I was smoking with my friends.	Y	Vi	Dom	Ml	London	GBR	54	12/31/2018 21:16:18	0	1	1	3	0	0	0
+777	Disgust	I felt … when I watched a documentary on Vegan militants and the footage they had shown on pig and chicken farms made me feel awful for the animals.	D	I	H	Fl	Oxford	GBR	92	1/7/2019 16:27:55	1	2	0	1	0	1	0
+975	Joy	I felt ... when I won £210 on a slot machine, so I could buy myself some emeralds.	Y	I	Sh	Fl	Shepherds Bush	GBR	90	12/31/2018 18:12:52	0	0	0	0	5	0	0
+550	Anger	I felt … when I found out that my son was being bullied after he started Secondary school and I stayed … until something was done about it. I was so … about it that I was close to hitting the person involved as well as their Father but managed to restrain myself.	Y	Vi	Dom	Ml	Eastbourne	GBR	103	1/3/2019 07:03:00	5	0	0	0	0	0	0
+754	Disgust	I felt … when I walked my kids to school after the Christmas holidays and the walkway was full of dog poop.	D	Mi	H	Fl	Troon	GBR	55	1/7/2019 19:04:45	1	4	0	0	0	0	0
+1127	Shame	I felt ... because I forgot someone’s name when they came to visit.	D	N	Fm	Ml	nan	GBR	88	1/2/2019 12:32:49	0	0	0	3	0	0	2
+1085	Sadness	I felt ... when I walked past a homeless person sleeping on the streets of London.	D	Mi	Fm	Fl	Shepherds Bush	GBR	90	1/9/2019 22:33:23	0	0	0	1	0	4	0
+706	Anger	I felt … when I watched elected MPs being harassed by protestors.	D	I	Sh	Fl	Balham	GBR	113	1/9/2019 22:12:02	3	2	0	0	0	0	0
+998	Joy	I felt ... when my favourite football team won the cup final.	M	Vi	Sh	Ml	Bristol	GBR	69	1/8/2019 11:30:57	0	0	0	0	5	0	0
+1101	Sadness	I felt ... when I had to return home after a particularly good break away.	M	Mi	Dom	Ml	Prescot	GBR	63	1/8/2019 12:36:06	0	0	0	0	0	5	0
+1038	Joy	I felt ... when I was in an amateur dramatics and got a singing part in a musical called Kiss Me Kate and got to sing a big number called To Darn Hot. The show ran for a week and I was able to perform this to hundreds of people each night.	Y	I	Dom	Ml	Torquay	GBR	101	1/12/2019 23:07:17	0	0	0	0	5	0	0
+822	Fear	I felt … when I took my cat to the vet because I thought she was going to die.	W	Vi	Sh	Fl	Bedford	GBR	97	1/2/2019 15:05:03	0	0	4	0	0	1	0
+701	Anger	I felt … when a man allowed his dog to try and bite mine and thought it was funny.	M	Vi	Dom	Ml	Prescot	GBR	63	1/8/2019 12:16:35	4	0	0	1	0	0	0
+994	Joy	I felt ... because I had hit my goal for the day.	D	N	Fm	Fl	Leven	GBR	99	1/5/2019 11:19:08	0	0	0	0	5	0	0
+1070	Sadness	I felt ... when I saw a homeless cat on the street.	D	Mi	H	Ml	Bristol	GBR	69	1/9/2019 08:11:36	0	0	0	0	0	5	0
+820	Fear	I felt … when my youngest son went into hospital for another set of tests and I was scared that it would be something life threatening.	D	Vi	Dom	Fl	Carlisle	GBR	81	1/2/2019 13:51:18	0	0	5	0	0	0	0
+1069	Sadness	I felt ... because my dog was very ill and had to be put to sleep.	Y	Vi	Dom	Fl	Accrington	GBR	126	1/8/2019 15:58:31	0	0	0	0	0	5	0
+924	Guilt	I feel ... because I didn't spend as much time as I should with my ill brother before he died.	M	Vi	Dom	Fl	Accrington	GBR	126	1/7/2019 20:44:21	0	0	0	5	0	0	0
+893	Guilt	I felt … when I let my dog out in the garden one and then forgot and went to bed in the morning the poor thing was crying outside the door.	Y	I	Dom	Fl	Bridgwater	GBR	86	12/31/2018 17:11:33	0	0	0	4	0	0	1
+1005	Joy	I felt ... when I was given a very special spinning wheel as a surprise on my birthday from all my family.	Y	I	Dom	Fl	Accrington	GBR	126	1/7/2019 20:43:27	0	0	0	0	5	0	0
+802	Disgust	I felt … when I had to plunge the toilet as it had gotten clogged.	D	Mi	H	Fl	Leven	GBR	99	1/21/2019 14:29:50	0	5	0	0	0	0	0
+970	Guilt	I felt ... when I inadvertently failed to pay the 5p charge for a carrier bag when using the self service checkout machine at my local supermarket.	Y	I	Fm	Ml	Norwich	GBR	68	1/21/2019 16:53:38	0	0	0	5	0	0	0
+880	Fear	I felt … when I was abseiling down a cliff-face.	Y	Vi	H	Ml	Ipswich	GBR	91	1/20/2019 19:24:41	0	0	5	0	0	0	0
+953	Guilt	I felt ... when I overindulged.	W	N	Sh	Ml	nan	GBR	88	1/8/2019 08:25:27	0	1	0	3	0	0	1
+1114	Sadness	I felt ... when I saw how migrants die crossing the Mediterranean sea.	D	Vi	Dom	Fl	nan	GBR	105	1/20/2019 22:25:20	0	2	0	0	0	3	0
+1037	Joy	I felt ... when my daughter was born.	M	Vi	Dom	Ml	Liverpool	GBR	110	1/11/2019 07:59:01	0	0	0	0	5	0	0
+697	Anger	I felt … when the neighbours’ son smashed my window with his football, and I was made to pay the damage by my landlord while the son continued to throw and kick his ball at my window.	Y	Vi	Dom	Fl	Crewe	GBR	89	1/7/2019 20:13:12	5	0	0	0	0	0	0
+824	Fear	I felt … when I was zip lining in Costa Rica. I was up really really high and I looked down on the middle of a line this gave me … that I was going to fall and ultimately die.	Y	I	Fm	Fl	Birmingham	GBR	121	1/2/2019 18:30:42	0	0	5	0	0	0	0
+731	Disgust	I feel … when I have been let down by people that I thought were friends.	W	Mi	Dom	Fl	Workington	GBR	58	12/31/2018 22:17:43	2	0	0	0	0	3	0
+988	Joy	I felt ... when I saw my eldest son home from university after three months away.	W	Mi	Sh	Fl	Carlisle	GBR	81	1/2/2019 13:47:19	0	0	0	0	5	0	0
+1136	Shame	I felt ... as a teenager, I belonged to St John's Ambulance (a First Aid charity) and while walking with my Grandparents, I saw someone collapsed but, as there was a crowd around them, I didn't want to go and see if I could help so I just carried on walking, despite my Grandparents telling me otherwise. I later felt ... that I hadn't at least offered to help ad it still ... me to this day.	Y	Mi	H	Ml	Eastbourne	GBR	103	1/6/2019 07:05:22	0	0	0	4	0	0	1
+1054	Sadness	I felt ... when my mother died. I sat with her as she took her last breath and have never felt pain and ... like it.	Y	Vi	Dom	Fl	Troon	GBR	55	1/1/2019 11:46:20	0	0	0	0	0	5	0
+750	Disgust	I felt … when watching the racist behaviour of some football fans outside a railway station.	Y	I	Sh	Ml	Norwich	GBR	68	1/7/2019 09:44:03	1	4	0	0	0	0	0
+1103	Sadness	I felt ... when I saw a group of homeless people and it was cold outside.	W	I	H	Ml	Bristol	GBR	69	1/9/2019 10:29:49	0	0	0	1	0	4	0
+1148	Shame	I felt ... because other people knew that I hadn't been seeing my ill brother as often as I could have been doing.	M	Vi	Dom	Fl	Accrington	GBR	126	1/7/2019 20:47:08	0	0	0	2	0	0	3
+1008	Joy	I felt ... when an online order was delivered and the item was better than expected	W	Mi	Dom	Ml	Prescot	GBR	63	1/8/2019 12:30:41	0	0	0	0	5	0	0
+1075	Sadness	I felt ... when I didn't hear from an old friend that I messaged to wish a Happy Christmas.	W	Mi	Sh	Fl	Oxford	GBR	92	1/7/2019 16:24:32	1	0	0	0	0	4	0
+1108	Sadness	I felt ... that my partner's Grandma misses having the company of a cat, and won't consider getting one for fears of what might happen to it after she is gone.	M	Mi	Dom	Ml	Norwich	GBR	68	1/15/2019 17:03:51	0	0	0	0	0	5	0
+948	Guilt	I felt ... when I lied to my friend and said I was going out but I wasn’t.	Y	Mi	Fm	Fl	Troon	GBR	55	1/7/2019 19:10:01	0	0	0	4	0	0	1
+1086	Sadness	I felt ... when my dog died. He was ill for a while. Still miss him.	Y	Vi	Dom	Fl	Leven	GBR	99	1/10/2019 14:27:49	0	0	0	0	0	5	0
+1032	Joy	I felt ... after attending the Walt Strony organ concert last Saturday and hearing all the dramatic music.	D	Mi	Sh	Ml	Great Yarmouth	GBR	107	1/8/2019 20:30:42	0	0	0	0	5	0	0
+979	Joy	I felt ... when I received an amazon voucher for a Christmas present - not only was it larger than I had reason to expect, but I now have enough in my gift card balance to buy a fitness tracker.	D	Vi	H	Ml	Norwich	GBR	68	1/1/2019 10:22:08	0	0	0	0	5	0	0
+491	Anger	I feel … when I see politicians grinning at food bank photo opportunities before swanning off in their warm cars to a heated house with a full kitchen of food.	D	Vi	Dom	Fl	Carlisle	GBR	81	1/2/2019 13:52:36	4	1	0	0	0	0	0
+1009	Joy	I felt ... when my current boyfriend asked me to be exclusive with him. I really liked him and was glad he felt the same way and wanted things to go in the same direction.	W	Mi	Dom	Fl	Wallasey	GBR	117	1/8/2019 16:30:36	0	0	0	0	5	0	0
+894	Guilt	I feel … because I didn't help my son as much as I could have.	W	Mi	Sh	Fl	Manchester	GBR	83	12/31/2018 17:47:40	0	0	0	5	0	0	0
+688	Anger	I felt … when as a young hairdresser I was closing up the shop.  My boss came in and was annoyed and angry that I had let my girlfriend into the shop while I was closing up.  We had an altercation over the incident.	Y	Vi	Dom	Ml	Torquay	GBR	101	1/12/2019 22:19:00	2	0	2	0	0	0	1
+779	Disgust	I felt … when my son showed me his ingrown toenail.	D	Vi	H	Fl	Bedford	GBR	97	1/7/2019 20:07:09	0	4	0	0	0	0	1
+247	Anger	I felt … when my father in law asked me if I was ready to accept my daughter back home when she failed to find work in London as a dancer.	D	Vi	Dom	Fl	Troon	GBR	55	1/1/2019 11:41:03	0	0	0	0	1	3	1
+1098	Sadness	I felt ... when I discovered I have a health problem that although not too serious will limit my life a little and signifies I am getting old.	W	Vi	Dom	Fl	Accrington	GBR	126	1/7/2019 20:56:18	0	0	1	0	0	4	0
+939	Guilt	I felt ... when our cats was mauled because the night before we found her I had passed her in the garden she lay in and the ... of that still bothers me, was she alive? Even the fact she was out in the cold all night.	W	Vi	Dom	Fl	Walsall	GBR	108	1/14/2019 10:29:02	1	0	0	3	0	1	0
+1113	Sadness	I felt ... because I missed seeing my son when he couldn't visit as he wasn't feeling well.	D	Mi	Dom	Fl	Stockton-on-tees	GBR	62	1/20/2019 22:17:06	0	0	0	1	0	4	0
+761	Disgust	I felt … when I heard that people who have homes were imitating the homeless by begging on the streets and earning up to £300 per day.	D	Vi	Sh	Ml	Prescot	GBR	63	1/8/2019 12:18:18	3	2	0	0	0	0	0
+68	Anger	I felt … when a guy kept whatsupping me when I told him I was busy.	M	Mi	H	Fl	Shepherds Bush	GBR	90	12/31/2018 18:08:15	5	0	0	0	0	0	0
+982	Joy	I felt ... when I had a fab new years night out with my family and friends.	D	I	Sh	Ml	Wheathampstead	GBR	72	1/1/2019 17:27:23	0	0	0	0	5	0	0
+1134	Shame	I felt ... when my dad had his little toe cut off because of diabetes and I recognised that if I didn't change my lifestyle that could be me and that I was ... of who I was.	Y	Mi	Dom	Fl	Leven	GBR	99	1/5/2019 11:21:11	0	0	4	0	0	1	0
+1044	Joy	I felt ... when I saw a couple of newborn goats.	D	Vi	Sh	Fl	nan	GBR	105	1/20/2019 22:24:02	0	0	0	0	5	0	0
+931	Guilt	I felt ... when I participated in gossip at work.	D	N	Fm	Ml	nan	IRL	67	1/11/2019 02:10:30	0	1	0	3	0	0	1
+1058	Sadness	I was ... when I found out a close family friend passed away. It was out of the blue so we didn’t know it was going to happen, so it was very sad.	W	Vi	Dom	Fl	Crewe	GBR	89	1/2/2019 04:09:41	0	0	0	0	0	5	0
+927	Guilt	I felt ... because I ate the last bit of trifle and denied it when someone didn't have any.	D	N	Fm	Ml	Prescot	GBR	63	1/8/2019 12:26:53	0	0	0	3	0	0	2
+928	Guilt	I felt ... when I took some cute little miniature tiles from a display in a shop.	Y	Vi	Dom	Fl	Ely	GBR	62	1/9/2019 10:56:19	0	0	0	5	0	0	0
+514	Anger	I felt … because I was stupid enough to forget to take the notes dispensed from the cash point when I made a withdrawal for £50 and when I realised and went back someone else had taken it.	D	I	Sh	Ml	Hull	GBR	61	1/3/2019 03:31:19	4	1	0	0	0	0	0
+1011	Joy	The most ... I have experienced was over 10 years ago now at the birth of our daughter. We already had a son and we both were hoping for a daughter but we decided to not know the sex of the child until the birth so we were both overjoyed, as was her brother.	Y	Vi	Dom	Ml	Eastbourne	GBR	103	1/9/2019 07:34:22	0	0	0	0	5	0	0
+1142	Shame	I felt ... when I gave away a gift I didn't like and the person found out	M	N	Fm	Fl	Caerphilly	GBR	93	1/7/2019 10:32:50	0	0	0	1	0	0	4
+1072	Sadness	I felt ... when I had to have my dog put to sleep.	Y	Vi	Dom	Fl	Balham	GBR	113	1/9/2019 22:36:29	0	0	0	0	0	5	0
+1162	Shame	I felt ... when I was fired from a job for not meeting achievement quotas regularly enough. This was something that made me feel ... as it was something that only happened to me at that time and I felt embarrassed in the context of my colleagues at that workplace.	Y	Mi	Dom	Ml	Southampton	GBR	94	1/15/2019 03:45:39	2	0	0	0	0	0	3
+780	Disgust	I felt … when I found a child pooping in my garden - which isn’t accessible to the public. His mother didn’t seem to think he’d done anything wrong and even said I shouldn’t have been watching. It wasn’t even cleaned up. I was left with poop in the middle of my yard by a child, which I had to clean up.	M	Vi	Sh	Fl	Crewe	GBR	89	1/7/2019 20:14:25	1	4	0	0	0	0	0
+946	Guilt	I felt ... when I watched a documentary that showed footage of farms of pigs and chickens and as a meat eater I felt awful guilt at how they are treated.	D	I	Sh	Fl	Oxford	GBR	92	1/7/2019 16:29:37	0	3	0	2	0	0	0
+962	Guilt	I felt ... because I make my parents’ problems worse because my income is minimal and not really enough to support all of us, but neither of them can work. I feel ... because I don’t have enough to get what they need and they get angry about it.	D	Vi	Dom	Fl	Crewe	GBR	89	1/20/2019 17:08:25	0	0	0	3	0	0	2
+886	Fear	I felt … when a dog came barking and growling at me when I was out walking.	D	Vi	Fm	Fl	Accrington	GBR	126	1/21/2019 16:36:37	0	0	5	0	0	0	0
+1049	Sadness	I felt ... when my dad died as it was sudden and he was on his own at the time and I wish I could have been with him.	Y	Vi	Dom	Fl	Bridgwater	GBR	86	12/31/2018 17:05:02	0	0	0	1	0	4	0
+757	Disgust	I felt … because I found quite a lot of hairs on a piece of flat bread I had already bitten into at an Indian meal.	Y	Vi	Dom	Fl	Accrington	GBR	126	1/7/2019 20:30:26	0	5	0	0	0	0	0
+736	Disgust	I felt … when found a dead caterpillar in a pre-packed salad.	Y	Mi	Fm	Fl	Ely	GBR	62	1/1/2019 20:06:49	0	5	0	0	0	0	0
+1153	Shame	I felt ... because BREXIT has made my country a laughing stock.	Y	I	Dom	Fl	Shepherds Bush	GBR	90	1/9/2019 22:35:16	4	0	0	0	0	0	1
+700	Anger	I felt … when I saw someone mistreating an animal.	Y	Mi	Fm	Ml	Bradford	GBR	76	1/8/2019 09:20:55	5	0	0	0	0	0	0
+932	Guilt	I felt ... when, as a University student, I went nightclubbing and, having got home, needed cigarettes and decided to drive to the shop at 3am. I shouldn't have done it as I had too much to drink and I felt very guilty about it the next day. Luckily, it hadn't resulted in anything untoward but it was the only time it ever happened.	Y	Mi	H	Ml	Eastbourne	GBR	103	1/11/2019 07:07:31	0	0	0	3	0	0	2
+956	Guilt	I felt ... because I was unable to attend my son’t concert, because of work commitments.	M	I	Dom	Fl	Balham	GBR	113	1/9/2019 22:30:07	0	0	0	3	0	2	0
+1080	Sadness	I feel ... when I watch my football team lose.	W	N	H	Ml	nan	GBR	88	1/8/2019 08:26:40	0	0	0	0	0	5	0
+1010	Joy	I felt ... when the lady who was my first crush gave me a smile last week.	D	Vi	H	Ml	Great Yarmouth	GBR	107	1/8/2019 20:42:40	0	0	0	0	5	0	0
+992	Joy	I felt ... when my now husband proposed to me.	Y	Vi	Dom	Ml	Bradford	GBR	76	1/3/2019 13:34:39	0	0	0	0	5	0	0
+845	Fear	I felt … when a fight broke out in a bar, I was in and had my girlfriend with me and couldn’t think how to get out.	Y	Vi	Sh	Ml	Prescot	GBR	63	1/8/2019 12:23:12	0	0	4	1	0	0	0
+842	Fear	I felt … because a car was driving down the wrong side of the road straight towards my car and I thought we were going to have a serious head on crash.	Y	Vi	Fm	Fl	Accrington	GBR	126	1/7/2019 20:41:41	1	0	4	0	0	0	0
+1129	Shame	I felt ... because I hadn't called my friend who lost a close friend because I was so busy with my own life that I neglected to think of her.	M	I	Sh	Fl	Bedford	GBR	97	1/2/2019 15:09:28	0	0	0	5	0	0	0
+854	Fear	I felt … during a very heavy thunderstorm.	M	I	Sh	Fl	Liverpool	GBR	110	1/11/2019 19:06:20	0	0	5	0	0	0	0
+1059	Sadness	I felt ... when I watched a sad film.	W	N	Fm	Ml	nan	GBR	88	1/2/2019 08:47:06	0	0	0	0	0	5	0
+935	Guilt	I felt ... when I spoiled a surprise party that was planned for someone that we knew at the time.  I had done this without thinking and the people planing the party showed their displeasure with me.	Y	Mi	H	Ml	Torquay	GBR	101	1/12/2019 22:56:25	0	0	0	2	0	0	3
+763	Disgust	I felt … when my dog licks the ground when something horrible has been there.	D	I	Fm	Fl	Ely	GBR	62	1/9/2019 10:47:47	0	5	0	0	0	0	0
+1074	Sadness	I felt ... because one of my friends was mistreated by her husband.	W	I	Dom	Fl	Workington	GBR	58	1/7/2019 10:55:07	5	0	0	0	0	0	0
+895	Guilt	I felt … when I did not stay to do New Year with my parents.	D	Mi	Sh	Fl	Shepherds Bush	GBR	90	12/31/2018 18:11:54	0	0	0	5	0	0	0
+1026	Joy	I felt ... when I received recognition at work with a job role change and pay rise.	M	Mi	Dom	Fl	Oxford	GBR	92	1/7/2019 16:30:24	0	0	0	0	5	0	0
+853	Fear	I felt … when I walked down a dark alley.	W	I	Fm	Ml	nan	IRL	67	1/11/2019 02:08:41	0	0	5	0	0	0	0
+900	Guilt	I felt … when me and my partner have caught a cold and our friend was expecting us to go to theirs for New Year's Eve and we bailed to stay at home feeling sorry for ourselves! I felt … to let our friends down.	D	Mi	H	Fl	Oxford	GBR	92	1/1/2019 11:52:36	0	0	0	3	0	2	0
+826	Fear	I felt … as a child when I wandered off from my parents in a busy department store.	Y	Mi	Fm	Ml	Bradford	GBR	76	1/3/2019 13:33:56	0	0	5	0	0	0	0
+1097	Sadness	I felt ... when my oldest cat had to be put to sleep because an inoperable tumour was found.	M	Vi	Dom	Fl	Bedford	GBR	97	1/7/2019 20:22:39	0	0	0	0	0	5	0
+737	Disgust	I felt … when I found the dead mouse behind the outside freezer.	W	Mi	Fm	Fl	Carlisle	GBR	81	1/2/2019 13:52:07	0	5	0	0	0	0	0
+926	Guilt	I feel ... when I walk by homeless people on the street.	Y	N	Fm	Ml	Bradford	GBR	76	1/8/2019 09:21:45	0	0	0	2	0	3	0
+952	Guilt	I felt ... because my Grandmother, 8 years ago, was in a nursing home and was only given a short time to live as she was very ill. On the day she died, my Mum phoned me to tell me she had gotten worse and to come see her but, I took my time thinking a few hours wouldn't make a difference but, it did and I arrived less than 20 minutes after she passed away. I have felt ... about that ever since as I should have been there, not only to say goodbye but also for my Mum to support her.	Y	Vi	Dom	Ml	Eastbourne	GBR	103	1/8/2019 07:01:24	0	0	0	5	0	0	0
+745	Disgust	I felt … when someone I know abandoned their family because they had found a new partner and blamed it all on their ex.	W	Mi	H	Fl	Newcastle Upon Tyne	GBR	100	1/7/2019 15:06:57	4	1	0	0	0	0	0
+778	Disgust	I felt … because the shop I used to work in stored all the damaged fresh meat in a storeroom fridge and I was sent in to clean it out and it was crawling full of maggots.	Y	I	H	Fl	Troon	GBR	55	1/7/2019 19:05:26	0	5	0	0	0	0	0
+810	Fear	I felt … when I was on a small plane and there was a lot of turbulence.	M	I	H	Fl	Bridgwater	GBR	86	12/31/2018 17:01:36	0	0	5	0	0	0	0
+869	Fear	I felt … when I thought I had lost my wallet.	M	I	Fm	Ml	nan	GBR	88	1/8/2019 08:24:32	2	0	2	0	0	1	0
+79	Anger	I feel … because I can't stand when people lie.	D	Vi	Dom	Ml	London	GBR	54	12/31/2018 21:25:09	4	0	0	0	0	1	0
+617	Anger	I felt … when I was going upstairs to heat my coffee in the microwave and one of the other students had left a tap on in the upstairs bathroom, thinking that everyone else had moved out for Christmas already. I was extremely … because that would have eventually flooded the rest of the house and destroyed my room downstairs. The bathroom was flooded, and I was afraid that I would be blamed for the incident. The water was beginning to leak into the wood flooring outside the bathroom as well, and I was afraid that it would warp when it dried out. I was extremely … at the damage to the house, and the potential that I could end up in trouble because of all of this. It took hours to clean up, and I was even … because it was crunch time on my projects and I had a deadline the following morning. It was a colossal waste of time and energy both for me and for the Student Village Maintenance workers who had to deal with the water, and I still have no idea what the fallout will be from this situation.	W	Vi	Dom	Fl	nan	IRL	123	1/4/2019 21:27:09	3	0	2	0	0	0	0
+1119	Shame	I felt ... because at school, I took my friend's book from his backpacks. I was afraid to admit it.	Y	Vi	Dom	Ml	London	GBR	54	12/31/2018 21:04:51	0	0	0	2	0	0	3
+1099	Sadness	I felt ... this morning when I read a story about how sexual abuse examination centres are not doing their job properly, meaning that children who have been abused may not see justice as evidence may be lost due to the time it is taking. It is ... as this shows that vulnerable members of our society are not getting the attention that they need.	D	Mi	H	Ml	Eastbourne	GBR	103	1/8/2019 06:36:05	4	0	0	0	0	1	0
+1031	Joy	I felt ... when a Christmas present I had bought for someone was greatly appreciated.	W	I	H	Ml	Prescot	GBR	63	1/8/2019 12:32:15	0	0	0	0	5	0	0
+332	Anger	I felt … because I was given bad customer service by a store.	D	Mi	Sh	Ml	Wheathampstead	GBR	72	1/1/2019 17:25:28	5	0	0	0	0	0	0
+705	Anger	I felt … when a man jumped on the roof of our van that was parked outside late one evening when we were in bed.	Y	I	Sh	Fl	Ely	GBR	62	1/9/2019 10:44:47	1	0	4	0	0	0	0
+691	Anger	I felt … when my bike was stolen after having left it unlocked for all of five minutes in my front garden.	Y	I	Dom	Ml	Norwich	GBR	68	1/7/2019 09:55:21	5	0	0	0	0	0	0
+844	Fear	I felt … when I was in a high place during a trip.	Y	Mi	Fm	Ml	Bradford	GBR	76	1/8/2019 09:21:42	0	0	5	0	0	0	0
+1076	Sadness	I felt ... when watched the new Mary Poppins movie and one of the songs made me think of my dead mum	D	I	Fm	Fl	Troon	GBR	55	1/7/2019 19:11:47	0	0	0	0	0	5	0
+1168	Shame	I felt ... when I called in sick for work one day when I wasn’t really sick.	Y	Mi	Dom	Fl	Bridgwater	GBR	86	1/7/2019 16:54:28	0	0	0	5	0	0	0
+980	Joy	I felt ... when I had each of my children , such a pure feeling after that pain to finally see that bundle in your arms.	Y	Vi	Dom	Fl	Troon	GBR	55	1/1/2019 11:45:08	0	0	0	0	5	0	0
+1100	Sadness	I felt ... when listening to the national news.	W	N	Fm	Ml	nan	GBR	88	1/8/2019 08:27:12	1	0	0	0	0	3	1
+1185	Shame	I felt ... when I made a mistake at work and somebody else was blamed.	Y	I	Sh	Ml	Ipswich	GBR	91	1/20/2019 19:27:58	0	0	0	5	0	0	0
+827	Fear	I felt … when I was walking in a large city at night on my own.	M	I	H	Ml	Perth	GBR	72	1/3/2019 17:53:09	0	0	5	0	0	0	0
+756	Disgust	I felt … when I took my weekly bin in after bin collection to find it crawling with maggots.	M	Vi	Sh	Fl	Bedford	GBR	97	1/7/2019 20:04:59	0	5	0	0	0	0	0
+554	Anger	I felt … when my colleague refused to carry out a work task in a better and more efficient way that I had suggested.	W	I	Dom	Ml	Prescot	GBR	63	1/3/2019 12:12:01	5	0	0	0	0	0	0
+934	Guilt	I felt ... when I went on holiday and left our cat behind.	W	I	Dom	Fl	Letchworth	GBR	59	1/12/2019 12:28:56	0	0	0	3	0	2	0
+734	Disgust	I felt … when I went into my back garden and found someone’s cat had been pooping on my lawn and I had to pick up over 10 poops.	D	I	Sh	Fl	Troon	GBR	55	1/1/2019 11:42:12	1	4	0	0	0	0	0
+965	Guilt	I felt ... because I was a bit late to lead a children's group and it meant someone else was worried.	M	Mi	Dom	Fl	Stockton-on-tees	GBR	62	1/20/2019 22:15:09	0	0	0	4	0	0	1
+61	Anger	I felt … when my ex husband managed to access my bank account and withdrew money from it to pay into his own account.	D	Vi	Dom	Fl	Bridgwater	GBR	86	12/31/2018 16:57:34	5	0	0	0	0	0	0
+1001	Joy	I felt ... when I had my exam results and I had passed my Staff Nurse training.	Y	I	Dom	Fl	Bridgwater	GBR	86	1/7/2019 16:24:38	0	0	0	0	5	0	0
+1135	Shame	I felt ... when I failed my ninth year at high school.	Y	I	Dom	Ml	Torquay	GBR	101	1/6/2019 00:47:53	0	1	0	0	0	0	4
+873	Fear	I felt … earlier this evening when a car failed to stop at a road junction and nearly hit me on my cycle.	D	Vi	H	Ml	Norwich	GBR	107	1/9/2019 21:02:55	3	0	2	0	0	0	0
+872	Fear	I felt … because we were driving fast in the rain in order to get somewhere before it shut, and the driver was going over the speed limit.	Y	Vi	Dom	Fl	Ely	GBR	62	1/9/2019 10:53:44	0	0	5	0	0	0	0
+680	Anger	I felt … when I realised that there was an outbreak of head lice in my daughter's class. My daughter has hair down to the small of her back, so it's a lot of work to check thoroughly. One kid in the class wasn't checked as her mother had tv to catch it on that night. I'm still raging.	W	Vi	Dom	Fl	Claremorris	IRL	104	1/9/2019 16:23:07	5	0	0	0	0	0	0
+769	Disgust	I felt … when I found out that my ex had been cheating on me and hadn’t had any STI checks or anything. I felt … at the idea that he had cheated on me and that he could’ve passed diseases on to me and didn’t even care.	Y	Vi	Dom	Fl	Crewe	GBR	89	1/12/2019 18:54:25	3	2	0	0	0	0	0
+913	Guilt	I felt … because some friends were having a get together but didn't want a certain person invited so I had to lie to them where I was going.	M	Mi	Fm	Fl	Newcastle Upon Tyne	GBR	100	1/7/2019 15:03:05	0	0	0	4	0	0	1
+748	Disgust	I felt … someone stabbed a man on a train.	D	Vi	H	Ml	Liverpool	GBR	110	1/8/2019 18:59:10	2	0	3	0	0	0	0
+1177	Shame	I felt ... when I over-ate on snacks.	W	I	Sh	Ml	nan	IRL	67	1/11/2019 02:16:30	0	0	0	5	0	0	0
+693	Anger	I felt … when I found out that a good friend of mine had money stolen by a carer.	M	I	Dom	Fl	Bridgwater	GBR	86	1/7/2019 16:10:13	5	0	0	0	0	0	0
+747	Disgust	I felt … when I was on a ferry in a storm and lots of people were vomiting.	Y	Vi	Sh	Fl	Accrington	GBR	126	1/8/2019 15:54:41	0	4	1	0	0	0	0
+855	Fear	I felt … when I was on a flight as I am … of flying.	D	Vi	Sh	Fl	Letchworth	GBR	59	1/12/2019 12:28:16	0	0	5	0	0	0	0
+984	Joy	I felt ... attending the New Year Organ Recital at Norwich Cathedral and listening to a varied selection of seasonal music.	D	Mi	H	Ml	Stowmarket	GBR	107	1/1/2019 22:31:22	0	0	0	0	5	0	0
+727	Disgust	I felt … to read that a  97 year old man had been beaten up and robbed.	W	Vi	Dom	Fl	Bridgwater	GBR	86	12/31/2018 17:00:14	3	2	0	0	0	0	0
+768	Disgust	I felt … because I ate a sausage that was horrible.	D	Mi	Fm	Fl	Letchworth	GBR	59	1/12/2019 12:29:34	0	5	0	0	0	0	0
+849	Fear	I feel … because car drivers frequently fail to see the stop light at a pedestrian crossing near to my home and carry on driving even though people are starting to walk across the road.	W	I	Fm	Fl	Ely	GBR	62	1/9/2019 10:51:24	3	0	2	0	0	0	0
+885	Fear	I felt … when I first realised that the UK may not leave the EU with a deal and my … was, and still is, that I may struggle to feed my family if there are shortages/delays and that I slowly need to build a supply of non-perishable goods just in case.	W	I	Dom	Ml	Eastbourne	GBR	103	1/21/2019 06:25:44	1	0	4	0	0	0	0
+792	Disgust	Ugh, the … that I felt whilst cleaning out the shower drain was unreal. My stomach was churning. Who knew hair conditioner could leave a slimy mess?	D	Mi	Fm	Fl	Claremorris	IRL	104	1/20/2019 14:08:11	0	5	0	0	0	0	0
+786	Disgust	I feel … because the government fails to listen to the people but steams on with its own ideas and plans anyway.	D	Mi	Dom	Fl	Ely	GBR	62	1/9/2019 10:49:03	5	0	0	0	0	0	0
+843	Fear	I felt … when I was climbing a tall tower.	M	Mi	H	Ml	nan	GBR	88	1/8/2019 08:24:02	0	0	5	0	0	0	0
+1141	Shame	I felt ... that I lied about my employment experience on a job application letter.	Y	Mi	H	Ml	Norwich	GBR	68	1/7/2019 09:53:39	0	0	0	3	0	0	2
+892	Fear	I feel a lot of … to stay alone at home.	Y	Vi	Dom	Fl	nan	GBR	54	1/22/2019 00:35:18	0	0	3	0	0	2	0
+868	Fear	I felt … when as a teenager, my best friend talked me into going on a rollercoaster where you hang underneath in a seat with your feet free and the coaster went upside down once or twice and I felt intense … as I had a thing about heights as it was. I have been on coasters since and felt uneasy but that time I felt pure …	Y	I	Fm	Ml	Eastbourne	GBR	103	1/8/2019 07:15:19	0	0	5	0	0	0	0
+1171	Shame	I felt ... because I haven't been as successful in my life as friends have been.	Y	Vi	Dom	Fl	Accrington	GBR	126	1/7/2019 20:58:49	1	0	0	0	0	3	1
+678	Anger	I felt … when I read the news and saw that Donald Trump was, effectively, stopping thousand of workers from working and holding the entire United States hostage so that he can get the funding for his stupid and ludicrous border wall, especially at a time when people living below the poverty line is in the millions and the money would be better spent than on a wall which, in all likelihood, will make no difference.	D	Mi	H	Ml	Eastbourne	GBR	103	1/9/2019 06:31:37	5	0	0	0	0	0	0
+152	Anger	I felt … when another driver damaged my car but didn't stop to exchange details.	M	I	Dom	Fl	Workington	GBR	58	12/31/2018 22:18:12	5	0	0	0	0	0	0
+762	Disgust	I feel … when I keep seeing reports of airports being shutdown because of stupid morons flying drones too close and I feel … that I live in the same country as these people who have nothing better to do with their time than cause misery to thousands of people and costing companies millions.	D	I	Sh	Ml	Eastbourne	GBR	103	1/9/2019 06:41:49	5	0	0	0	0	0	0
+1081	Sadness	I felt ... when I heard that a celebrity had recently died.	W	N	Fm	Ml	Prescot	GBR	63	1/8/2019 12:34:00	0	0	0	0	0	5	0
+968	Guilt	I felt ... when I walked past some rubbish on a street and should have picked it up and disposed of it - but didn't.	D	Mi	H	Ml	Saxmundham	GBR	107	1/21/2019 00:46:13	0	0	0	4	0	0	1
+1088	Sadness	I felt ... when my Uncle died last August. While it was expected and it meant he finally wasn't in pain, it was still ..., even more so as I wasn't able to attend his funeral.	M	Vi	Dom	Ml	Eastbourne	GBR	103	1/11/2019 07:23:24	0	0	0	1	0	4	0
+879	Fear	I felt … when a drunk man kept knocking at my door and shouting at me late at night.	W	Vi	Sh	Ml	Rhuddlan	GBR	95	1/20/2019 17:20:59	1	0	4	0	0	0	0
+914	Guilt	I felt … because I bought two cakes one for me and one for my partner but I ate them both before he got home and didn't tell him I'd bought them.	W	N	H	Fl	Accrington	GBR	126	1/8/2019 15:55:29	0	0	0	5	0	0	0
+1051	Sadness	I felt ... because I had a dog in my childhood and he died. I have very much loved my friend and very badly.	Y	Vi	Dom	Ml	London	GBR	54	12/31/2018 20:58:26	0	0	0	0	0	5	0
+809	Disgust	I felt … when I blamed me for doing nothing.	Y	Vi	Dom	Fl	nan	GBR	54	1/22/2019 00:36:38	3	0	0	1	0	0	1
+1078	Sadness	I felt ... because my friend died after a secret battle with breast cancer.  She lied to her friends for 10 years so it was a mixture of ... at her death and that she didn't feel she could share her load so her friends could help.	M	Vi	Dom	Fl	Bedford	GBR	97	1/7/2019 20:20:00	0	0	0	0	0	5	0
+1107	Sadness	I felt ... when I saw a homeless person on the street.	D	I	Fm	Ml	nan	IRL	67	1/11/2019 02:14:45	0	0	0	0	0	4	1
+1181	Shame	I felt ... because I copied large sections of an English essay on Gothic literature and neglected to give credit where it was due.	Y	Mi	Sh	Ml	Norwich	GBR	68	1/15/2019 17:00:38	0	0	0	3	0	0	2
+918	Guilt	I felt … when I told friends I was not well to avoid meeting them.	W	N	H	Fl	Caerphilly	GBR	93	1/7/2019 10:35:15	0	0	0	5	0	0	0
+981	Joy	I felt ... when I got to see all my family, especially my little nieces, on Christmas day. I moved away from home a couple of years ago and do not see them very often.	D	I	Sh	Fl	Oxford	GBR	92	1/1/2019 11:49:25	0	0	0	0	5	0	0
+725	Anger	I felt … when I'd been working all day and asked my ex husband to pick up a takeaway. He wanted to go to the pub to watch rugby and I said I would pick him up when I got there he was stood outside and had forgotten about the takeaway just bought a kebab for himself.	Y	Mi	Sh	Fl	Caerphilly	GBR	86	1/21/2019 16:46:31	5	0	0	0	0	0	0
+785	Disgust	I felt … when I saw the profits that were announced by British Gas when there is so much fuel poverty.	W	Mi	Dom	Ml	Prescot	GBR	63	1/8/2019 12:19:46	4	1	0	0	0	0	0
+814	Fear	I felt … when my daughter was getting bullied at school and I thought she was in danger.	M	Vi	Dom	Fl	Workington	GBR	58	12/31/2018 22:17:13	1	0	4	0	0	0	0
+973	Guilt	I felt ... because I was supposed to buy an urgent item for my partner but I forgot and the shops were closed by the time I remembered.	D	N	Fm	Fl	Accrington	GBR	126	1/22/2019 00:52:45	0	0	0	5	0	0	0
+1041	Joy	I felt ... when my daughter did really well in her exams.	M	I	Dom	Ml	Ipswich	GBR	91	1/20/2019 19:26:35	0	0	0	0	5	0	0
+899	Guilt	I felt … when I cheated on my husband.	Y	Vi	Dom	Fl	Troon	GBR	55	1/1/2019 11:44:43	0	0	0	5	0	0	0
+1028	Joy	I felt ... because my son got a new job which utilised his degree.  He was finally getting his reward for years of study.	M	Vi	Dom	Fl	Bedford	GBR	97	1/7/2019 20:18:13	0	0	0	0	5	0	0
+977	Joy	I felt very ... when I passed my driving test on the third attempt. I felt like I would never pass and so I had decided to have one last try and I was so ... to eventually pass it.	Y	I	Dom	Fl	Cambridge	GBR	116	12/31/2018 22:03:02	0	0	0	0	5	0	0
+816	Fear	I felt … when I found out my mum was terminal and I didn't know how I would cope without her.	Y	Vi	Dom	Fl	Troon	GBR	55	1/1/2019 11:44:00	0	0	1	0	0	4	0
+903	Guilt	I felt … because I did not spend so much in Christmas gifts on my mum's cousin as she spent on me.	W	Mi	H	Ml	Stowmarket	GBR	107	1/1/2019 22:34:17	0	0	0	5	0	0	0
+1000	Joy	I felt ... when I was able to reunite an elderly relative with her beloved cat which had been missing for a few days.	M	Vi	H	Ml	Norwich	GBR	68	1/7/2019 09:47:53	0	0	0	0	5	0	0
+698	Anger	I felt … when my parents stopped me from following the career path I wanted when I was a teenager because it wasn't a traditional career.	Y	Vi	Dom	Fl	Accrington	GBR	126	1/7/2019 20:48:12	4	0	0	0	0	1	0
+833	Fear	I felt … because my youngest daughter ran off when my other daughter was using a public toilet. I didn't know whether to run after her or stay with my other daughter and was very scared.	M	Vi	H	Fl	Newcastle Upon Tyne	GBR	100	1/7/2019 15:01:17	0	0	5	0	0	0	0
+1163	Shame	I felt ... when I was called into school after an incident at my child's school.	M	Mi	Fm	Fl	Workington	GBR	58	1/7/2019 10:03:51	1	0	2	0	0	0	2
+685	Anger	I felt … when I heard someone gossip about a friend of mine.	D	Mi	Fm	Ml	nan	IRL	67	1/11/2019 02:04:29	4	1	0	0	0	0	0
+666	Anger	I felt … because my ex-husband bullied me and my children, and threatened to knock down our house door.	Y	Vi	Dom	Fl	Workington	GBR	58	1/7/2019 10:57:54	1	0	4	0	0	0	0
+874	Fear	I felt … when crossing over a swing bridge that goes over the river Mersey. I have … of deep water.	M	I	Fm	Fl	Balham	GBR	113	1/9/2019 22:23:58	0	0	5	0	0	0	0
+971	Guilt	I felt ... when I took a sickie from work because my dog was ill.	M	Mi	Sh	Fl	Caerphilly	GBR	86	1/21/2019 18:42:21	0	0	0	5	0	0	0
+1144	Shame	I felt ... when we saw my partner's sister on Boxing Day and had not realized she would be at his parents' place and had bought us gifts. We did not have anything to give her.	W	Mi	Sh	Fl	Oxford	GBR	92	1/7/2019 16:25:08	0	0	0	4	0	0	1
+941	Guilt	I felt ... when I bumped into a neighbour in the supermarket who I usually ignore because she lets her kids run riot but then I felt ... that maybe I was being unnecessarily harsh.	W	Mi	Fm	Fl	Southall	GBR	124	1/14/2019 13:54:18	0	0	0	3	0	0	2
+741	Disgust	The last time I felt true … was the last time there was an American school shooting several months ago, mainly because it gets zero traction in terms of restricting gun sales in the States, that the deaths of numerous children is seen as nothing more than a minor side effect of gun ownership.	M	I	Sh	Ml	Eastbourne	GBR	103	1/3/2019 07:20:24	5	0	0	0	0	0	0
+1095	Sadness	I felt ... because I left family on Christmas day, I miss them.	W	Mi	Sh	Fl	Oxford	GBR	92	1/7/2019 16:31:18	0	0	0	1	0	4	0
+1071	Sadness	I felt ... when my aunt rang me last week crying to say her beautiful chihuahua Chelko had gone to Rainbow Bridge. He was old, but I loved him very much and I used to always take care of him and his sister in my house.	D	I	Dom	Fl	Claremorris	IRL	104	1/9/2019 16:28:02	0	0	0	0	0	5	0
+728	Disgust	I felt … when I think what the Tories are doing to this country over BREXIT.	D	Mi	Dom	Fl	Shepherds Bush	GBR	90	12/31/2018 18:09:33	4	1	0	0	0	0	0
+1024	Joy	I felt ... when I'd eventually finished a portrait of a relative's pet dog, and was very satisfied with the likeness I had achieved.	Y	I	Sh	Ml	Norwich	GBR	68	1/7/2019 10:01:20	0	0	0	0	5	0	0
+724	Anger	I felt … because my partner was supposed to have been dealing with important tasks but I found he hadn't done them but watched TV instead.	D	Vi	Sh	Fl	Accrington	GBR	126	1/21/2019 16:35:29	5	0	0	0	0	0	0
+1046	Joy	I felt ... when I found out that my 13 year old son had a girlfriend and that we were going to meet her...he was so happy when telling us the news and if filled me with such ... to see him so happy.	D	Vi	Sh	Ml	Eastbourne	GBR	103	1/21/2019 06:35:55	0	0	0	0	5	0	0
+1145	Shame	I felt ... when I had to have radiotherapy for breast cancer and I was laid on the table and people kept walking in and out of the room and I felt it should have been more private.	Y	Mi	Sh	Fl	Bridgwater	GBR	86	1/7/2019 16:47:58	3	0	0	0	0	0	2
+929	Guilt	I felt ... when I couldn’t visit my mum every day, whilst she was in hospital.	M	I	Dom	Fl	Balham	GBR	113	1/9/2019 22:28:16	0	0	0	2	0	2	1
+891	Fear	I felt … when I was walking home alone late at night. I walked by a couple of really drunk guys, they behaved aggressively and I thought they were about to get into a fight. I did not feel 100% safe until I got home.	W	Mi	Fm	Fl	Limerick	IRL	120	1/21/2019 21:38:14	0	0	5	0	0	0	0
+1030	Joy	I felt ... when I watched my children open their Christmas presents and felt such joy at them being so happy and content.	W	Vi	Dom	Ml	Eastbourne	GBR	103	1/8/2019 06:49:18	0	0	0	0	5	0	0
+1047	Joy	I felt ... when I saw the first roses blossoming in my garden, they made me ... and proud because I planted them.	Y	Vi	Fm	Fl	nan	GBR	105	1/21/2019 22:58:14	0	0	0	0	5	0	0
+830	Fear	I felt … just before I was about to crash into a car on my motorbike.	Y	I	Fm	Ml	Torquay	GBR	101	1/6/2019 00:42:36	1	0	4	0	0	0	0
+1102	Sadness	I felt ... when I heard that a dog had been attacked by another larger dog and had died from its injuries.	W	Mi	H	Ml	Great Yarmouth	GBR	107	1/8/2019 20:32:16	2	0	0	0	0	3	0
+1172	Shame	I felt ... when I lost my temper with my son.	W	Mi	Fm	Ml	nan	GBR	88	1/8/2019 08:28:23	1	0	0	2	0	0	2
+692	Anger	I felt … when someone drove into my car, causing damage and fear to myself - then drove off before exchanging insurance details.	M	Vi	Dom	Fl	Workington	GBR	58	1/7/2019 10:53:50	5	0	0	0	0	0	0
+859	Fear	I felt … when there was something wrong with the car and I had to drive it to the garage and hope it made it there.  Now I'm waiting for the call to tell me the diagnosis and cost.	D	I	Sh	Fl	Peterborough	GBR	112	1/14/2019 13:28:59	0	0	5	0	0	0	0
+696	Anger	I felt … when I found out my mother had been lying to me for years about how my sister had been talking about me. She thought she was doing it for the right reasons, but it all blew up in her face.  She should have been honest.	W	I	Dom	Fl	Bedford	GBR	97	1/7/2019 20:01:27	3	1	0	0	0	1	0
+916	Guilt	I felt … when I couldn’t help at my children’s school fair, because I had to work.	W	I	Sh	Fl	Balham	GBR	113	1/9/2019 22:26:44	0	0	0	4	0	1	0
+884	Fear	I felt … when I saw a snake on a path I was walking and I have a bad phobia of them. I froze and felt total ….	Y	I	Sh	Fl	Caerphilly	GBR	93	1/21/2019 00:44:30	0	0	5	0	0	0	0
+959	Guilt	I felt ... at work by not going upstairs to see if there was washing up that needed doing before I left work.	D	N	Fm	Ml	Bury	GBR	107	1/11/2019 21:27:29	0	0	0	4	0	0	1
+663	Anger	I felt … because my computer crashed.	M	I	Sh	Ml	Bristol	GBR	69	1/8/2019 11:19:06	2	0	1	0	0	2	0
+1045	Joy	I felt ... when I rescued a dog at the local shelter and he became my best friend.	Y	Vi	Dom	Fl	Caerphilly	GBR	93	1/21/2019 00:42:04	0	0	0	0	5	0	0
+888	Fear	I felt … when I watched a series on Netflix about a stalker and then got … in the house on my own.	D	Mi	H	Fl	Oxford	GBR	92	1/21/2019 16:52:56	0	0	5	0	0	0	0
+919	Guilt	I felt … because I forgot to buy Christmas presents for a friend.	W	N	H	Fl	Workington	GBR	58	1/7/2019 10:55:38	0	0	0	4	0	1	0
+901	Guilt	I felt … when I picked up a coin from the street that I saw someone dropped.	M	Mi	Fm	Ml	Wheathampstead	GBR	72	1/1/2019 17:29:02	0	0	0	3	2	0	0
+834	Fear	I felt … when I walked alone at the night and saw that someone was walking after me.	M	I	Fm	Ml	Bristol	GBR	69	1/8/2019 14:44:41	0	0	5	0	0	0	0
+813	Fear	I felt … when I went to a haunted house event on Halloween in which we had to walk around a stately home in the dark. There were actors dressed in halloween costume waiting in the dark to scare people as they walked past. At one stage we were required to enter a dark room one at a time and although I knew that they are only actors I felt absolute ….	M	Vi	Sh	Fl	Cambridge	GBR	116	12/31/2018 21:52:43	0	0	5	0	0	0	0
+749	Disgust	I felt … when my government was behaving like children in parliament.	D	Mi	H	Fl	Balham	GBR	113	1/9/2019 22:14:25	1	3	0	0	0	0	1
+828	Fear	I felt … when the car was stolen.	M	I	H	Ml	London	GBR	102	1/4/2019 06:55:26	4	0	0	0	0	1	0
+1002	Joy	I felt ... when my mum won a lot of money on the bingo and she gave me some.	Y	Vi	Dom	Fl	Troon	GBR	55	1/7/2019 19:10:37	0	0	0	0	5	0	0
+811	Fear	I felt … when the vehicle I was in got stuck in a ditch in bandit country in South America.	Y	I	Sh	Fl	Shepherds Bush	GBR	90	12/31/2018 18:10:43	0	0	5	0	0	0	0
+1117	Shame	I feel ... because I didn't feel sorry for somebody going through a hard time.	M	N	Fm	Fl	Manchester	GBR	83	12/31/2018 17:48:22	0	0	0	3	0	0	2
+1178	Shame	I felt ... when a supposed friend of mine punched me in the back while I was bent down to tie a shoelace and, without thinking, I spun and punched him in the chest and, luckily, didn't break his fingers though they swelled up. I felt ... that I had reacted like that but it was an instinct to being punched in such a cowardly way.	Y	Mi	Fm	Ml	Eastbourne	GBR	103	1/11/2019 07:37:49	3	0	0	1	0	0	1
+1118	Shame	I felt ... when I looked at my bank statement and saw I would end the year overdrawn again.	D	Mi	Sh	Fl	Shepherds Bush	GBR	90	12/31/2018 18:15:29	0	0	0	0	0	4	1
+789	Disgust	I felt … when I had to move my foot quickly to avoid stepping in a pool of vomit.	W	I	Fm	Fl	Shepherds Bush	GBR	90	1/9/2019 22:25:35	0	5	0	0	0	0	0
+690	Anger	I felt … when we lost our cat Willow recently because she was mauled to death by two dogs being taken for a walk by three.....scums of the earth, that made me feel …: how someone could do something so cruel.	W	Vi	Dom	Fl	Walsall	GBR	108	1/14/2019 08:20:26	5	0	0	0	0	0	0
+938	Guilt	I felt ... for denying to offer my kids what they demanded of me.	D	Mi	Fm	Ml	Johnstone	GBR	78	1/13/2019 17:27:41	0	0	0	4	0	1	0
+887	Fear	I felt … when cycling home after a long ride one evening, unaware how dark it had become, and thus relying on some very weak led lights that I'd never tested in complete darkness - I could barely see ten feet ahead of me.	M	Mi	Sh	Ml	Norwich	GBR	68	1/21/2019 16:34:47	0	0	5	0	0	0	0
+1116	Shame	I felt ... when I was about seventeen and went on a long car trip with my boyfriend, he ran out of petrol and neither of us had any money so I had to beg money in a services to try to get enough petrol to get us home.	Y	I	Dom	Fl	Bridgwater	GBR	86	12/31/2018 17:06:04	0	0	0	0	0	1	4
+1150	Shame	I felt ... when I was stopped for driving over the limit.	Y	Vi	Dom	Ml	Prescot	GBR	63	1/8/2019 12:37:43	0	1	2	0	0	0	2
+1043	Joy	I felt ... when my daughter got a really good job enabling her to do what she loves best.	W	Mi	Dom	Fl	Stockton-on-tees	GBR	62	1/20/2019 22:16:09	0	0	0	0	4	1	0
+1139	Shame	I felt ... when I ate  my daughter's burger from McDonald and she was upset after that.	W	Mi	H	Ml	Bristol	GBR	69	1/9/2019 07:48:30	1	0	0	4	0	0	0
+669	Anger	I felt … when an elderly gentleman came out his house screaming and shouting at my 14 year old daughter when she was doing her paper round, because she dared to bump her bike up on the pavement to deliver the house next doors newspapers. She came home in tears and frightened so I went to his door at 7am and screamed and shouted back at him. No one has a go at my kids!	Y	Vi	Dom	Fl	Troon	GBR	55	1/7/2019 19:01:21	5	0	0	0	0	0	0
+1050	Sadness	I felt ... when I heard a family friend who had always been very nice to me died.	D	Mi	Sh	Fl	Shepherds Bush	GBR	90	12/31/2018 18:14:35	0	0	0	0	0	5	0
+767	Disgust	I felt … when I saw a man shouting and swearing at his children.	D	I	Fm	Ml	Liverpool	GBR	110	1/12/2019 07:36:10	1	4	0	0	0	0	0
+1092	Sadness	I felt ... when it was my uncle’s funeral and he’d died from cancer despite fighting it every step of the way. I felt ... that he knew he was dying and couldn’t do anything about it and he wouldn’t be around to see his granddaughter grow up.	M	Vi	Sh	Fl	Southall	GBR	124	1/14/2019 14:02:30	0	0	0	0	0	5	0
+995	Joy	I felt ... when I passed my driving test after the forth attempt.	Y	I	H	Ml	Torquay	GBR	101	1/6/2019 00:46:08	0	0	0	0	4	0	1
+765	Disgust	I felt … reading an article about a Trump voter who was angry that he wasn't hurting the people he was supposed to.	D	Vi	Dom	Fl	Shepherds Bush	GBR	90	1/9/2019 22:24:37	2	3	0	0	0	0	0
+681	Anger	I felt … when a car cut in front of me on a motorway.	D	I	Fm	Ml	Holywell	GBR	72	1/9/2019 18:40:30	5	0	0	0	0	0	0
+1105	Sadness	I felt ... when my father got scammed again.	W	I	H	Fl	Shepherds Bush	GBR	90	1/9/2019 22:34:17	5	0	0	0	0	0	0
+1016	Joy	I felt ... when Liverpool beat Manchester United.	W	Vi	Dom	Ml	Liverpool	GBR	110	1/11/2019 19:02:54	0	0	0	0	4	1	0
+667	Anger	I felt … when I saw on the news that a guy had been stabbed to death by a stranger on a train and it was in front of his son.	D	I	Dom	Fl	Bridgwater	GBR	86	1/7/2019 16:08:51	2	1	0	0	0	2	0
+1179	Shame	I felt ... when Liverpool fans rioted in Brussels.	Y	Vi	Dom	Ml	Liverpool	GBR	110	1/11/2019 07:54:59	4	0	0	1	0	0	0
+1138	Shame	I felt ... when I cheated in an exam and I was caught.	Y	I	Dom	Fl	Accrington	GBR	126	1/8/2019 15:57:21	0	0	0	2	0	0	3
+684	Anger	I felt … when Crowdflower reduced the payment for work tasks.	D	I	Dom	Fl	Shepherds Bush	GBR	90	1/9/2019 22:22:35	3	0	0	0	0	1	1
+1017	Joy	I felt ... when I was on holiday and saw the sea for the first time.	W	I	Sh	Fl	Letchworth	GBR	59	1/12/2019 12:30:15	0	0	0	0	5	0	0
+930	Guilt	I felt ... when I could not pay my electric bill reminder as I have no money.	D	Mi	Sh	Fl	Shepherds Bush	GBR	90	1/9/2019 22:29:04	0	0	1	0	0	1	3
+831	Fear	I felt … when I was younger, I helped my Father on a building site and I needed to be on a scaffolding platform about 20 feet off the ground. While it wasn't very high, it was very wobbly and that was the first time I had ever had a … of heights. Ever since then, I have not been happy with being high up on anything.	Y	Vi	Fm	Ml	Eastbourne	GBR	103	1/6/2019 06:55:08	0	0	5	0	0	0	0
+1112	Sadness	I felt ... after learning that a bomb had gone off in Northern Ireland today he first for a while.	D	I	H	Ml	Saxmundham	GBR	107	1/20/2019 20:29:57	3	0	1	0	0	1	0
+798	Disgust	I felt … at my boyfriend because he was kicking a cat.	Y	Vi	Dom	Fl	nan	GBR	54	1/20/2019 20:29:26	3	2	0	0	0	0	0
+1083	Sadness	I felt ... when my grandmother died.	Y	Vi	Dom	Ml	Bristol	GBR	69	1/9/2019 10:28:04	0	0	0	0	0	5	0
+1036	Joy	I felt ... when I spent time with my kids.	W	Vi	Sh	Ml	nan	IRL	67	1/11/2019 02:12:57	0	0	0	0	5	0	0
+1169	Shame	I felt ... when I realised I was boasting about all the holidays I had to look forward to and remembered my best friend wouldn't have any as she couldn't afford it.	M	Mi	Fm	Fl	Troon	GBR	55	1/7/2019 19:14:16	0	0	0	5	0	0	0
+1087	Sadness	I felt ... when I watched a sad movie.	W	Mi	H	Ml	nan	IRL	67	1/11/2019 02:13:54	0	0	1	0	0	4	0
+770	Disgust	I once felt … when I stepped into some dog excrement on the pavement. It was in the days long ago when people were not expected to clean up after their pets.	Y	I	Fm	Ml	Torquay	GBR	101	1/12/2019 22:31:12	1	4	0	0	0	0	0
+1122	Shame	I felt ... that I had promised to make a charitable donation this Christmas instead of buying a particular present for somebody, and never actually got around to it.	W	I	Sh	Ml	Norwich	GBR	68	1/1/2019 10:19:00	0	0	0	3	1	0	1
+673	Anger	I feel … when politicians tell me what I should vote for.	W	Mi	H	Ml	nan	GBR	88	1/8/2019 08:21:24	4	1	0	0	0	0	0
+464	Anger	I felt … listening to a politician justifying his own self indulgence.	W	N	Fm	Ml	nan	GBR	88	1/2/2019 08:48:27	3	2	0	0	0	0	0
+1007	Joy	I felt ... when I found a rare item I had wanted for a long time.	Y	N	Fm	Ml	Bradford	GBR	76	1/8/2019 09:21:49	0	0	0	0	5	0	0
+851	Fear	I felt … being approached by an aggressive beggar who refused to listen to my no.	M	Vi	Fm	Fl	Shepherds Bush	GBR	90	1/9/2019 22:26:33	3	0	2	0	0	0	0
+951	Guilt	I felt ... when we had to put my mum into a residential home because she couldn't look after herself and was getting confused putting herself in danger	Y	Vi	Dom	Fl	Accrington	GBR	126	1/7/2019 20:52:07	0	0	0	1	0	3	1
+800	Disgust	I felt … when I saw a person on the street picking up his nose.	D	Mi	Fm	Fl	nan	GBR	105	1/20/2019 22:18:02	0	5	0	0	0	0	0
+883	Fear	I felt … when I was attacked by a big dog, while walking in a park.	W	I	Sh	Fl	nan	GBR	105	1/20/2019 22:19:01	0	0	4	1	0	0	0
+1124	Shame	I felt ... when I forgot to take my Christmas present for my sister, I left it at home, and she was generously hosting Christmas Day at her house.	D	Mi	Sh	Fl	Oxford	GBR	92	1/1/2019 11:51:19	0	0	0	4	0	1	0
+862	Fear	I felt … when I rode a rollercoaster at a theme park.	Y	N	Fm	Ml	Bradford	GBR	76	1/7/2019 14:17:54	0	0	4	0	1	0	0
+799	Disgust	I felt … when I saw lots of slugs all over our house walls. I had to get rid of them with a dustpan and brush.	W	Vi	Fm	Fl	Stockton-on-tees	GBR	62	1/20/2019 22:11:21	0	5	0	0	0	0	0
+908	Guilt	I felt … because my husband had spent a lot of money on buying me a new mobile phone that I had wanted for a long period of time. He had brought it to me for Christmas but I felt … that he had spent so much money on something that I just wanted rather than needing.	Y	Mi	Sh	Fl	Birmingham	GBR	121	1/2/2019 18:25:12	0	0	0	4	1	0	0
+1068	Sadness	I felt ... when my husband left me after 16 years and I realised he wouldn't be coming back to me and my children.	D	Vi	Dom	Fl	Newcastle Upon Tyne	GBR	100	1/7/2019 15:04:14	1	0	0	1	0	3	0
+497	Anger	I felt … when I had managed to get tickets in order to see the Backstreet boys. I had done lots of preparation in advance including registering on the site and setting an alarm for when the tickets went on sale. I felt … as I logged in at 9am to buy them and by the time the page had loaded they had sold out. When checking other sites some were already being sold for triple the amount which made me … .	M	Mi	Sh	Fl	Birmingham	GBR	121	1/2/2019 18:22:53	3	0	0	0	1	0	1
+821	Fear	I felt … when I momentarily lost sight of my son in a shop.	D	I	Fm	Ml	nan	GBR	88	1/2/2019 14:51:26	0	0	5	0	0	0	0
+1186	Shame	I felt ... when my mom caught me lying.	Y	Vi	Dom	Ml	nan	GBR	54	1/20/2019 20:38:08	0	0	0	0	0	0	5
+999	Joy	I felt ... when we bought a puppy.	Y	Vi	Dom	Fl	Accrington	GBR	126	1/8/2019 15:52:22	0	0	0	0	5	0	0
+1082	Sadness	I feel ... when I see the Christmas decorations come down, and know they won't be up again for another year.	D	N	H	Ml	Great Yarmouth	GBR	107	1/8/2019 20:36:56	0	0	0	0	0	5	0
+850	Fear	I felt … when my mum was taken into the hospital.	M	Vi	Dom	Fl	Balham	GBR	113	1/9/2019 22:22:37	0	0	4	0	0	1	0
+967	Guilt	I felt ... when I told a friend I was ill when I was supposed to be meeting them when I really just wanted a night in front of the tv.	W	N	H	Fl	Caerphilly	GBR	93	1/21/2019 00:43:14	0	0	0	4	0	0	1
+452	Anger	I felt … after reading on social media about all the petty crime occurring in my home town at the moment.	D	I	Sh	Ml	Stowmarket	GBR	107	1/1/2019 22:39:37	3	0	1	0	0	1	0
+950	Guilt	I felt ... after I ate a whole box of chocolates in secret over Christmas when I was supposed to be sharing them, just because I was greedy.	W	Mi	H	Fl	Bedford	GBR	97	1/7/2019 20:16:03	0	0	0	3	0	1	1
+947	Guilt	I felt ... as I forgot my dad’s birthday once when I was younger.	Y	I	Dom	Fl	Bridgwater	GBR	86	1/7/2019 16:44:05	0	1	0	4	0	0	0
+1189	Shame	"The last time I felt ... was when I heard Brexit protestors shouting that women MPs and women journalists should be raped for airing their opposing views and it made me ... to be part of ""so-called"" society."	W	Vi	Sh	Ml	Eastbourne	GBR	103	1/21/2019 07:00:59	3	1	0	0	0	0	1
+1027	Joy	I felt ... when I knew that I was going back to Florida a year earlier than I thought I would.	W	Vi	Dom	Fl	Troon	GBR	55	1/7/2019 19:11:08	0	0	0	0	5	0	0
+733	Disgust	I felt … when I put my thumb into a mouldy potato when starting to prepare dinner.	D	Vi	Fm	Ml	Norwich	GBR	68	1/1/2019 10:26:25	0	5	0	0	0	0	0
+1155	Shame	I felt ... because Britain voted to leave the EU.	Y	I	Dom	Ml	Liverpool	GBR	110	1/11/2019 07:56:14	2	0	0	0	2	1	0
+675	Anger	I felt … when the referee awarded a penalty against my football team when there was no question it was a clear challenge.	D	Mi	H	Ml	Prescot	GBR	63	1/8/2019 12:14:54	4	0	0	0	0	1	0
+964	Guilt	I felt ... when I was blamed for a problem at work (I was not at fault).	Y	Vi	Dom	Ml	Ipswich	GBR	91	1/20/2019 19:25:33	4	0	0	0	0	1	0
+832	Fear	I felt … because I had to give a presentation at work.	M	Vi	Dom	Fl	Cardiff	GBR	93	1/6/2019 08:56:36	0	0	5	0	0	0	0
+1079	Sadness	I felt ... when I lost a cherished piece of jewellery I was given by a relative.	Y	I	Dom	Fl	Accrington	GBR	126	1/7/2019 20:45:31	0	0	0	0	0	5	0
+704	Anger	I felt … when I read a report of suspected Chelsea football club supporters chanting anti-semitic chants and sexually abusing female passengers on a UK train as no rail passengers should be subjected to such animals and it made me feel even more … when I realised that they will likely never be caught and punished and so they will continue with their despicable and cowardly behaviour.	D	Vi	Sh	Ml	Eastbourne	GBR	103	1/9/2019 06:20:42	4	1	0	0	0	0	0
+803	Disgust	I feel … when I eat some out of date food.	M	N	Fm	Ml	nan	GBR	88	1/21/2019 16:00:31	0	4	0	1	0	0	0
+1066	Sadness	I feel ... because I read this blog post but I’m not in the situation to be able to help the person. They were going through a really hard time.	D	Mi	Fm	Fl	Leven	GBR	99	1/5/2019 11:19:53	0	0	0	0	0	5	0
+715	Anger	I feel … when I go to the local nature reserve and find a car dumped there half in a ditch.	D	I	Sh	Ml	Saxmundham	GBR	107	1/20/2019 20:23:50	5	0	0	0	0	0	0
+788	Disgust	I felt … that some of my fellow country men treat refugees as if they are not humans.	W	I	Sh	Fl	Balham	GBR	113	1/9/2019 22:20:04	1	3	0	0	0	0	1
+687	Anger	I felt … when I found out that my partner had been cheating on me, and even had children with someone else. She also didn’t know that I existed which only exasperated the situation and made me feel even more …	Y	Vi	Dom	Fl	Crewe	GBR	89	1/12/2019 18:53:23	5	0	0	0	0	0	0
+689	Anger	I felt … when I was watching a horror movie but my wife made me feel … me by saying that watching a horror movie attracts satanic possession. And I felt serious … because of that.	D	Vi	Sh	Ml	Johnstone	GBR	78	1/13/2019 15:14:13	0	0	4	0	0	1	0
+676	Anger	I felt … once when a customer at work was really rude and started shouting at me that I wasn't competent enough to do my job even though I did the task correctly and he was incorrect - he was just angry because he lost a hand of poker and was looking for someone to blame.	W	I	Fm	Fl	Wallasey	GBR	117	1/8/2019 16:22:12	3	0	1	0	0	1	0
+738	Disgust	I felt … when I watched my partner eating his Christmas dinner because he ate like an animal who'd not seen food for a week.	D	Mi	H	Fl	Bedford	GBR	97	1/2/2019 15:03:55	0	5	0	0	0	0	0
+752	Disgust	I felt … when there was a couple in the next caravan to me on a caravan site. When they opened their caravan after the winter season it was full of flies.	Y	Mi	Sh	Fl	Bridgwater	GBR	86	1/7/2019 16:12:25	0	5	0	0	0	0	0
+991	Joy	I felt joy ... I found a book I had been looking for, for a long time and then the person I was with offered to buy it s a Christmas present.	W	I	Dom	Ml	Prescot	GBR	63	1/3/2019 12:20:10	0	0	0	0	5	0	0
+717	Anger	I felt … when my neighbour started to throw rubbish in my garden for no reason.	D	Vi	Dom	Fl	nan	GBR	105	1/20/2019 22:20:59	5	0	0	0	0	0	0
+996	Joy	I felt ... when I got my rescue cat.	M	Vi	Dom	Fl	Cardiff	GBR	93	1/6/2019 08:58:31	0	0	0	0	5	0	0
+989	Joy	I felt ... when I opened my Christmas presents and I had got everything that was on my list.	D	Vi	Dom	Fl	Bedford	GBR	97	1/2/2019 15:07:33	0	0	0	0	5	0	0
+954	Guilt	I felt ... when I took my Dad's scissors from his drawer when I was not supposed to.	Y	I	Dom	Fl	Ely	GBR	62	1/9/2019 10:57:17	0	0	0	5	0	0	0
+877	Fear	I felt … when walking home in the dark.	D	Mi	Fm	Fl	Liverpool	GBR	110	1/11/2019 19:05:35	0	0	5	0	0	0	0
+1184	Shame	I felt ... when I had too much to drink in a pub, fell over and had to go to hospital.	Y	Vi	Dom	Ml	Rhuddlan	GBR	95	1/20/2019 17:24:42	0	0	0	0	0	0	5
+915	Guilt	I felt … because I broke the rules.	D	Mi	Fm	Ml	Bristol	GBR	69	1/9/2019 10:23:00	0	0	0	5	0	0	0
+677	Anger	I felt … when Liverpool FC lost against Wolves.	D	Mi	Fm	Ml	Liverpool	GBR	110	1/8/2019 18:56:58	1	0	0	0	1	2	1
+1091	Sadness	I felt ... because I did not get active members to work on my website.	D	Vi	Dom	Ml	Johnstone	GBR	78	1/13/2019 17:30:33	1	0	0	0	0	4	0
+708	Anger	I felt … when the swagbucks site was taking forever to access. It’s been a pain to use all day. It's not other ones it's swagbucks. Either they haven't enough bandwidth because they're cheap or they're being odd, either way its pissing me off.	D	Mi	Sh	Fl	Leven	GBR	99	1/10/2019 14:06:29	5	0	0	0	0	0	0
+721	Anger	I felt … when I forgot to put on the yogurt maker even though I looked at it and had just said I wanted to put  it on. I felt … with myself.	D	I	Fm	Fl	Leven	GBR	99	1/21/2019 14:30:46	3	1	0	1	0	0	0
+275	Anger	I felt … when  I was waiting in line at the supermarket and someone cut in front of me.	D	Mi	Fm	Fl	Oxford	GBR	92	1/1/2019 11:47:34	5	0	0	0	0	0	0
+1035	Joy	I felt ... when I met up with an old friend that I hadn’t seen for years.	M	Vi	Dom	Fl	Balham	GBR	113	1/9/2019 22:41:58	0	0	0	0	5	0	0
+679	Anger	I felt … when we were charged by a care home for the three months after my father had died, even though we had emptied his room the day after his death.	Y	Vi	Dom	Fl	Ely	GBR	62	1/9/2019 10:42:27	5	0	0	0	0	0	0
+787	Disgust	I felt … at seeing the amount of rubbish floating in our rivers recently.	D	Mi	Fm	Ml	Norwich	GBR	107	1/9/2019 21:04:46	0	5	0	0	0	0	0
+943	Guilt	I felt ... when I was given far more than the correct change in a shop, and didn't alert the shop assistant to her error.	Y	I	Fm	Ml	Norwich	GBR	68	1/7/2019 09:59:37	0	0	0	5	0	0	0
+1191	Shame	I felt ... when I found out I was working for a short wile for someone who was involved in tax evasion.	Y	Mi	H	Fl	nan	GBR	105	1/22/2019 06:57:54	3	0	1	1	0	0	0
+912	Guilt	I felt … when I took an item out of a shop without paying for it.	Y	I	H	Ml	Torquay	GBR	101	1/6/2019 00:44:15	0	0	0	3	0	0	2
+751	Disgust	I felt … when I was taking my children for a walk and a big fat, man started being abusive towards us.	M	I	Sh	Fl	Workington	GBR	58	1/7/2019 10:57:14	1	1	3	0	0	0	0
+672	Anger	I felt … because I made a mistake and ended up losing quite a lot of money on a business deal that I should have known wasn't a good way of investing.	D	Vi	Dom	Fl	Accrington	GBR	126	1/7/2019 20:28:16	2	0	0	0	0	1	2
+1109	Sadness	I felt ... when my parents spent the entire day arguing. It made me sad because they used to get on so well, and now all they ever do is argue or complain about things each other are doing and expect sympathy from everyone else over it when they’re causing it themselves by being unwilling to compromise over anything, from something as small as where their cups are placed on a table.	D	Vi	Dom	Fl	Crewe	GBR	89	1/20/2019 17:06:57	1	0	0	0	0	4	0
+866	Fear	I felt … when I folded up my washing from the washing line and picked up the pile to take it inside and a huge spider ran out from the washing and on to my arm.	M	Vi	Fm	Fl	Bedford	GBR	97	1/7/2019 20:11:22	0	0	5	0	0	0	0
+746	Disgust	I felt … when I saw a woman pissing on the street.	M	I	H	Ml	Bristol	GBR	69	1/8/2019 11:25:45	0	5	0	0	0	0	0
+796	Disgust	I felt … when I saw a bird being mistreated when on holiday.	Y	I	Fm	Ml	Ipswich	GBR	91	1/20/2019 19:23:19	3	0	0	0	0	2	0
+730	Disgust	I felt …  because I was eating a bag of pistachio nuts when I realised that one of them tasted bad. I took it out of my mouth and realised it was black and that it must have gone bad. I then noticed that it had a dead maggot inside it. I felt such … that I had been chewing it that I felt sick for hours. So gross.	W	I	Sh	Fl	Cambridge	GBR	116	12/31/2018 21:58:09	0	5	0	0	0	0	0
+910	Guilt	I feel … when I remember being part of a group of children who verbally bullied another child in middle school.	Y	N	Fm	Ml	Bradford	GBR	76	1/3/2019 13:36:44	1	0	0	1	0	0	3
+771	Disgust	I felt … working in the street seeing faeces of dogs. The owners should take care of them but are being so lazy and neglected, that is terrible.	D	Mi	Fm	Ml	Johnstone	GBR	78	1/13/2019 17:23:14	1	4	0	0	0	0	0
+670	Anger	I felt … when my friend stole my book.	Y	Vi	Dom	Ml	Dagenham	GBR	54	1/7/2019 19:39:08	5	0	0	0	0	0	0
+978	Joy	I felt ... because my child loved their Christmas gift so much they were almost in tears of joy.	D	Vi	Sh	Fl	Workington	GBR	58	12/31/2018 22:16:45	0	0	0	0	5	0	0
+1187	Shame	I felt ... when my dog started being too assertive with another dog, so I had to take him home early.	D	N	Fm	Fl	Stockton-on-tees	GBR	62	1/20/2019 22:18:17	0	0	2	1	0	0	2
+720	Anger	I felt … when I wasn't well, no one else in my household did anything to help around the house and just left me to it.	D	I	Sh	Fl	Bedford	GBR	97	1/21/2019 12:54:15	2	0	0	0	0	3	0
+955	Guilt	I felt ... because I looked around my neighbours ornaments and photo frames when they asked me to get a key for them to give to the porter.	D	Mi	Fm	Fl	Shepherds Bush	GBR	90	1/9/2019 22:30:14	0	0	0	4	0	0	1
+735	Disgust	I felt … when I bit into an apple and it was rotten in the middle.	W	I	H	Fl	Oxford	GBR	92	1/1/2019 11:48:14	0	5	0	0	0	0	0
+921	Guilt	I felt ... when I had an affair and told my husband it was only online and that I’d never met the man in question.	Y	Vi	Dom	Fl	Troon	GBR	55	1/7/2019 19:09:16	0	0	0	3	0	0	2
+1132	Shame	I felt ... when I remember being part of a group of children at school who verbally bullied another child.	Y	N	Fm	Ml	Bradford	GBR	76	1/3/2019 13:36:04	0	0	0	2	0	1	2
+1182	Shame	I felt ... because I had put on weight and my work trousers didn't fit.	Y	I	Sh	Fl	Cheltenham	GBR	58	1/20/2019 14:52:02	0	3	0	1	0	1	0
+1025	Joy	I felt ... when my daughter was born as we had been trying for years.	Y	Vi	Dom	Fl	Bridgwater	GBR	86	1/7/2019 16:25:35	0	0	0	0	5	0	0
+797	Disgust	I felt … when cleaning the rubbish from mum's cousin's front garden after passing people had thrown it in.	D	Mi	H	Ml	Saxmundham	GBR	107	1/20/2019 20:20:10	4	1	0	0	0	0	0
+1006	Joy	I feel ... hearing my son’s laugh.	D	Vi	Fm	Ml	nan	GBR	88	1/8/2019 08:25:48	0	0	0	0	5	0	0
+1167	Shame	I felt ... when I started eating a box of Christmas fudge, and ate the whole thing, after a pizza.	W	Mi	Sh	Fl	Oxford	GBR	92	1/7/2019 16:31:56	0	0	0	2	0	0	3
+867	Fear	I felt … when a horse bolted with me, the saddle slipped and I could see I was going to get badly injured when I would eventually fall off.	Y	Vi	Fm	Fl	Accrington	GBR	126	1/7/2019 20:50:19	0	0	5	0	0	0	0
+726	Anger	I felt … because I had to pick up work for a colleague that just ignored a colleague and wouldn't reply to me either.	D	Mi	Sh	Fl	Oxford	GBR	92	1/21/2019 16:51:31	4	1	0	0	0	0	0
+1166	Shame	I felt ... when my husband told all his friends that it was my fault we had split up and told people a secret we had.	W	Mi	Fm	Fl	Newcastle Upon Tyne	GBR	100	1/7/2019 15:08:41	5	0	0	0	0	0	0
+1176	Shame	I felt ... when I has a clothing malfunction, which resulted in showing more of myself than I wanted to.	Y	I	Sh	Fl	Balham	GBR	113	1/9/2019 22:44:36	0	0	0	0	0	0	5
+993	Joy	I felt ... when my son was born.	M	Vi	Dom	Ml	London	GBR	102	1/4/2019 06:57:28	0	0	0	0	5	0	0
+759	Disgust	I felt … when I saw some food that had gone bad.	Y	N	Fm	Ml	Bradford	GBR	76	1/8/2019 09:21:36	1	4	0	0	0	0	0
+702	Anger	I felt … because my boiler wouldn't work.	W	I	Sh	Ml	Liverpool	GBR	110	1/8/2019 18:58:10	5	0	0	0	0	0	0
+740	Disgust	I felt … when I saw a news article about a dog being abandoned by his owner in a road. The owner was then seen speeding off and the dog ran after him. I felt … that someone could treat an animal that way. It made me feel such … I couldn't finish reading the article.	D	Mi	Fm	Fl	Birmingham	GBR	121	1/2/2019 18:28:46	2	0	0	0	0	3	0
+213	Anger	I felt … when I saw a small bunch of drunk young guys taunting a homeless person late one evening in the city.	W	Vi	Fm	Ml	Norwich	GBR	68	1/1/2019 10:27:53	3	0	1	0	0	0	1
+1190	Shame	I felt ... one night when I was younger, I went out for a night drinking with a friend and I ended up dancing and kissing a girl in a club, despite the fact I already had a girlfriend, and I felt so much ... the next couple of days that I broke up with my girlfriend the next time we spoke.	Y	Vi	Dom	Ml	Eastbourne	GBR	103	1/22/2019 06:22:41	0	0	0	3	0	0	2
+1052	Sadness	I felt ... when the care home called me to let me know that my grandmother was sick.	D	I	Dom	Fl	Workington	GBR	58	12/31/2018 22:16:19	0	0	2	0	0	3	0
+1067	Sadness	I felt ... when my mother passed away.	Y	Vi	Dom	Fl	Cardiff	GBR	93	1/6/2019 08:59:06	0	0	0	0	0	5	0
+1188	Shame	I felt ... when I realized I'm 49 years old and not achieved anything useful in my life.	W	Vi	Dom	Fl	nan	GBR	105	1/20/2019 22:26:22	0	1	0	0	0	2	2
+795	Disgust	I felt … when I saw dog faeces on the pavement.	D	N	Fm	Ml	Rhuddlan	GBR	95	1/20/2019 17:19:33	0	5	0	0	0	0	0
+662	Anger	I felt … when some children were teasing my daughter and being mean to her saying she is fat and she speaks funny.	M	Mi	H	Fl	Newcastle Upon Tyne	GBR	100	1/7/2019 15:05:02	5	0	0	0	0	0	0
+347	Anger	I felt … when I saw an older child pick on my own son.	Y	Vi	Sh	Fl	Ely	GBR	62	1/1/2019 20:05:35	5	0	0	0	0	0	0
+694	Anger	I felt … because I had been working two jobs and looking after our kittens and our house as much as I can in between and I felt my partner was not doing anything much.	D	Mi	Dom	Fl	Oxford	GBR	92	1/7/2019 16:26:23	5	0	0	0	0	0	0
+755	Disgust	I felt … towards my friend because he stole my book.	Y	Vi	Dom	Ml	Dagenham	GBR	54	1/7/2019 19:37:20	5	0	0	0	0	0	0
+493	Anger	I felt … when the Welfare Officer at Cat's Protection League didn't listen to me regarding a cat's welfare when I knew better because I was fostering the cat.	W	I	Dom	Fl	Bedford	GBR	97	1/2/2019 15:02:16	5	0	0	0	0	0	0
+805	Disgust	I felt … when I stepped in dog excrement without knowing and got in the car so it was smeared on the mats and pedals.	D	Vi	Dom	Fl	Accrington	GBR	126	1/21/2019 16:34:16	2	3	0	0	0	0	0
+878	Fear	I experienced … when as a child I came home from school and my mother was not there. In those days I lived alone with her.  It was several hours before she finally returned.	Y	Vi	Sh	Ml	Torquay	GBR	101	1/12/2019 22:40:47	0	0	4	0	0	1	0
+665	Anger	I felt … when someone else took credit for my work at my job.	M	Vi	Dom	Fl	Caerphilly	GBR	93	1/7/2019 10:39:18	5	0	0	0	0	0	0
+1042	Joy	I felt ... of cycling to the local nature reserve for a photo and getting perfect weather conditions for it when I arrived there.	D	I	Sh	Ml	Saxmundham	GBR	107	1/20/2019 20:21:58	0	0	0	0	5	0	0
+848	Fear	I felt … one day a few years ago, I heard of a car crash near where my wife and children would be driving and, when I couldn't get hold of them, I … that they had been in the crash and been injured or worse. It was the worst … of my life until I finally heard from them and they were fine, just couldn't answer the phone.	Y	Vi	Sh	Ml	Eastbourne	GBR	103	1/9/2019 07:17:17	0	0	5	0	0	0	0
+1023	Joy	I felt ... when my family came to visit me to celebrate my 50th birthday.  It was great to have aunts and cousins as well as closer family having a good time together.	M	I	Sh	Fl	Peterborough	GBR	112	1/14/2019 13:21:51	0	0	0	0	5	0	0
+758	Disgust	I felt … seeing celebrities waste money on vanity.	D	N	Fm	Ml	nan	GBR	88	1/8/2019 08:22:48	4	0	0	0	0	1	0
+1174	Shame	I felt ... when I gave a postcard to a friend with a photo of some deer with big ears on it, as he had ears that stuck out, and he never said a word to me about it.	Y	I	Dom	Fl	Ely	GBR	62	1/9/2019 11:11:36	0	0	0	2	0	2	1
+961	Guilt	I feel ... when I don’t take my dog for a walk because its hammering down with rain.	D	Mi	Sh	Fl	Caerphilly	GBR	86	1/20/2019 16:39:49	0	0	0	3	0	2	0
+774	Disgust	I felt … when my girlfriend left it to me to clean out the cat litter tray, first thing in the morning.	D	Vi	Fm	Ml	Norwich	GBR	68	1/7/2019 09:56:30	2	3	0	0	0	0	0
+922	Guilt	I felt very ... when I lied to my mother.	Y	Vi	Dom	Ml	Dagenham	GBR	54	1/7/2019 19:32:44	0	0	0	4	0	0	1
+1160	Shame	I feel ... because unfortunately I have PCOS, and this syndrome makes me feel ... in myself almost every single day. The ... comes mostly from the possibility that my weight issues and unhealthy eating may be the cause of the condition.	Y	Vi	Dom	Fl	Walsall	GBR	108	1/14/2019 07:26:35	0	1	0	0	0	3	1
+987	Joy	I felt ... when spending Christmas with my Son.	D	Vi	Dom	Ml	nan	GBR	88	1/2/2019 08:47:42	0	0	0	0	5	0	0
+969	Guilt	I felt ... because I had been quite harsh to my partner because he had really annoyed me and I should have just taken a minute to calm down rather than saying something rude.	D	Mi	H	Fl	Oxford	GBR	92	1/21/2019 16:53:28	0	0	0	4	0	1	0
+1096	Sadness	I felt ... because our family dog died. She was a big part of my teenage years and I was ... that she died.	Y	I	Dom	Fl	Troon	GBR	55	1/7/2019 19:12:30	0	0	0	0	0	5	0
+997	Joy	I feel ... when my children tell me they love me.	D	I	Sh	Fl	Newcastle Upon Tyne	GBR	100	1/7/2019 15:07:45	0	0	0	0	5	0	0
+825	Fear	I felt … when I couldn't get in touch with a friend who was very ill and felt … he had got worse.	W	Vi	Sh	Ml	Prescot	GBR	63	1/3/2019 12:16:08	0	0	2	0	0	2	1
+1128	Shame	I felt ... when I realised that I had forgotten my best friend's birthday when she has had such a tough year but never forgets my birthday or special events.	D	Vi	H	Fl	Carlisle	GBR	81	1/2/2019 13:49:35	0	0	0	5	0	0	0
+1175	Shame	I felt ... reading about the suffering of slaves in the middle passage when I read about it at university.	Y	I	Sh	Fl	Shepherds Bush	GBR	90	1/9/2019 22:36:28	1	1	0	0	0	1	2
+753	Disgust	I felt … when I watched Making of a Murderer and saw how a 16 year old with learning difficulties was awfully manipulated by self-serving police officers that are supposed to serve the community.	D	Mi	H	Fl	Oxford	GBR	92	1/7/2019 16:21:24	2	2	0	0	0	1	0
+804	Disgust	I felt … when I let go of myself last year. I wasn't in a good place, but eventually I didn't recognise myself (physically or how I was acting) and I felt … at myself for not trying to be the best person I could and wasting so much time.	M	Vi	Dom	Fl	Nottingham	GBR	117	1/21/2019 16:02:17	0	0	0	0	0	0	5
+1089	Sadness	I felt ... when I was on holiday and it was the last day and had to come home.	D	Vi	Dom	Fl	Letchworth	GBR	59	1/12/2019 12:30:56	0	0	0	0	0	5	0
+664	Anger	I felt … when a seller left me totally unjustified negative feedback on eBay due to an item disappearing in the post.	M	I	Sh	Ml	Norwich	GBR	68	1/7/2019 09:42:42	5	0	0	0	0	0	0
+881	Fear	I felt … today when up the step ladder pruning a tree - the worry of slipping and falling off.	D	Mi	H	Ml	Saxmundham	GBR	107	1/20/2019 20:25:42	0	0	5	0	0	0	0
+711	Anger	I felt … when my mobile fell down and broke.	W	Mi	Sh	Ml	Bristol	GBR	69	1/20/2019 15:05:06	2	0	0	0	0	3	0
+940	Guilt	I feel ... for eating chocolate when I know I should choose healthy things.	D	N	Fm	Fl	Peterborough	GBR	112	1/14/2019 13:29:51	0	0	0	4	0	0	1
+818	Fear	I felt … when I thought my son could be in trouble when mountain climbing.	M	I	Sh	Fl	Ely	GBR	62	1/1/2019 20:08:27	0	0	5	0	0	0	0
+864	Fear	I felt … when I had walked home from a bar before my partner and couldn't find my key when I got to the front door, it was cold and dark.	W	Mi	H	Fl	Oxford	GBR	92	1/7/2019 16:28:42	2	0	3	0	0	0	0
+986	Joy	I felt ... when I watched my children open their Christmas presents and it gave me such ... to see them so happy.	D	Vi	Dom	Ml	Eastbourne	GBR	103	1/2/2019 06:30:16	0	0	0	0	5	0	0
+783	Disgust	I felt … having to clean out drain plug.	W	N	Fm	Ml	nan	GBR	88	1/8/2019 08:23:34	0	5	0	0	0	0	0
+957	Guilt	I felt ... when I lied to my wife.	D	Mi	Fm	Ml	nan	IRL	67	1/11/2019 02:11:16	0	0	0	5	0	0	0
+925	Guilt	I felt ... when I forgot our wedding anniversary.	M	Mi	H	Ml	nan	GBR	88	1/8/2019 08:24:59	0	0	0	4	0	0	1
+775	Disgust	I felt … when a stranger threatened my children.	Y	Vi	Dom	Fl	Workington	GBR	58	1/7/2019 10:35:08	5	0	0	0	0	0	0
+1073	Sadness	I felt ... when my girlfriend felt forced to re-home her pony due to the cost and time commitment;  it felt so final that an animal which had been part of my life for years had reached the end of its relationship with us.	M	Mi	Dom	Ml	Norwich	GBR	68	1/7/2019 09:51:10	0	0	0	0	0	5	0
+794	Disgust	I feel … when I see adverts on the telly showing animals that have been mistreated by owners that dont look after them.	D	Mi	Sh	Fl	Caerphilly	GBR	86	1/20/2019 16:32:01	2	0	0	0	0	3	0
+1147	Shame	I felt ... when I inadvertently stole an air freshener for my car.  It was in the bottom of my shopping trolley and in a clear packet so didn't see it when I put my shopping through the checkout.  I took it straight back to the shop in case they thought I stole it.	D	I	H	Fl	Bedford	GBR	97	1/7/2019 20:24:24	0	0	0	3	0	0	2
+1180	Shame	I felt ... that when I was in my teen years I never did well at school. On one occasion I brought home a school report card which was full of the just about the worst grades you can get.  My mother showed her displeasure towards me.	Y	I	Sh	Ml	Torquay	GBR	101	1/12/2019 23:29:15	0	0	0	1	0	0	4
+718	Anger	I felt … because a book online had been advertised as new, but when the paperback arrived it was perfectly obvious it had already been read - assuming this was not an error in the description, how could anyone be so dishonest?	D	I	Fm	Ml	Norwich	GBR	68	1/21/2019 11:20:11	5	0	0	0	0	0	0
+838	Fear	I felt … because I thought I had left the oven on and left the house with our kittens inside. I went back and it was off after all.	D	I	Fm	Fl	Oxford	GBR	92	1/7/2019 16:22:22	0	0	5	0	0	0	0
+958	Guilt	I felt ... when I lied to my partner.	D	Mi	H	Ml	Liverpool	GBR	110	1/11/2019 19:03:43	0	0	0	3	0	0	2
+945	Guilt	I felt ... when I told a friend I was not well to avoid meeting them.	W	N	H	Fl	Caerphilly	GBR	93	1/7/2019 10:36:13	0	0	0	3	0	1	1
+1121	Shame	I felt ... when I found out that my daughter had been having a difficult time and I didn't realise straight away what she was going through.	D	I	Dom	Fl	Workington	GBR	58	12/31/2018 22:15:44	0	0	0	3	0	1	1
+1140	Shame	I felt ... because my country is treating EU citizens terribly.	M	I	Dom	Fl	Balham	GBR	113	1/9/2019 22:37:36	0	1	0	0	0	0	4
+819	Fear	I feel … of becoming well known because of posting many photos on social media.  I like to remain as a private person and not be recognised just because I have posted online.	W	Mi	H	Ml	Stowmarket	GBR	107	1/1/2019 23:18:35	0	0	4	0	0	1	0
+990	Joy	I felt ... because I was offered a promotion at work to be head of department. I felt ... because this had been something I had been working towards for a long amount of time. I had worked really hard and felt this had finally paid off.	M	Mi	Dom	Fl	Birmingham	GBR	121	1/2/2019 18:20:29	0	0	0	0	5	0	0
+790	Disgust	I felt … when I observed a shop assistant prepare food without gloves.	D	Mi	H	Ml	nan	IRL	67	1/11/2019 02:06:58	0	5	0	0	0	0	0
+671	Anger	I felt … when my son let one of our cats out when I specifically asked him not to because I had to take him to the vet.	D	Vi	Sh	Fl	Bedford	GBR	97	1/7/2019 19:59:36	4	0	1	0	0	0	0
+840	Fear	I felt … when I took my cat to the vet and there was a huge dog in there not being well controlled by its owner, so I waited outside until it had gone.	W	I	Fm	Fl	Bedford	GBR	97	1/7/2019 20:09:49	0	0	5	0	0	0	0
+659	Anger	I felt … because Swagbucks didn't pay out a questionnaire that I’d followed all the instructions for.	M	N	Fm	Fl	Leven	GBR	99	1/5/2019 11:14:50	5	0	0	0	0	0	0
+1106	Sadness	I felt ... when I watched videos of how some people treat animals.	M	I	Sh	Fl	Balham	GBR	113	1/9/2019 22:40:32	2	0	0	0	0	3	0
+882	Fear	I felt … when I was out late at night and was aware that some dangerous people were around.	D	Vi	Fm	Fl	Stockton-on-tees	GBR	62	1/20/2019 22:12:51	0	0	5	0	0	0	0
+703	Anger	I feel … when work colleagues are not helpful in assisting with task at hand.	D	I	Fm	Ml	Great Yarmouth	GBR	107	1/8/2019 20:33:30	5	0	0	0	0	0	0
+1064	Sadness	I felt ... when a close relative died.	Y	Mi	Dom	Ml	Bradford	GBR	76	1/3/2019 13:35:35	0	0	0	0	0	5	0
+1014	Joy	I felt ... when witnessing the joy on my children’s face on Christmas morning.	W	Mi	Sh	Fl	Balham	GBR	113	1/9/2019 22:32:11	0	0	0	0	5	0	0
+1130	Shame	I felt ... when I was younger and I was caught cheating on a test in school. The teacher had seen me copying off someone else and gave me a warning about this.	Y	Mi	H	Fl	Birmingham	GBR	121	1/2/2019 18:32:02	0	0	1	1	0	0	3
+712	Anger	I felt … because a patient was admitted to my ward from a Nursing home with pressure sores as they were getting paid to provide Nursing care and had neglected to do so.	W	I	Sh	Fl	Caerphilly	GBR	86	1/20/2019 16:27:54	3	1	0	0	0	1	0
+1003	Joy	I felt ... because it was very funny when dad gave me a puppy.	Y	Vi	Dom	Ml	Dagenham	GBR	54	1/7/2019 19:30:43	0	0	0	0	5	0	0
+917	Guilt	I felt … when the cost of a reunion meal with an old friend was spilt fifty-fifty, even though I'm sure I earn substantially more than him these days.	W	Mi	Fm	Ml	Norwich	GBR	68	1/7/2019 09:49:25	0	0	0	3	0	1	1
+1183	Shame	I felt ... when I was sat in the dentists waiting room which was full of people and I looked down and a pair of my knickers were hanging out the bottom of one of my trouser legs.	Y	I	Sh	Fl	Caerphilly	GBR	86	1/20/2019 16:44:15	0	0	0	0	0	0	5
+1018	Joy	I felt great ... when as a young singer I played a gig at Dartmoor prison in Devon England. The performance went really well and the prisoners loved it which was not expected.	Y	Mi	H	Ml	Torquay	GBR	101	1/12/2019 23:00:45	0	0	0	0	5	0	0
+896	Guilt	I felt a lot of … when I lied to my mother that I didn't smoke.	Y	Vi	Dom	Ml	London	GBR	54	12/31/2018 21:14:10	0	0	0	3	0	1	1
+1131	Shame	I felt shame when I let down a friend who was relying on me to do a job at his house.	M	I	Dom	Ml	Prescot	GBR	63	1/3/2019 12:23:19	0	0	0	0	0	0	5
+1056	Sadness	I felt ... when I had to tell an old friend, who I hadn't seen for years, that someone she had known very well had died from cancer.	D	Mi	Fm	Fl	Ely	GBR	62	1/1/2019 20:12:23	0	0	0	0	0	5	0
+1158	Shame	I feel ... because I am still in bed at 12:30 pm.  Wish I had got up earlier.	D	N	Fm	Ml	Stranraer	GBR	107	1/13/2019 12:31:21	0	1	0	2	0	1	1
+860	Fear	I felt … when crossing a very high rope bridge whilst on my gap year;  I don't like heights, and it felt very flimsy.	Y	Vi	Fm	Ml	Norwich	GBR	68	1/7/2019 09:57:39	0	0	5	0	0	0	0
+766	Disgust	I felt … when I spotted a roadkill while driving.	D	N	Fm	Ml	nan	IRL	67	1/11/2019 02:06:01	0	2	0	0	0	3	0
+782	Disgust	I feel … when I read in the news several times how pro-brexit protesters were shouting at a female MP and female reporters saying that they were nazis and they should be raped. I feel … that in 2019 people think it is okay to say things like that purely because someone opposes their views and other people are reporting the views. I feel … that I live in the same country as these animals.	D	Vi	Sh	Ml	Eastbourne	GBR	103	1/8/2019 07:29:03	3	2	0	0	0	0	0
+1020	Joy	I felt ... because I got an A in one of my exams.	D	Vi	Dom	Ml	Johnstone	GBR	78	1/13/2019 17:29:33	0	0	0	0	5	0	0
+719	Anger	I felt … when I saw a advert on tv for an animal charity for abused animals and I felt … at how people can treat animals so badly.	D	I	H	Fl	Caerphilly	GBR	93	1/21/2019 12:06:39	2	0	0	0	0	3	0
+1161	Shame	I felt ... when I farted in front of a boy I liked in drama class and I felt so humiliated. No one said anything but it smelt bad and everyone knew it was me.	Y	Vi	Fm	Fl	Southall	GBR	124	1/14/2019 13:59:29	0	1	0	0	0	0	4
+709	Anger	I felt … when I discovered that there is going to be an inquest soon for my brother in law's death. His estranged wife is desperately waiting for closure - she wants the death certificate so she can get her claws on his pension.	D	I	Sh	Fl	Claremorris	IRL	104	1/20/2019 14:06:17	2	0	0	0	2	1	0
+793	Disgust	I felt … when I heard that two of my daughter's friends had been fighting at school.	M	Mi	H	Fl	Cheltenham	GBR	58	1/20/2019 15:00:56	2	0	0	0	0	3	0
+707	Anger	I felt … when I was pestered for change by a street beggar as I walked along the road.	W	Mi	H	Fl	Shepherds Bush	GBR	90	1/9/2019 22:23:22	3	0	1	0	0	1	0
+764	Disgust	I feel … because my country’s elected representatives are making us a laughing stock.	W	Mi	H	Fl	Balham	GBR	113	1/9/2019 22:16:25	4	1	0	0	0	0	0
+1012	Joy	I felt ... because my son finished the essay on time for his Master's degree;  this was a real achievement.	D	I	Sh	Fl	Ely	GBR	62	1/9/2019 10:58:03	0	0	0	0	5	0	0
+933	Guilt	I felt ... when I broke my new phone.	M	I	H	Ml	Liverpool	GBR	110	1/11/2019 19:04:49	2	0	0	0	0	3	0
+311	Guilt	I felt ... when I had a car accident and put two teenagers boys in hospital.	Y	Vi	Dom	Fl	nan	GBR	105	11/22/2018 21:40:40	0	0	0	3	0	0	2
+356	Guilt	I felt ... because I hoard things rather than be parted with them. I'm sure they'd be better use with someone else, but I keep in case things would 'come in'.	D	N	Dom	Fl	Ely	GBR	62	11/27/2018 18:40:57	0	0	0	3	0	0	2
+377	Joy	I felt ... when I completed a very long mountain trek for charity, and felt utter ... when I finished.	M	Mi	Dom	Ml	Prescot	GBR	63	11/22/2018 13:38:52	0	0	0	0	5	0	0
+383	Joy	I felt ... when my dog finally learnt how to go outside rather than peeing in the house. I was over the moon, because it took quite a while to train her. I remember I couldn’t stop smiling, I was so ...	Y	I	Sh	Fl	Cheltenham	GBR	73	11/24/2018 07:49:57	0	0	0	0	5	0	0
+419	Joy	I felt ... riffing out a song with the man I loved outside a pub in Chelsea.	Y	Mi	Fm	Fl	Shepherds Bush	GBR	90	11/25/2018 16:12:33	0	0	0	0	5	0	0
+421	Joy	I felt ... when I saw bees coming back to my garden after few years of absence.	W	Vi	Dom	Fl	nan	GBR	105	11/26/2018 08:01:59	0	0	0	0	5	0	0
+423	Joy	I felt ... when I finally started to complete my postgraduate degree. I had waited so long to start and at times didn’t think it would be possible. So when I finally started it I was very ...	Y	I	Dom	Fl	Cheltenham	GBR	73	11/26/2018 13:13:28	0	0	0	0	5	0	0
+433	Joy	I felt ... when I managed to complete a cryptic crossword.	D	Mi	H	Ml	Prescot	GBR	63	11/27/2018 19:13:24	0	0	0	0	5	0	0
+453	Joy	I felt ... that I received a Valentines Day card, and happened to recognise the handwriting as being from a girl I had a huge crush on.	Y	I	Dom	Ml	nan	GBR	68	11/28/2018 09:54:37	0	0	0	0	5	0	0
+455	Joy	I felt ... when I managed to get all my tasks done in the day I wanted to without being sidetracked or giving up.	W	Mi	H	Ml	Prescot	GBR	63	11/28/2018 10:32:48	0	0	0	0	5	0	0
+459	Sadness	I feel ... when I read about orangutans and palm oil.	W	Mi	H	Fl	Hull	GBR	74	11/22/2018 15:16:13	2	2	0	0	0	1	0
+465	Sadness	I felt ... when my kitten escaped and I thought I had lost him.	W	Vi	H	Fl	Oxford	GBR	92	11/22/2018 21:39:10	0	0	0	0	0	5	0
+470	Sadness	I felt ... a few days ago when I saw a homeless cat on the street.	D	Mi	Sh	Ml	Caldicot	GBR	106	11/23/2018 19:09:16	0	0	0	0	0	5	0
+489	Sadness	I felt ... when I heard the story about the little girl on the radio who asked a charity for a job because her family couldn't afford any food.	D	Vi	H	Fl	Cheltenham	GBR	58	11/23/2018 18:26:16	0	0	0	0	0	5	0
+496	Sadness	I felt ... when my dad fell and hurt his ankle.	W	Mi	H	Fl	Shepherds Bush	GBR	90	11/25/2018 15:50:57	0	0	0	0	0	5	0
+500	Sadness	I felt ... because of all the children in the world suffering hardship and with no real future, whilst my own son is incapable of appreciating the many things and advantages he has.	M	Mi	Sh	Ml	nan	GBR	68	11/25/2018 14:38:44	0	0	0	0	0	4	1
+512	Sadness	I felt ... when my pet tortoise got lost. We had kept him as a family pet for 20 years and then one day he got out of the garden and went missing.	M	Mi	Dom	Fl	Cambridge	GBR	116	11/26/2018 21:19:02	0	0	0	0	0	5	0
+520	Sadness	I felt ... because a guy that I was dating suddenly changed and went cold and I had no idea why.	M	I	Dom	Fl	nan	GBR	117	11/28/2018 14:29:17	1	0	1	0	0	3	0
+524	Sadness	I felt ... when my daughter was upset because of a bad relationship.	D	Vi	Sh	Fl	Workington	GBR	58	11/26/2018 10:42:22	1	0	0	0	0	4	0
+529	Sadness	I felt ... when there was a documentary about starving african children on television.	D	Mi	Fm	Fl	Hull	GBR	74	11/26/2018 22:35:18	0	0	0	0	0	5	0
+534	Sadness	I felt ... when President Kennedy was shot in Dallas Texas.	Y	Mi	Dom	Ml	Paignton	GBR	101	11/27/2018 14:23:32	2	0	0	0	0	3	0
+536	Sadness	I felt ... when an impoverished family we know well hid the fact that they were expecting a baby so they wouldn't impose on anyone any more than they already had. The lady hid when anyone came round.	D	I	Dom	Fl	Ely	GBR	62	11/27/2018 19:10:33	1	0	0	1	0	3	0
+546	Sadness	I felt ... when a horse was killed in the Grand National.	Y	Mi	Fm	Ml	Chelmsford	GBR	91	11/26/2018 23:37:16	0	1	0	0	0	4	0
+548	Sadness	I felt ... when my college course finished as I was unsure how I was going to fill my spare time and losing some friends	M	Mi	Dom	Ml	Prescot	GBR	63	11/27/2018 18:52:36	0	0	0	0	0	5	0
+555	Sadness	I felt ... when I saw an old man waiting alone at the bus stop in the rain with his shopping bags, wondering if he had any family or friends who might be helping him out.	M	Mi	H	Ml	nan	GBR	68	11/28/2018 09:53:25	0	0	0	0	0	5	0
+556	Sadness	I felt ... when I saw a recent wildlife documentary where the young babies died.	W	I	Sh	Ml	Prescot	GBR	63	11/28/2018 10:14:01	0	0	0	0	0	5	0
+569	Shame	I felt ... at Halloween time many years ago, my friends and I were out playing and decided to play pranks on our neighbours. One elderly lady that lived near us was the first house we called to. The lady got very frightened when she saw a group of young lads at her door and I knew that this was not right. I told all of my friends that we shouldn't be doing this to old ladies, some agreed, some didn't, but I felt ... all the same.	Y	N	Fm	Ml	Claremorris	IRL	118	11/23/2018 10:36:35	0	0	0	2	0	0	3
+571	Shame	I felt ... when I couldn't find anyone to allow me to swap in with me on the hockey field. I was not good at team sports, always picked last, and the teacher had told me to swap in with someone, but everyone refused as they wanted a decent game.	Y	Vi	Dom	Fl	Earith	GBR	62	11/23/2018 18:56:54	0	0	0	1	0	2	2
+579	Shame	I felt ... that the neighbours in the small village that I lived in knew that my ex husband was messing around on the internet chatting up other women before I did.	Y	Vi	Dom	Fl	Dulwich	GBR	86	11/25/2018 16:32:23	1	1	0	0	0	0	3
+593	Shame	I feel ... because I behave in a way that I am not proud of. I feel ... when I walk past homeless people in the street without offering any help or money. The ... is because I feel that I am responsible for doing something but I do not know how to help. I have been told I should not give them money but it is so hard when it is cold.	W	Mi	H	Fl	Tunbridge Wells	GBR	122	11/24/2018 11:11:15	0	0	0	3	0	0	2
+605	Shame	I felt ... because I fell over in public.	W	N	Fm	Fl	Sheffield	GBR	56	11/26/2018 17:28:12	0	0	0	0	0	0	5
+606	Shame	I felt ... giving a cheque to the managing agent which did not cover all I owed.	W	I	H	Fl	Shepherds Bush	GBR	90	11/26/2018 21:26:45	0	0	0	2	0	0	3
+656	Shame	I felt ... when I was an air stewardess on a flight and I announced to the passengers that we were arriving in Edinburgh, when really it was London Heathrow.	Y	Vi	Fm	Fl	Workington	GBR	58	11/28/2018 19:40:59	0	0	0	2	0	0	3

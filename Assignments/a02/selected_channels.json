@@ -1,0 +1,2496 @@
+[
+    {
+        "type": "discussions",
+        "id": "497",
+        "attributes": {
+            "title": "Two Minute Papers",
+            "slug": "497-two-minute-papers",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCbfYPyITQ-7l4upoX8nvctg.jpg",
+            "description": "What a time to be alive!",
+            "popularityScore": 8328,
+            "popularityRanks": "{\"12\":12,\"25\":1}",
+            "updateType": "channel",
+            "updateId": "UCbfYPyITQ-7l4upoX8nvctg",
+            "commentCount": 782,
+            "participantCount": 1,
+            "createdAt": "2020-07-27T06:10:20+00:00",
+            "lastPostedAt": "2023-04-30T15:54:37+00:00",
+            "lastPostNumber": 792,
+            "postNumberIndex": 792,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "101",
+        "attributes": {
+            "title": "sentdex",
+            "slug": "101-sentdex",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCfzlCWGWYyIQ0aLC5w48gBQ.jpg",
+            "description": "Python Programming tutorials, going further than just the basics. Learn about machine learning, finance, data analysis, robotics, web development, game development and more.\n\nI have ~1000 videos, all of which do not fit on the front page. Try searching on the channel page, or via https://pythonprogramming.net. If you cannot find something, just ask! \n\nBitcoin donations: 1GV7srgR4NJx4vrk7avCmmVQQrqmv87ty6\nPaypal donations: HSKinsley@gmail.com",
+            "popularityScore": 6712,
+            "popularityRanks": "{\"12\":20,\"14\":4,\"21\":1,\"25\":2}",
+            "updateType": "channel",
+            "updateId": "UCfzlCWGWYyIQ0aLC5w48gBQ",
+            "commentCount": 1239,
+            "participantCount": 1,
+            "createdAt": "2020-07-11T03:57:35+00:00",
+            "lastPostedAt": "2023-04-28T14:13:51+00:00",
+            "lastPostNumber": 1271,
+            "postNumberIndex": 1271,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "489",
+        "attributes": {
+            "title": "Robert Miles",
+            "slug": "489-robert-miles",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCLB7AzTwc6VFZrBsO2ucBMg.jpg",
+            "description": "Videos about Artificial Intelligence Safety Research, for everyone.\n\nAI is leaping forward right now, it's only a matter of time before we develop true Artificial General Intelligence, and there are a lot of different ways that this could go badly wrong for us. Putting aside the science fiction, this channel is about AI Safety research - humanity's best attempt to foresee the problems AI might pose and work out ways to ensure that our AI developments are safe and beneficial.",
+            "popularityScore": 5482,
+            "popularityRanks": "{\"12\":25,\"25\":3}",
+            "updateType": "channel",
+            "updateId": "UCLB7AzTwc6VFZrBsO2ucBMg",
+            "commentCount": 48,
+            "participantCount": 1,
+            "createdAt": "2020-07-27T06:10:16+00:00",
+            "lastPostedAt": "2023-04-28T16:37:28+00:00",
+            "lastPostNumber": 49,
+            "postNumberIndex": 49,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "496",
+        "attributes": {
+            "title": "Yannic Kilcher",
+            "slug": "496-yannic-kilcher",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCZHmQk67mSJgfCCTn7xBfew.jpg",
+            "description": "I make videos about machine learning research papers, programming, and issues of the AI community, and the broader impact of AI in society.\n\nTwitter: https://twitter.com/ykilcher\nDiscord: https://ykilcher.com/discord\nBitChute: https://www.bitchute.com/channel/yannic-kilcher\nLinkedIn: https://www.linkedin.com/in/ykilcher\nBiliBili: https://space.bilibili.com/2017636191\n\nIf you want to support me, the best thing to do is to share out the content :)\n\nIf you want to support me financially (completely optional and voluntary, but a lot of people have asked for this):\nSubscribeStar: https://www.subscribestar.com/yannickilcher\nPatreon: https://www.patreon.com/yannickilcher\nBitcoin (BTC): bc1q49lsw3q325tr58ygf8sudx2dqfguclvngvy2cq\nEthereum (ETH): 0x7ad3513E3B8f66799f507Aa7874b1B0eBC7F85e2\nLitecoin (LTC): LQW2TRyKYetVC8WjFkhpPhtpbDM4Vw7r9m\nMonero (XMR): 4ACL8AGrEo5hAir8A9CeVrW8pEauWvnp1WnSDZxW7tziCDLhZAGsgzhRQABDnFy8yuM9fWJDviJPHKRjV4FWt19CJZN9D4n\n\n\n",
+            "popularityScore": 3882,
+            "popularityRanks": "{\"12\":33,\"25\":4}",
+            "updateType": "channel",
+            "updateId": "UCZHmQk67mSJgfCCTn7xBfew",
+            "commentCount": 401,
+            "participantCount": 1,
+            "createdAt": "2020-07-27T06:10:19+00:00",
+            "lastPostedAt": "2023-04-27T21:37:31+00:00",
+            "lastPostNumber": 412,
+            "postNumberIndex": 412,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "221",
+        "attributes": {
+            "title": "Siraj Raval",
+            "slug": "221-siraj-raval",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCWN3xxRkmTPmbKwht9FuE5A.jpg",
+            "description": "Hello World, it's Siraj!  I'm a technologist on a mission to spread data literacy. Artificial Intelligence, Mathematics, Science, Technology, I simplify these topics to help you understand how they work. Using this knowledge you can build wealth and live a happier, more meaningful life. I live to serve this community. We are the fastest growing AI community in the world! Co-Founder of Sage Health (www.sage-health.org) \n\nTwitter: http://www.twitter.com/sirajraval\nInstagram: https://instagram.com/sirajraval/\nFacebook: https://www.facebook.com/sirajology/\n\nIf you found my videos useful, I'd love your support on Patreon :) https://www.patreon.com/user?ty=h&u=3191693\n\nSome Research - https://drive.google.com/file/d/0BwUv84lNDk72Q1gzaXgwR2U3U2NWVlZSOFk4amZIRmV1QXI0/view \n\nIn the event of my demise, you must finish what I've started here.",
+            "popularityScore": 3106,
+            "popularityRanks": "{\"12\":57,\"14\":6,\"21\":2,\"25\":5}",
+            "updateType": "channel",
+            "updateId": "UCWN3xxRkmTPmbKwht9FuE5A",
+            "commentCount": 453,
+            "participantCount": 1,
+            "createdAt": "2020-07-13T06:53:04+00:00",
+            "lastPostedAt": "2023-04-30T15:23:47+00:00",
+            "lastPostNumber": 473,
+            "postNumberIndex": 473,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "376",
+        "attributes": {
+            "title": "Alexander Amini",
+            "slug": "376-alexander-amini",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCtslD4DGH6PKyG_1gFAX7sg.jpg",
+            "description": "",
+            "popularityScore": 2772,
+            "popularityRanks": "{\"12\":62,\"14\":7,\"21\":3,\"25\":6}",
+            "updateType": "channel",
+            "updateId": "UCtslD4DGH6PKyG_1gFAX7sg",
+            "commentCount": 73,
+            "participantCount": 1,
+            "createdAt": "2020-07-18T10:22:02+00:00",
+            "lastPostedAt": "2023-04-28T14:00:08+00:00",
+            "lastPostNumber": 75,
+            "postNumberIndex": 75,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "646",
+        "attributes": {
+            "title": "DeepMind",
+            "slug": "646-deepmind",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCP7jMXSY2xbc3KCAE0MHQ-A.jpg",
+            "description": "Artificial intelligence could be one of humanity's most useful inventions. DeepMind aims to build advanced AI to expand our knowledge and find new answers. By solving this one thing, we believe we could help people solve thousands of problems.\n\nWe\u2019re a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.\n\nWe have a track record of breakthroughs in fundamental AI research, published in journals like Nature, Science, and more. Our programs have learned to diagnose eye diseases as effectively as the world\u2019s top doctors, to save 30% of the energy used to keep data centres cool, and to predict the complex 3D shapes of proteins - which could one day transform how drugs are invented. \n\nFind out more: deepmind.com",
+            "popularityScore": 2486,
+            "popularityRanks": "{\"12\":78,\"25\":7}",
+            "updateType": "channel",
+            "updateId": "UCP7jMXSY2xbc3KCAE0MHQ-A",
+            "commentCount": 171,
+            "participantCount": 1,
+            "createdAt": "2020-08-26T09:36:51+00:00",
+            "lastPostedAt": "2022-11-07T12:55:00+00:00",
+            "lastPostNumber": 181,
+            "postNumberIndex": 181,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "478",
+        "attributes": {
+            "title": "TensorFlow",
+            "slug": "478-tensorflow",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UC0rqucBdTuFTjJiefW5t-IQ.jpg",
+            "description": "Welcome to the official TensorFlow YouTube channel. Stay up to date with the latest TensorFlow news, tutorials, best practices, and more! \n\nTensorFlow is an open-source machine learning framework for everyone.",
+            "popularityScore": 1989,
+            "popularityRanks": "{\"12\":103,\"25\":8}",
+            "updateType": "channel",
+            "updateId": "UC0rqucBdTuFTjJiefW5t-IQ",
+            "commentCount": 586,
+            "participantCount": 1,
+            "createdAt": "2020-07-27T06:10:10+00:00",
+            "lastPostedAt": "2023-04-20T16:08:37+00:00",
+            "lastPostNumber": 598,
+            "postNumberIndex": 598,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "832",
+        "attributes": {
+            "title": "Krish Naik",
+            "slug": "832-krish-naik",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCNU_lfiiWBdtULKOw6X0Dig.jpg",
+            "description": "I work as a Lead Data Scientist, pioneering in machine learning, deep learning, and computer vision,an educator, and a mentor, with over 8 years' experience in the industry. This is my YouTube channel where I explain various topics on machine learning, deep learning, and AI with many real-world problem scenarios. I have delivered over 30 tech talks on data science, machine learning, and AI at various meet-ups, technical institutions, and community-arranged forums. My main aim is to make everyone familiar of ML and AI.Please subscribe and support the channel. As i love new technology, all these videos are free and I promise to make more interesting content as we go ahead.\n\nPlease free to drop a mail for Product unboxing, GPU's unboxing and any other collaboration",
+            "popularityScore": 1935,
+            "popularityRanks": "{\"12\":111,\"25\":9}",
+            "updateType": "channel",
+            "updateId": "UCNU_lfiiWBdtULKOw6X0Dig",
+            "commentCount": 1597,
+            "participantCount": 1,
+            "createdAt": "2020-09-24T13:46:24+00:00",
+            "lastPostedAt": "2023-04-29T18:31:52+00:00",
+            "lastPostNumber": 1661,
+            "postNumberIndex": 1661,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "490",
+        "attributes": {
+            "title": "Arxiv Insights",
+            "slug": "490-arxiv-insights",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCNIkB2IeJ-6AmZv7bQ1oBYg.jpg",
+            "description": "My name is Xander Steenbrugge, and I read a ton of papers on Machine Learning and AI. \nBut papers can be a bit dry & take a while to read. And we are lazy right?\n\nIn this channel I try to summarize my core take-aways from a technical point of view while making them accessible for a bigger audience.\n\nIf you love technical breakdowns on ML & AI but you are often lazy like me, then this channel is for you!",
+            "popularityScore": 1850,
+            "popularityRanks": "{\"12\":115,\"25\":10}",
+            "updateType": "channel",
+            "updateId": "UCNIkB2IeJ-6AmZv7bQ1oBYg",
+            "commentCount": 13,
+            "participantCount": 1,
+            "createdAt": "2020-07-27T06:10:16+00:00",
+            "lastPostedAt": "2021-07-27T10:32:47+00:00",
+            "lastPostNumber": 13,
+            "postNumberIndex": 13,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "500",
+        "attributes": {
+            "title": "Serrano.Academy",
+            "slug": "500-serranoacademy",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCgBncpylJ1kiVaPyP-PZauQ.jpg",
+            "description": "Welcome to Serrano.Academy! I'm Luis Serrano and I love demystifying concepts, capturing their essence, and sharing these videos with you. I prefer illustrations, analogies, and cartoons, rather than formulas (although we don't shy away from the math when needed).\n\nThe topics I have are machine learning, mathematics (probability and statistics), but I'm open to many others. If you have any topics you'd like to suggest, feel free to add them in the comments or drop me a line!\n\nFor more information, check out http://serrano.academy.\n\nAnd also check out my book! Grokking Machine Learning\nhttp://manning.com/books/grokking-machine-learning\n(40% discount code: serranoyt)\n",
+            "popularityScore": 1718,
+            "popularityRanks": "{\"12\":124,\"25\":11}",
+            "updateType": "channel",
+            "updateId": "UCgBncpylJ1kiVaPyP-PZauQ",
+            "commentCount": 42,
+            "participantCount": 1,
+            "createdAt": "2020-07-27T06:10:21+00:00",
+            "lastPostedAt": "2022-11-08T15:59:35+00:00",
+            "lastPostNumber": 53,
+            "postNumberIndex": 53,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "709",
+        "attributes": {
+            "title": "StatQuest with Josh Starmer",
+            "slug": "709-statquest-with-josh-starmer",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCtYLUTtgS3k1Fg4y5tAhLbw.jpg",
+            "description": "Statistics, Machine Learning and Data Science can sometimes seem like very scary topics, but since each technique is really just a combination of small and simple steps, they are actually quite simple. My goal with StatQuest is to break down the major methodologies into easy to understand pieces. That said, I don't dumb down the material. Instead, I build up your understanding so that you are smarter.\n\nContact, Video Index, Etc: https://statquest.org",
+            "popularityScore": 1693,
+            "popularityRanks": "{\"12\":127,\"25\":12}",
+            "updateType": "channel",
+            "updateId": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+            "commentCount": 257,
+            "participantCount": 1,
+            "createdAt": "2020-08-27T13:11:47+00:00",
+            "lastPostedAt": "2023-04-16T04:00:33+00:00",
+            "lastPostNumber": 276,
+            "postNumberIndex": 276,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "485",
+        "attributes": {
+            "title": "365 Data Science",
+            "slug": "485-365-data-science",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCEBpSZhI1X8WaP-kY_2LLcg.jpg",
+            "description": "At 365 Data Science we make #DataScience accessible to all by providing the highest quality online data science education. Our courses are designed to build up your skill set from beginner to job-ready, regardless of your current level, background education, and experience.\n\nOur data science program helps students and young professionals embark on a career as a data scientist. Demand for qualified data scientists is at an all-time high and traditional degrees are simply too expensive, time-consuming or rigid to meet the majority of needs. Our mission is to close that gap. \n\nWe provide high quality, affordable training to open new opportunities for students and professionals all over the world. \nWe constantly improve our program offering and the customer experience.\nWe\u2019ve Helped More than 1 Million Student differentiate themselves by providing them with:\n\n\u2022 150+ Hours of video\n\u2022 1,980+ Lessons\n\u2022 35+ Courses\n\u2022 1.5M+ Students\n\nReady to Start Your Career?\n",
+            "popularityScore": 1426,
+            "popularityRanks": "{\"12\":149,\"25\":13}",
+            "updateType": "channel",
+            "updateId": "UCEBpSZhI1X8WaP-kY_2LLcg",
+            "commentCount": 216,
+            "participantCount": 1,
+            "createdAt": "2020-07-27T06:10:13+00:00",
+            "lastPostedAt": "2023-04-07T14:22:01+00:00",
+            "lastPostNumber": 222,
+            "postNumberIndex": 222,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "515",
+        "attributes": {
+            "title": "MITCSAIL",
+            "slug": "515-mitcsail",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCBpxspUNl1Th33XbugiHJzw.jpg",
+            "description": "The Massachusetts Institute of Technology's Computer Science and Artificial Intelligence Laboratory (CSAIL) conducts research in all areas of computer science and AI, such as robotics, systems, theory, biology, machine learning, speech recognition, vision and graphics.  Here you'll find videos showcasing the exciting research being done at CSAIL.\n\nInformation about accessibility can be found at https://accessibility.mit.edu/",
+            "popularityScore": 1071,
+            "popularityRanks": "{\"12\":184,\"25\":14}",
+            "updateType": "channel",
+            "updateId": "UCBpxspUNl1Th33XbugiHJzw",
+            "commentCount": 215,
+            "participantCount": 1,
+            "createdAt": "2020-08-05T03:25:14+00:00",
+            "lastPostedAt": "2023-04-25T15:41:47+00:00",
+            "lastPostNumber": 218,
+            "postNumberIndex": 218,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "494",
+        "attributes": {
+            "title": "Data Professor",
+            "slug": "494-data-professor",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCV8e2g4IWQqK71bbzGDEI4Q.jpg",
+            "description": "Data Science, Machine Learning, Bioinformatics, Research and Teaching are my passion. The Data Professor YouTube channel is an extension of my passion in helping students and data enthusiast learn about Data Science and how it can be used to make sense of data. This channel provides Data Science contents consisting of explainer videos and practical tutorials.\n\nChanin Nantasenamat, Ph.D. is an Associate Professor of Bioinformatics at a Research University where he leads a research laboratory that harnesses data science for unraveling the hidden knowledge of big data in medicine. Chanin has more than 15 years of experience in data science (as applied to bioinformatics) and has published more than 100 research articles, review articles and book chapters.\n\nIf you are fascinated about data science, it would mean the world to me if you would consider subscribing to this channel (by clicking the link below):\nhttp://bit.ly/dataprofessor\n\n\u0e23\u0e28.\u0e14\u0e23.\u0e0a\u0e19\u0e34\u0e19\u0e17\u0e23\u0e4c \u0e19\u0e31\u0e19\u0e17\u0e40\u0e2a\u0e19\u0e32\u0e21\u0e32\u0e15\u0e23\u0e4c",
+            "popularityScore": 1054,
+            "popularityRanks": "{\"12\":187,\"25\":15}",
+            "updateType": "channel",
+            "updateId": "UCV8e2g4IWQqK71bbzGDEI4Q",
+            "commentCount": 312,
+            "participantCount": 1,
+            "createdAt": "2020-07-27T06:10:18+00:00",
+            "lastPostedAt": "2023-05-01T18:02:58+00:00",
+            "lastPostNumber": 317,
+            "postNumberIndex": 317,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "498",
+        "attributes": {
+            "title": "DeepLearningAI",
+            "slug": "498-deeplearningai",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCcIXc5mJsHVYTZR1maL5l9w.jpg",
+            "description": "Welcome to the official DeepLearning.AI YouTube channel! Here you can find the videos from our Coursera programs on machine learning as well as recorded events.\n\nDeepLearning.AI was founded in 2017 by machine learning and education pioneer Andrew Ng to fill a need for world-class AI education.\n\nDeepLearning.AI has created high-quality AI programs on Coursera that have gained an extensive global following. By providing a platform for education and fostering a tight-knit community, DeepLearning.AI has become the pathway for anyone looking to build an AI career.\n",
+            "popularityScore": 1044,
+            "popularityRanks": "{\"12\":191,\"25\":16}",
+            "updateType": "channel",
+            "updateId": "UCcIXc5mJsHVYTZR1maL5l9w",
+            "commentCount": 329,
+            "participantCount": 1,
+            "createdAt": "2020-07-27T06:10:20+00:00",
+            "lastPostedAt": "2023-04-27T14:49:09+00:00",
+            "lastPostNumber": 336,
+            "postNumberIndex": 336,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "645",
+        "attributes": {
+            "title": "Applied AI Course",
+            "slug": "645-applied-ai-course",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCJINtWke3-FMz2WuEltWDVQ.jpg",
+            "description": "The AppliedAICourse attempts to teach students/course-participants some of the core ideas in machine learning, data-science and AI that would help the participants go from a real world business problem to a first cut, working and deployable AI solution to the problem. Our primary focus is to help participants build real world AI solutions using the skills they learn in this course.\n\nThis course will focus on practical knowledge more than mathematical or theoretical rigor. That doesn't mean that we would water down the content. We will try and balance the theory and practice while giving more preference to the practical and applied aspects of AI as the course name suggests. Through the course, we will work on 20+ case studies of real world AI problems and datasets to help students grasp the practical details of building AI solutions. For each idea/algorithm in AI, we would provide examples to provide the intuition and show how the idea to used in the real world.",
+            "popularityScore": 1029,
+            "popularityRanks": "{\"12\":193,\"25\":17}",
+            "updateType": "channel",
+            "updateId": "UCJINtWke3-FMz2WuEltWDVQ",
+            "commentCount": 519,
+            "participantCount": 1,
+            "createdAt": "2020-08-26T09:32:34+00:00",
+            "lastPostedAt": "2023-01-21T13:02:01+00:00",
+            "lastPostNumber": 529,
+            "postNumberIndex": 529,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "477",
+        "attributes": {
+            "title": "Leo Isikdogan",
+            "slug": "477-leo-isikdogan",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UC-YAxUbpa1hvRyfJBKFNcJA.jpg",
+            "description": "I make concise educational videos on artificial intelligence, deep learning, image and video processing, computer vision, computational photography, and various topics in computer science.\n\nPlaylists\n\ud83d\udccc Deep Learning Crash Course\n\ud83d\udccc Image and Video Processing\n\ud83d\udccc Hands-on Deep Learning: TensorFlow Coding Sessions\n\ud83d\udccc Computer Science in 5 Minutes\n\ud83d\udccc Machine Learning in Finance\n\ud83d\udccc Cognitive Science Inspirations\n\nSubscribe for more videos!\n\nThis is my personal YouTube channel. Opinions are my own and do not express the opinions of my current or former employers, including Apple, Intel, Lenovo, Motorola, and UT Austin.\n",
+            "popularityScore": 941,
+            "popularityRanks": "{\"12\":207,\"25\":18}",
+            "updateType": "channel",
+            "updateId": "UC-YAxUbpa1hvRyfJBKFNcJA",
+            "commentCount": 55,
+            "participantCount": 1,
+            "createdAt": "2020-07-27T06:10:09+00:00",
+            "lastPostedAt": "2023-04-20T06:08:30+00:00",
+            "lastPostNumber": 58,
+            "postNumberIndex": 58,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "481",
+        "attributes": {
+            "title": "DataCamp",
+            "slug": "481-datacamp",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UC79Gv3mYp6zKiSwYemEik9A.jpg",
+            "description": "DataCamp empowers individuals and companies with the data science and data literacy skills to grow their careers and business. Our online platform allows you to learn new skills from the comfort of your browser, apply what you've learned in our secure cloud-based IDE, and recruit data talent to strengthen your team. We're the leader in data science and data literacy training, offering flexible online data training for every role, from non-coding business essentials to data science and machine learning, all taught by leading experts. Grow your skills in Python, R, SQL, Tableau, Power BI, Spreadsheets/Excel, Shell, and much more with our interactive courses and hands-on approach to learning. We've educated over 10 million people and 2,500 companies worldwide, including Deloitte, Microsoft, and Uber\u2014and we're just getting started.",
+            "popularityScore": 926,
+            "popularityRanks": "{\"12\":209,\"25\":19}",
+            "updateType": "channel",
+            "updateId": "UC79Gv3mYp6zKiSwYemEik9A",
+            "commentCount": 1360,
+            "participantCount": 1,
+            "createdAt": "2020-07-27T06:10:11+00:00",
+            "lastPostedAt": "2023-05-01T15:48:32+00:00",
+            "lastPostNumber": 1369,
+            "postNumberIndex": 1369,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "501",
+        "attributes": {
+            "title": "Machine Learning TV",
+            "slug": "501-machine-learning-tv",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UChIaUcs3tho6XhyU6K6KMrw.jpg",
+            "description": "This channel is all about machine learning (ML). It contains all the useful resources which help ML lovers and computer science students gain a better understanding of the concepts of this successful branch of Artificial Intelligence.",
+            "popularityScore": 897,
+            "popularityRanks": "{\"12\":214,\"25\":20}",
+            "updateType": "channel",
+            "updateId": "UChIaUcs3tho6XhyU6K6KMrw",
+            "commentCount": 133,
+            "participantCount": 1,
+            "createdAt": "2020-07-27T06:10:22+00:00",
+            "lastPostedAt": "2022-10-21T18:29:51+00:00",
+            "lastPostNumber": 134,
+            "postNumberIndex": 134,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "575",
+        "attributes": {
+            "title": "Yury Kashnitsky",
+            "slug": "575-yury-kashnitsky",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCgGADKKGalfwSNbpSyM5ryg.jpg",
+            "description": "Hi! I'm Yury Kashnitsky (a.k.a. Yorko).  \n\nHere I share video lectures of mlcourse.ai, an open Machine Learning course by OpenDataScience. Plus occasionally I shoot NLP-related videos. \n\nEarlier I shared Python, algo & data structures intro lectures (in Russian), interviews with DS authorities (also in Russian). ",
+            "popularityScore": 895,
+            "popularityRanks": "{\"12\":215,\"25\":21}",
+            "updateType": "channel",
+            "updateId": "UCgGADKKGalfwSNbpSyM5ryg",
+            "commentCount": 60,
+            "participantCount": 1,
+            "createdAt": "2020-08-05T11:18:30+00:00",
+            "lastPostedAt": "2022-11-21T10:42:26+00:00",
+            "lastPostNumber": 63,
+            "postNumberIndex": 63,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "493",
+        "attributes": {
+            "title": "Kaggle",
+            "slug": "493-kaggle",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCSNeZleDn9c74yQc-EKnVTA.jpg",
+            "description": "Kaggle is the world's largest community of data scientists. Join us to compete, collaborate, learn, and do your data science work. Kaggle's platform is the fastest way to get started on a new data science project. Spin up a Jupyter notebook with a single click. Build with our huge repository of free code and data. Stumped? Ask the friendly Kaggle community for help.",
+            "popularityScore": 867,
+            "popularityRanks": "{\"12\":221,\"25\":22}",
+            "updateType": "channel",
+            "updateId": "UCSNeZleDn9c74yQc-EKnVTA",
+            "commentCount": 351,
+            "participantCount": 1,
+            "createdAt": "2020-07-27T06:10:18+00:00",
+            "lastPostedAt": "2023-02-22T00:41:17+00:00",
+            "lastPostNumber": 361,
+            "postNumberIndex": 361,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "505",
+        "attributes": {
+            "title": "giant_neural_network",
+            "slug": "505-giant-neural-network",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCrBzGHKmGDcwLFnQGHJ3XYg.jpg",
+            "description": "Contact: giantneuralnet@gmail.com\nDiscord: https://discord.gg/akUgSGj\n\nMaking machine learning and reinforcement learning approachable! \n\nIntermediate neural network series in production.\n\nInspired by:\nBen Eater https://www.youtube.com/user/eaterbc\ncarykh https://www.youtube.com/channel/UC9z7EZAbkphEMg0SP7rw44A\n3Blue1Brown https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/\nComputerphile https://www.youtube.com/user/Computerphile",
+            "popularityScore": 820,
+            "popularityRanks": "{\"12\":229,\"25\":23}",
+            "updateType": "channel",
+            "updateId": "UCrBzGHKmGDcwLFnQGHJ3XYg",
+            "commentCount": 36,
+            "participantCount": 1,
+            "createdAt": "2020-07-27T06:10:24+00:00",
+            "lastPostedAt": "2023-03-13T03:44:05+00:00",
+            "lastPostNumber": 49,
+            "postNumberIndex": 49,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "703",
+        "attributes": {
+            "title": "itversity",
+            "slug": "703-itversity",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCakdSIPsJqiOLqylgoYmwQg.jpg",
+            "description": "\ud83d\udd34 \ud835\udde6\ud835\udde8\ud835\uddd5\ud835\udde6\ud835\uddd6\ud835\udde5\ud835\udddc\ud835\uddd5\ud835\uddd8 \ud835\ude01\ud835\uddfc \ud835\uddf9\ud835\uddf2\ud835\uddee\ud835\uddff\ud835\uddfb \ud835\uddd7\ud835\uddd4\ud835\udde7\ud835\uddd4 \ud835\uddd8\ud835\udde1\ud835\uddda\ud835\udddc\ud835\udde1\ud835\uddd8\ud835\uddd8\ud835\udde5\ud835\udddc\ud835\udde1\ud835\uddda \ud835\uddfc\ud835\uddfb \ud835\uddd6\ud835\udddf\ud835\udde2\ud835\udde8\ud835\uddd7 \ud83d\udd34\n\nA free one-stop shop to learn all tips and techniques about all technologies catering to a wide array of IT professionals or aspirants. At this time focused on Data Engineering on cloud (Azure, AWS and GCP)\nOur Offering:\n* Training Services\n* Engineering Services\n* Managed Services\n* Staffing Services\n\n#DataEngineering #CloudComputing #AWS #Azure #GCP #devops\n",
+            "popularityScore": 745,
+            "popularityRanks": "{\"12\":240,\"25\":24}",
+            "updateType": "channel",
+            "updateId": "UCakdSIPsJqiOLqylgoYmwQg",
+            "commentCount": 3471,
+            "participantCount": 1,
+            "createdAt": "2020-08-27T12:09:43+00:00",
+            "lastPostedAt": "2022-11-18T18:30:11+00:00",
+            "lastPostNumber": 3513,
+            "postNumberIndex": 3514,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "507",
+        "attributes": {
+            "title": "The Semicolon",
+            "slug": "507-the-semicolon",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCwB7HrnRlOfasrbCJoiZ9Lg.jpg",
+            "description": "We create simple, to the point tutorials for Deep Learning, Machine Learning, Data Analytics, Data Science,  C++.",
+            "popularityScore": 669,
+            "popularityRanks": "{\"12\":256,\"25\":25}",
+            "updateType": "channel",
+            "updateId": "UCwB7HrnRlOfasrbCJoiZ9Lg",
+            "commentCount": 46,
+            "participantCount": 1,
+            "createdAt": "2020-07-27T06:10:25+00:00",
+            "lastPostedAt": "2021-02-20T11:04:02+00:00",
+            "lastPostNumber": 47,
+            "postNumberIndex": 47,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "363",
+        "attributes": {
+            "title": "Augmented Startups",
+            "slug": "363-augmented-startups",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCFJPdVHPZOYhSyxmX_C_Pew.jpg",
+            "description": "We here at Augmented Startups help you to innovate with tutorials in Computer Vision, Augmented Reality, IoT, and AI .\n\nWith over 98'000 subscribers on  Augmented Startups, we teach you how step-by-step to create AI & AR Apps in Unity and Python. Learn with us and start creating and developing amazing apps!\n\nThis is our YouTube home. Here you will find tutorials to Learn Computer Vision, AI, Deep Learning, AR, Unity as well as tips and tricks and guides on how to develop cool apps.\n\n------------------------------------------------------------\nLearn Advanced Tutorials \n\u2b50https://www.Augmentedstartups.com\nFollow me on LinkedIN\n\u2b50https://www.Augmentedstartups.info/linkedin\nSupport us on Patreon\n\u2b50https://www.AugmentedStartups.info/Patreon\nChat to us on Discord\n\u2b50https://www.AugmentedStartups.info/discord\nInteract with us on Facebook\n\u2b50https://www.AugmentedStartups.info/Facebook\n------------------------------------------------------------\n\n#BrandBacker\n",
+            "popularityScore": 642,
+            "popularityRanks": "{\"12\":266,\"14\":26,\"21\":4,\"25\":26}",
+            "updateType": "channel",
+            "updateId": "UCFJPdVHPZOYhSyxmX_C_Pew",
+            "commentCount": 403,
+            "participantCount": 1,
+            "createdAt": "2020-07-18T05:10:24+00:00",
+            "lastPostedAt": "2023-04-18T06:51:49+00:00",
+            "lastPostNumber": 429,
+            "postNumberIndex": 429,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "508",
+        "attributes": {
+            "title": "Data Science Dojo",
+            "slug": "508-data-science-dojo",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCzL_0nIe8B4-7ShhVPfJkgw.jpg",
+            "description": "At Data Science Dojo, we believe data science is for everyone. Our in-person data science bootcamp has been attended by more than 4,000+ professionals from over 1,500+ companies globally. Our channel is the perfect showcase of our commitment to teaching data science for all skill levels! You will find tutorials, community talks, and courses on data science and data engineering. \n\nWe offer our 5-day training in many locations around the world! Check out our schedule to see where we will be next!\nhttps://datasciencedojo.com/data-science-bootcamp/schedule/\n\nIf you have additional questions on a topic, leave a comment in the video and we will try our best to answer it!",
+            "popularityScore": 613,
+            "popularityRanks": "{\"12\":278,\"25\":27}",
+            "updateType": "channel",
+            "updateId": "UCzL_0nIe8B4-7ShhVPfJkgw",
+            "commentCount": 420,
+            "participantCount": 1,
+            "createdAt": "2020-07-27T06:10:26+00:00",
+            "lastPostedAt": "2023-04-29T00:10:49+00:00",
+            "lastPostNumber": 473,
+            "postNumberIndex": 473,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "678",
+        "attributes": {
+            "title": "Machine Learning with Phil",
+            "slug": "678-machine-learning-with-phil",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UC58v9cLitc8VaCjrcKyAbrw.jpg",
+            "description": "Howdy! At Neuralnet.ai we cover artificial intelligence and deep learning tutorials in a variety of topics, ranging from reinforcement learning to natural language processing. The bulk of my content is in deep reinforcement learning, where I present lectures on actor critic and policy gradient methods, as well as deep q learning and all its varieties. You'll get to learn advanced algorithms like A3C, DDPG, TD3, SAC, PPO, DQN, DDQN, and D3QN. Tutorials are presented in both the PyTorch and Tensorflow frameworks.\n\nI'm on a mission to educate 1,000,000 artificial intelligence engineers, so that we can stay one step ahead of our robot overlords. \n\nI typically post written tutorials at www.neuralnet.ai\nYou can follow me on twitter at www.twitter.com/MLwithPhil",
+            "popularityScore": 582,
+            "popularityRanks": "{\"12\":286,\"25\":28}",
+            "updateType": "channel",
+            "updateId": "UC58v9cLitc8VaCjrcKyAbrw",
+            "commentCount": 148,
+            "participantCount": 1,
+            "createdAt": "2020-08-27T07:52:50+00:00",
+            "lastPostedAt": "2023-03-20T15:40:38+00:00",
+            "lastPostNumber": 175,
+            "postNumberIndex": 175,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "504",
+        "attributes": {
+            "title": "Data Science Tutorials",
+            "slug": "504-data-science-tutorials",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCk5tiFqPvdjsl7yT4mmokmg.jpg",
+            "description": "In this channel, my objective is to go through R for its programming and statistical analysis technique. R is a preferred programming language for statistician and researcher because of its easy to follow programming syntax and depth of the analysis packages available.",
+            "popularityScore": 546,
+            "popularityRanks": "{\"12\":297,\"25\":29}",
+            "updateType": "channel",
+            "updateId": "UCk5tiFqPvdjsl7yT4mmokmg",
+            "commentCount": 970,
+            "participantCount": 1,
+            "createdAt": "2020-07-27T06:10:24+00:00",
+            "lastPostedAt": "2023-04-04T14:56:01+00:00",
+            "lastPostNumber": 974,
+            "postNumberIndex": 974,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "487",
+        "attributes": {
+            "title": "Art of Visualization",
+            "slug": "487-art-of-visualization",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCHBWJGoZMkhJyElgvuN1U1w.jpg",
+            "description": "Welcome to the ArtofVisualization channel, home of the best Tableau and BI tutorials! We pride ourselves in always sharing with you the most recent and cutting-edge content on creating Tableau visualizations, dashboards, and tons of tips and tricks to improve your data visualization skills!\n\nWant more?\n\nFind us at https://www.artofvisualization.com\nFacebook: https://www.facebook.com/artofvisualization/\n",
+            "popularityScore": 437,
+            "popularityRanks": "{\"12\":328,\"25\":30}",
+            "updateType": "channel",
+            "updateId": "UCHBWJGoZMkhJyElgvuN1U1w",
+            "commentCount": 255,
+            "participantCount": 1,
+            "createdAt": "2020-07-27T06:10:14+00:00",
+            "lastPostedAt": "2021-05-18T08:20:35+00:00",
+            "lastPostNumber": 260,
+            "postNumberIndex": 262,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "677",
+        "attributes": {
+            "title": "SF Python",
+            "slug": "677-sf-python",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UC51aOZF5nnderbuar5D5ifw.jpg",
+            "description": "",
+            "popularityScore": 395,
+            "popularityRanks": "{\"12\":341,\"25\":31}",
+            "updateType": "channel",
+            "updateId": "UC51aOZF5nnderbuar5D5ifw",
+            "commentCount": 370,
+            "participantCount": 1,
+            "createdAt": "2020-08-27T07:47:38+00:00",
+            "lastPostedAt": "2023-02-21T05:29:13+00:00",
+            "lastPostNumber": 375,
+            "postNumberIndex": 375,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "699",
+        "attributes": {
+            "title": "What's AI",
+            "slug": "699-whats-ai",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCUzGQrN-lyyc0BWTYoJM_Sg.jpg",
+            "description": "Hi, I am Louis (loo\u00b7ee, French pronunciation), from Montreal, Canada, also known as \"What's AI\". I am focusing on making AI accessible. I try to share and explain artificial intelligence terms and news the best way I can for everyone.\n\nMy goal is to demystify the AI \u201cblack box\u201d for everyone and sensitize people about the risks of using it.\n\nNew video every Saturday at 10 AM EST!\n\nI also publish articles on my blog every week if you enjoy short reads: https://www.louisbouchard.ai/\n\nFollow @whats_ai on Instagram, Twitter, and connect on LinkedIn! Come exchange with me and follow my projects!\n\nLearn more every day!\n\n\u25baSubscribe to my newsletter: https://www.louisbouchard.ai/newsletter/\n\u25baJoin our discord server with many other AI enthusiasts: https://www.louisbouchard.ai/learn-ai-together/\n\u25baIf you'd like to support me, I have a Patreon where you can do that: https://www.patreon.com/whatsai\n\u25baMerch: https://whats-ai.creator-spring.com/\n",
+            "popularityScore": 379,
+            "popularityRanks": "{\"12\":347,\"25\":32}",
+            "updateType": "channel",
+            "updateId": "UCUzGQrN-lyyc0BWTYoJM_Sg",
+            "commentCount": 240,
+            "participantCount": 1,
+            "createdAt": "2020-08-27T11:59:15+00:00",
+            "lastPostedAt": "2023-04-28T21:02:46+00:00",
+            "lastPostNumber": 243,
+            "postNumberIndex": 243,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "486",
+        "attributes": {
+            "title": "Connor Shorten",
+            "slug": "486-connor-shorten",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCHB9VepY6kYvZjj0Bgxnpbw.jpg",
+            "description": "Welcome to my YouTube channel!(formerly known as Henry AI Labs) I am very excited about Deep Learning and AI powered technology!\n\nI am making paper summaries that I hope you will find useful for staying up to date with new papers, at least to give an overview if you don't have time to digest the full paper.\n\nThis channel includes topics such as Computer Vision, Natural Language Processing, Graph Embeddings, Generative Adversarial Networks, Reinforcement Learning, and more. \n\nI also try to post coding videos occasionally and am working on developing a podcast!\n\nThanks for checking it out, please subscribe!",
+            "popularityScore": 377,
+            "popularityRanks": "{\"12\":351,\"25\":33}",
+            "updateType": "channel",
+            "updateId": "UCHB9VepY6kYvZjj0Bgxnpbw",
+            "commentCount": 307,
+            "participantCount": 1,
+            "createdAt": "2020-07-27T06:10:14+00:00",
+            "lastPostedAt": "2022-08-04T14:05:02+00:00",
+            "lastPostNumber": 319,
+            "postNumberIndex": 319,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "480",
+        "attributes": {
+            "title": "Artificial Intelligence - All in One",
+            "slug": "480-artificial-intelligence-all-in-one",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UC5zx8Owijmv-bbhAK6Z9apg.jpg",
+            "description": "Hey guys! In this channel, you will find contents related to Artificial Intelligence (AI), Deep Learning (DL), Machine Learning (DL), Natural Language Processing (NLP), Computer Vision (CV), and special topics related to data science. Please make sure to smash the LIKE button and SUBSCRIBE to our channel to learn more about these trending topics, and don\u2019t forget to TURN ON your YouTube notifications!\n\nThanks \ud83d\ude42 \n\n",
+            "popularityScore": 347,
+            "popularityRanks": "{\"12\":361,\"25\":34}",
+            "updateType": "channel",
+            "updateId": "UC5zx8Owijmv-bbhAK6Z9apg",
+            "commentCount": 525,
+            "participantCount": 1,
+            "createdAt": "2020-07-27T06:10:11+00:00",
+            "lastPostedAt": "2018-09-02T07:22:25+00:00",
+            "lastPostNumber": 525,
+            "postNumberIndex": 656,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "697",
+        "attributes": {
+            "title": "Data Driven NYC",
+            "slug": "697-data-driven-nyc",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCQID78IY6EOojr5RUdD47MQ.jpg",
+            "description": "Data Driven NYC is a community of tech enthusiasts who are passionate about Big Data, data technologies and data-driven products and businesses, in New York and beyond. The community meets monthly at three hour events that include both company presentations and informal networking.\n\nData Driven NYC was founded and is organized by Matt Turck. Matt is a Managing Director at FirstMark Capital, a New York venture capital firm, where he focuses on early stage technology investments in the enterprise, data, fintech, infrastructure, and connected devices sectors. In addition to Data Driven NYC, Matt founded Hardwired NYC, another community and monthly event, focused on the Internet of Things, 3D printing and wearable computing.",
+            "popularityScore": 329,
+            "popularityRanks": "{\"12\":367,\"25\":35}",
+            "updateType": "channel",
+            "updateId": "UCQID78IY6EOojr5RUdD47MQ",
+            "commentCount": 383,
+            "participantCount": 1,
+            "createdAt": "2020-08-27T11:42:21+00:00",
+            "lastPostedAt": "2023-05-01T20:25:04+00:00",
+            "lastPostNumber": 420,
+            "postNumberIndex": 420,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "495",
+        "attributes": {
+            "title": "Andreas Kretz",
+            "slug": "495-andreas-kretz",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCY8mzqqGwl5_bTpBY9qLMAA.jpg",
+            "description": "I help you get into data engineering, the plumbing of data science. Building up big data platforms. \nFiguring out how to ingest, process and store data to enable the Data Scientist to do awesome stuff for customers. Using tools like AWS, Apache Spark Apache Kafka, MongoDB, Python and many more. \n\nThat's what data engineering, the plumbing of data science is all about. \n\nHello my name is Andreas Kretz. \n\nI do these types of videos:\n- Data Engineering live streams\n- Tutorials and Strategy videos that help you get hands on experience in data engineering\n- Q&A Videos about data engineering with Hadoop, Kafka, Spark and many more topics\n\n",
+            "popularityScore": 325,
+            "popularityRanks": "{\"12\":370,\"25\":36}",
+            "updateType": "channel",
+            "updateId": "UCY8mzqqGwl5_bTpBY9qLMAA",
+            "commentCount": 265,
+            "participantCount": 1,
+            "createdAt": "2020-07-27T06:10:19+00:00",
+            "lastPostedAt": "2023-05-01T15:01:35+00:00",
+            "lastPostNumber": 510,
+            "postNumberIndex": 510,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "685",
+        "attributes": {
+            "title": "Sreyobhilashi Institute",
+            "slug": "685-sreyobhilashi-institute",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCCGoM_sk2UGIiaTdtG3tHBw.jpg",
+            "description": "Sreyobhilashi Institute helps to accelerate your career growth in next-generation technologies.  Learn all big data technologies include Hadoop, Spark, Flink, Hive, Snowflake, AWS, Azure, Kafka, Nifi, Airflow, and other nosql databases.  We provide online free resources for self-learners and provide corporate training, workshops, online and offline events for students' better career growth. Knowledge only king, placement & job is a bonus, means if you have knowledge automatically get a job. Share the different types of information related to big data, artificial intelligence, TensorFlow, Keras, PyTorch, machine learning, deep learning, computer vision technologies such as OpenCV, Yolo, robotics, RPA, drone automation technologies everything explaining in a real-time cloud environment. Hands-on training, student satisfaction is very important in these paid online & offline big data training.",
+            "popularityScore": 322,
+            "popularityRanks": "{\"12\":374,\"25\":37}",
+            "updateType": "channel",
+            "updateId": "UCCGoM_sk2UGIiaTdtG3tHBw",
+            "commentCount": 106,
+            "participantCount": 1,
+            "createdAt": "2020-08-27T08:40:02+00:00",
+            "lastPostedAt": "2023-04-28T05:07:12+00:00",
+            "lastPostNumber": 117,
+            "postNumberIndex": 117,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "681",
+        "attributes": {
+            "title": "The TWIML AI Podcast with Sam Charrington",
+            "slug": "681-the-twiml-ai-podcast-with-sam-charrington",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UC7kjWIK1H8tfmFlzZO-wHMw.jpg",
+            "description": "Machine learning and artificial intelligence are dramatically changing the way businesses operate and people live. By sharing and amplifying the voices of a broad and diverse spectrum of machine learning and AI researchers, practitioners, and innovators, we hope to help make ML and AI more accessible and enhance the lives of our audience and their communities.\n\nThrough the podcast, we bring the top minds and ideas from the world of ML and AI to a broad and influential community of ML/AI researchers, data scientists, engineers, and tech-savvy business and IT leaders.\n\nThe TWIML AI Podcast is hosted by Sam Charrington, a sought-after industry analyst, speaker, commentator, and thought leader. Sam\u2019s research is focused on the business and consumer application of machine learning and AI, bringing AI-powered products to market, and AI-enabled and -enabling technology platforms\n",
+            "popularityScore": 292,
+            "popularityRanks": "{\"12\":389,\"25\":38}",
+            "updateType": "channel",
+            "updateId": "UC7kjWIK1H8tfmFlzZO-wHMw",
+            "commentCount": 958,
+            "participantCount": 1,
+            "createdAt": "2020-08-27T08:00:50+00:00",
+            "lastPostedAt": "2023-05-01T19:35:50+00:00",
+            "lastPostNumber": 1024,
+            "postNumberIndex": 1024,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "687",
+        "attributes": {
+            "title": "Allen Institute for AI",
+            "slug": "687-allen-institute-for-ai",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCEqgmyWChwvt6MFGGlmUQCQ.jpg",
+            "description": "",
+            "popularityScore": 252,
+            "popularityRanks": "{\"12\":401,\"25\":39}",
+            "updateType": "channel",
+            "updateId": "UCEqgmyWChwvt6MFGGlmUQCQ",
+            "commentCount": 242,
+            "participantCount": 1,
+            "createdAt": "2020-08-27T11:02:19+00:00",
+            "lastPostedAt": "2023-04-26T00:09:01+00:00",
+            "lastPostNumber": 246,
+            "postNumberIndex": 246,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "503",
+        "attributes": {
+            "title": "Arpan Gupta Data Scientist, IITian",
+            "slug": "503-arpan-gupta-data-scientist-iitian",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCjrGJITO_pggWmjgPvUiHFA.jpg",
+            "description": "This channel is created with intention to spread education in different streams of AI  and Consciousness .",
+            "popularityScore": 242,
+            "popularityRanks": "{\"12\":408,\"25\":40}",
+            "updateType": "channel",
+            "updateId": "UCjrGJITO_pggWmjgPvUiHFA",
+            "commentCount": 190,
+            "participantCount": 1,
+            "createdAt": "2020-07-27T06:10:23+00:00",
+            "lastPostedAt": "2023-04-23T07:28:05+00:00",
+            "lastPostNumber": 205,
+            "postNumberIndex": 205,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "737",
+        "attributes": {
+            "title": "Welch Labs",
+            "slug": "737-welch-labs",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UConVfxXodg78Tzh5nNu85Ew.jpg",
+            "description": "Math, Science, and Machine Learning resources.\n\nFor early access to new videos and other perks: \nhttps://www.patreon.com/welchlabs",
+            "popularityScore": 195,
+            "popularityRanks": "{\"12\":425,\"21\":39,\"25\":41}",
+            "updateType": "channel",
+            "updateId": "UConVfxXodg78Tzh5nNu85Ew",
+            "commentCount": 50,
+            "participantCount": 1,
+            "createdAt": "2020-09-21T09:19:30+00:00",
+            "lastPostedAt": "2019-02-09T13:16:41+00:00",
+            "lastPostNumber": 50,
+            "postNumberIndex": 50,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "643",
+        "attributes": {
+            "title": "Machine Learning at Berkeley",
+            "slug": "643-machine-learning-at-berkeley",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCXweTmAk9K-Uo9R6SmfGtjg.jpg",
+            "description": "Machine Learning at Berkeley empowers passionate students to solve real world data-driven problems through collaboration with companies and internal research. To find out more, check out our website http://ml.berkeley.edu where you can sign up for our newsletter and apply for our project teams.",
+            "popularityScore": 187,
+            "popularityRanks": "{\"12\":429,\"25\":42}",
+            "updateType": "channel",
+            "updateId": "UCXweTmAk9K-Uo9R6SmfGtjg",
+            "commentCount": 60,
+            "participantCount": 1,
+            "createdAt": "2020-08-26T09:31:04+00:00",
+            "lastPostedAt": "2022-12-05T18:04:05+00:00",
+            "lastPostNumber": 60,
+            "postNumberIndex": 60,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "483",
+        "attributes": {
+            "title": "Preserve Knowledge",
+            "slug": "483-preserve-knowledge",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UC9p_wQs8b8SHvfJSuuxEnvw.jpg",
+            "description": "Perserve Knowledge is a Canada higher education media organization that focuses on advances in mathematics, computer science, and artificial intelligence. Its goal is to bring together the world's leading researchers and students in computer science and related fields.",
+            "popularityScore": 176,
+            "popularityRanks": "{\"12\":433,\"25\":43}",
+            "updateType": "channel",
+            "updateId": "UC9p_wQs8b8SHvfJSuuxEnvw",
+            "commentCount": 148,
+            "participantCount": 1,
+            "createdAt": "2020-07-27T06:10:12+00:00",
+            "lastPostedAt": "2021-03-27T17:30:01+00:00",
+            "lastPostNumber": 148,
+            "postNumberIndex": 148,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "686",
+        "attributes": {
+            "title": "UofU Data Science",
+            "slug": "686-uofu-data-science",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCDUS80bdunpmvWVPyFRPqFQ.jpg",
+            "description": "",
+            "popularityScore": 174,
+            "popularityRanks": "{\"12\":434,\"25\":44}",
+            "updateType": "channel",
+            "updateId": "UCDUS80bdunpmvWVPyFRPqFQ",
+            "commentCount": 1655,
+            "participantCount": 1,
+            "createdAt": "2020-08-27T08:41:46+00:00",
+            "lastPostedAt": "2023-04-26T12:25:56+00:00",
+            "lastPostNumber": 1679,
+            "postNumberIndex": 1679,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "682",
+        "attributes": {
+            "title": "NerdML",
+            "slug": "682-nerdml",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UC7tzG9dDMcp0-WfGROT9cYw.jpg",
+            "description": "Being Machine Learning professional introducing Machine Learning tutorials, going further than just the basics including mathematical derivations of algorithm, inner functionality of algorithm & coding practice on actual data-set. Learn about machine learning, data analysis, data pre-processing and more.\n\nIf you cannot find something, just ask! \n\nHappy Leaning & stay safe!!!",
+            "popularityScore": 164,
+            "popularityRanks": "{\"12\":438,\"25\":45}",
+            "updateType": "channel",
+            "updateId": "UC7tzG9dDMcp0-WfGROT9cYw",
+            "commentCount": 31,
+            "participantCount": 1,
+            "createdAt": "2020-08-27T08:10:14+00:00",
+            "lastPostedAt": "2022-01-26T12:30:03+00:00",
+            "lastPostNumber": 33,
+            "postNumberIndex": 34,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "506",
+        "attributes": {
+            "title": "The Data Incubator",
+            "slug": "506-the-data-incubator",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCtY8JjMQpzYb5FFvUr2JnUw.jpg",
+            "description": "The Data Incubator's immersive data science, data engineering and analytics programs were designed for those with a passion for data looking to take the business world by storm. We don't just give you the tools you need to succeed in the business world\u2014we help you find your first or next data role. Visit us at https://www.thedataincubator.com/\n",
+            "popularityScore": 161,
+            "popularityRanks": "{\"12\":440,\"25\":46}",
+            "updateType": "channel",
+            "updateId": "UCtY8JjMQpzYb5FFvUr2JnUw",
+            "commentCount": 157,
+            "participantCount": 1,
+            "createdAt": "2020-07-27T06:10:25+00:00",
+            "lastPostedAt": "2023-04-21T16:43:33+00:00",
+            "lastPostNumber": 173,
+            "postNumberIndex": 173,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "491",
+        "attributes": {
+            "title": "MyStudy",
+            "slug": "491-mystudy",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCRhhFunXogiEK3WiinHGTAQ.jpg",
+            "description": "This is channel for machine learning, Python pandas, Data science. Deep learning, neural network, beautifulsoup, matplotlib tutorial.\n\nContact for Business enquiries @ flaslet@gmail.com",
+            "popularityScore": 144,
+            "popularityRanks": "{\"12\":451,\"25\":47}",
+            "updateType": "channel",
+            "updateId": "UCRhhFunXogiEK3WiinHGTAQ",
+            "commentCount": 317,
+            "participantCount": 1,
+            "createdAt": "2020-07-27T06:10:17+00:00",
+            "lastPostedAt": "2021-07-05T11:30:14+00:00",
+            "lastPostNumber": 317,
+            "postNumberIndex": 317,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "484",
+        "attributes": {
+            "title": "Aur\u00e9lien G\u00e9ron",
+            "slug": "484-aurelien-geron",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCCvGd1WBMpFQ_vtC89VF2qA.jpg",
+            "description": "Welcome to my channel on Machine Learning.  My plan is to make one or two videos per month to clarify complex topics, dive into the code, offer tips and tricks about TensorFlow, Keras, Scikit-Learn, PyTorch, deployment, performance and more. Hope you'll enjoy it!\n\nAbout me: I am the former lead of YouTube's video classification team, and author of the O'Reilly book Hands-On Machine Learning with Scikit-Learn and TensorFlow. I'm blown away by what Deep Learning can do, and I feel incredibly fortunate to call it my job. I hope I can help as many people as possible join the party!",
+            "popularityScore": 128,
+            "popularityRanks": "{\"12\":461,\"25\":48}",
+            "updateType": "channel",
+            "updateId": "UCCvGd1WBMpFQ_vtC89VF2qA",
+            "commentCount": 7,
+            "participantCount": 1,
+            "createdAt": "2020-07-27T06:10:13+00:00",
+            "lastPostedAt": "2018-09-15T12:35:01+00:00",
+            "lastPostNumber": 7,
+            "postNumberIndex": 7,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "706",
+        "attributes": {
+            "title": "Cognitive Class",
+            "slug": "706-cognitive-class",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCoSiBUY5b9ixwuKfS99_rSw.jpg",
+            "description": "Our Mission\n\nAs a society we cannot let the benefits data science, big data, and AI pass us by because of a lack of people with skills in this area.\n\nWe are strong proponents of providing opportunities to learn the fundamental concepts required to develop, process, and analyze data and break down the traditional barriers to participation in this sector.\n\nCognitive Class is not like other online training sites. Our content is free, access to tool sets used within the courses is free, and we have designed our courses to be accessed at your pace based on your priorities.\n\nWe are serious about making a difference. We call it @YourPace, @YourPlace education.\n\nBenefits to you\n\nGain familiarity and hands-on experience with groundbreaking technology for free, and gain the confidence to build and contribute to this community with the foundation skills to make a difference.\n\nJoin Us!",
+            "popularityScore": 111,
+            "popularityRanks": "{\"12\":470,\"25\":49}",
+            "updateType": "channel",
+            "updateId": "UCoSiBUY5b9ixwuKfS99_rSw",
+            "commentCount": 171,
+            "participantCount": 1,
+            "createdAt": "2020-08-27T12:57:30+00:00",
+            "lastPostedAt": "2019-11-04T19:01:51+00:00",
+            "lastPostNumber": 171,
+            "postNumberIndex": 171,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "707",
+        "attributes": {
+            "title": "Machine Learning Meetups",
+            "slug": "707-machine-learning-meetups",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCogyPx-btrztsmYY3mkdJcw.jpg",
+            "description": "",
+            "popularityScore": 109,
+            "popularityRanks": "{\"12\":473,\"25\":50}",
+            "updateType": "channel",
+            "updateId": "UCogyPx-btrztsmYY3mkdJcw",
+            "commentCount": 135,
+            "participantCount": 1,
+            "createdAt": "2020-08-27T13:00:28+00:00",
+            "lastPostedAt": "2022-08-04T17:49:42+00:00",
+            "lastPostNumber": 139,
+            "postNumberIndex": 139,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "479",
+        "attributes": {
+            "title": "The Artificial Intelligence Channel",
+            "slug": "479-the-artificial-intelligence-channel",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UC5g-f-g4EVRkqL8Xs888BLA.jpg",
+            "description": "This channel is primarily focused on the future of artificial intelligence but also posts videos related to the technological singularity, transhumanism, anti-aging, synthetic biology, space exploration, technological unemployment, basic income and more.",
+            "popularityScore": 93,
+            "popularityRanks": "{\"12\":483,\"25\":51}",
+            "updateType": "channel",
+            "updateId": "UC5g-f-g4EVRkqL8Xs888BLA",
+            "commentCount": 325,
+            "participantCount": 1,
+            "createdAt": "2020-07-27T06:10:10+00:00",
+            "lastPostedAt": "2018-12-16T22:18:19+00:00",
+            "lastPostNumber": 326,
+            "postNumberIndex": 327,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "700",
+        "attributes": {
+            "title": "Python India",
+            "slug": "700-python-india",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCVxPTRxEcoWjEFIMXHaGgHA.jpg",
+            "description": "PyCon India is organized every year by Python communities and user groups all across India as a way to pool their experience and expertise into making a more successful, more accessible conference every year. The conference is organized entirely by volunteers all the way from planning, to finding the speakers, to managing the event successfully. \n\nOur Vision is to bring the cumulative knowledge and experience of our community members to the public. We want to create a responsible and inclusive ecosystem where Pythonistas from diverse backgrounds can come together to share their stories and gain something from other\u2019s experiences.\n\nWe aim to ensure the conference can reflect the diversity of our community and facilitate the exchange of ideas, knowledge, and experiences enriching the community.",
+            "popularityScore": 87,
+            "popularityRanks": "{\"12\":488,\"25\":52}",
+            "updateType": "channel",
+            "updateId": "UCVxPTRxEcoWjEFIMXHaGgHA",
+            "commentCount": 372,
+            "participantCount": 1,
+            "createdAt": "2020-08-27T12:00:13+00:00",
+            "lastPostedAt": "2021-12-25T08:03:17+00:00",
+            "lastPostNumber": 377,
+            "postNumberIndex": 377,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "502",
+        "attributes": {
+            "title": "MLconf",
+            "slug": "502-mlconf",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCjeM1xxYb_37bZfyparLS3Q.jpg",
+            "description": "MLconf was created to host the thought leaders in Machine Learning and Data Science to discuss their most recent experience with applying techniques, tools, algorithms and methodologies to the seemingly impossible problems that occur when dealing with massive and noisy data. MLconf is independent of any outside company or university \u2013 it\u2019s simply a conference organized to gather the Machine Learning communities in various cities to share knowledge and create an environment for the community to coalesce.",
+            "popularityScore": 68,
+            "popularityRanks": "{\"12\":497,\"25\":53}",
+            "updateType": "channel",
+            "updateId": "UCjeM1xxYb_37bZfyparLS3Q",
+            "commentCount": 287,
+            "participantCount": 1,
+            "createdAt": "2020-07-27T06:10:22+00:00",
+            "lastPostedAt": "2021-05-13T16:46:58+00:00",
+            "lastPostNumber": 277,
+            "postNumberIndex": 289,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "118",
+        "attributes": {
+            "title": "Daniel Van Boxel",
+            "slug": "118-daniel-van-boxel",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UC6tnRFKGiq1DlybcqP5rZ7A.jpg",
+            "description": "Just a mathematician stumbling through machine learning tutorials.  Watch me fumble through confusing installations, unintuitive interfaces, and a hostile computing environment.  And yet somehow, I'll manage to analyze data (with some probability).",
+            "popularityScore": 44,
+            "popularityRanks": "{\"12\":514,\"14\":52,\"21\":5,\"25\":54}",
+            "updateType": "channel",
+            "updateId": "UC6tnRFKGiq1DlybcqP5rZ7A",
+            "commentCount": 103,
+            "participantCount": 1,
+            "createdAt": "2020-07-12T03:16:58+00:00",
+            "lastPostedAt": "2020-12-07T20:15:57+00:00",
+            "lastPostNumber": 104,
+            "postNumberIndex": 105,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "482",
+        "attributes": {
+            "title": "DeepLearning.TV",
+            "slug": "482-deeplearningtv",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UC9OeZkIwhzfv-_Cb7fCikLQ.jpg",
+            "description": "DeepLearning.TV is all about Deep Learning, the field of study that teaches machines to perceive the world. Starting with a series that simplifies Deep Learning, the channel features topics such as How To\u2019s, reviews of software libraries and applications, and interviews with key individuals in the field. Through a series of concept videos showcasing the intuition behind every Deep Learning method, we will show you that Deep Learning is actually simpler than you think.\n\nOur goal is to improve your understanding of the topic so that you can better utilize Deep Learning in your own projects. We hope to provide a window into the cutting edge of Deep Learning and bring you up to speed on what\u2019s currently happening in the field.\n\nCONNECT WITH US:\nFacebook page: https://www.facebook.com/DeepLearningTV-1670015779949130/?ref=aymt_homepage_panel\nTwitter: https://twitter.com/deeplearningtv\nhttps://ca.linkedin.com/in/jagannathrajagopal",
+            "popularityScore": 35,
+            "popularityRanks": "{\"12\":519,\"25\":55}",
+            "updateType": "channel",
+            "updateId": "UC9OeZkIwhzfv-_Cb7fCikLQ",
+            "commentCount": 31,
+            "participantCount": 1,
+            "createdAt": "2020-07-27T06:10:12+00:00",
+            "lastPostedAt": "2016-09-15T22:38:08+00:00",
+            "lastPostNumber": 31,
+            "postNumberIndex": 31,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "499",
+        "attributes": {
+            "title": "Andrew Ng",
+            "slug": "499-andrew-ng",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCep6Rpvw3PtOMJWAFpKl8Yw.jpg",
+            "description": "",
+            "popularityScore": 20,
+            "popularityRanks": "{\"12\":538,\"25\":56}",
+            "updateType": "channel",
+            "updateId": "UCep6Rpvw3PtOMJWAFpKl8Yw",
+            "commentCount": 16,
+            "participantCount": 1,
+            "createdAt": "2020-07-27T06:10:21+00:00",
+            "lastPostedAt": "2017-01-24T19:00:54+00:00",
+            "lastPostNumber": 16,
+            "postNumberIndex": 16,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "644",
+        "attributes": {
+            "title": "MLAIT",
+            "slug": "644-mlait",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCFBKSRHPBO8NGN_2AmliCoQ.jpg",
+            "description": "Our main goal is to prepare people for trending technologies like Cloud, Machine Learning. We make Technology based and Educations based videos. We give free education to the technology enthusiast. Our goal is to share the latest technologies around the world to the users across the world with the help of Youtube.",
+            "popularityScore": 18,
+            "popularityRanks": "{\"12\":545,\"25\":57}",
+            "updateType": "channel",
+            "updateId": "UCFBKSRHPBO8NGN_2AmliCoQ",
+            "commentCount": 32,
+            "participantCount": 1,
+            "createdAt": "2020-08-26T09:31:52+00:00",
+            "lastPostedAt": "2019-10-10T05:18:11+00:00",
+            "lastPostNumber": 33,
+            "postNumberIndex": 33,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "discussions",
+        "id": "684",
+        "attributes": {
+            "title": "Big Data & Brews",
+            "slug": "684-big-data-brews",
+            "thumbnail": "https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCB4TQJyhwYxZZ6m4rI9-LyQ.jpg",
+            "description": "Some of the most interesting conversations happen over beers. This channel features conversations between Datameer founder, Stefan Groschupf, and various technical big data thought-leaders as they talk about whatever is interesting to them at the moment. Stefan also joins Andrew Brust, \u200eDatameer's senior director of market strategy and intelligence sharing some of their thoughts around market hot topics in our off-shoot Playlist, \"Mind Melds.\"",
+            "popularityScore": 9,
+            "popularityRanks": "{\"12\":562,\"25\":58}",
+            "updateType": "channel",
+            "updateId": "UCB4TQJyhwYxZZ6m4rI9-LyQ",
+            "commentCount": 175,
+            "participantCount": 1,
+            "createdAt": "2020-08-27T08:35:29+00:00",
+            "lastPostedAt": "2018-01-03T17:55:19+00:00",
+            "lastPostNumber": 175,
+            "postNumberIndex": 175,
+            "canReply": false,
+            "canRename": false,
+            "canDelete": false,
+            "canHide": false,
+            "canTag": false
+        },
+        "relationships": {
+            "tags": {
+                "data": [
+                    {
+                        "type": "tags",
+                        "id": "2"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "12"
+                    },
+                    {
+                        "type": "tags",
+                        "id": "25"
+                    }
+                ]
+            }
+        }
+    }
+]
