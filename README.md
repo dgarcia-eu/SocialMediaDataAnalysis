@@ -34,7 +34,7 @@ have learned in the block. In exercises, you collect your own data to answer res
     - [Handout: Google flu trends](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/02_SearchData/GoogleFluTrends/GoogleFluTrends.html)
     - [Handout: Measuring correlation](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/02_SearchData/Correlation/MeasuringCorrelation.html)
 3. **Ethics and privacy in social media data analysis** -- [[Slides]](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/03_EthicsAndPrivacy/Slides/Slides.html) -- 23.04.2025
-    - [Recommended readings](https://dgarcia-eu.github. io/SocialMediaDataAnalysis/03_EthicsAndPrivacy/Readings.html)  
+    - [Recommended readings](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/03_EthicsAndPrivacy/Readings.html)  
 
 *Exercise 1: Future orientation and search - Deadline 6.05.2025*
 
