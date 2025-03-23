@@ -1,5 +1,5 @@
 ---
-title: "Ethics and privacy in social media data analysis"
+title: "Responsible social media data analysis: Ethics and privacy"
 author: "David Garcia <br><br> *University of Konstanz*"
 date: "Social Media Data Analysis"
 output:

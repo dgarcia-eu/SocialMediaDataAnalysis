@@ -1,5 +1,5 @@
 ---
-title: "Ethics and privacy in social media data analysis"
+title: "Responsible social media data analysis: Ethics and privacy"
 author: "David Garcia"
 output: html_document
 ---
