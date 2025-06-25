@@ -51,156 +51,20 @@ layout: true
   - Unsupervised methods based on dictionaries
   - Supervised methods
   - Applications and evaluation
-
----
-
-# What comes next
-
-### Today: social network basics and the friendship paradox
-
-### 27.06: centrality measures and social resilience
   
-### 4.07: assortativity and communities, permutation tests
-  
-### 11.07: social issues: polarization, misinformation, representation
-
-### 18.07: No Lecture 
-Week 24.07-28.07: available for consultations about projects (online and office)
+- Notes: Tutorial 2.07 solutions a03, Start feedback on projects forum
 
 ---
-
-# Exam registrations
-
-- Exam registrations are available in Zeus
-
-- **If you take the full course, you have to register to both the exam for the tutorial and the lecture in Zeus**
-
-- **If you have any problems doing this, talk to Katharina Arendt: seds.admin@uni-konstanz.de**
-
-- If anything goes wrong, Katharina can fix it later with the exam and Zeus admins
-  - But try to register!
-
----
-
-# Course feedback
-.pull-left[![](QR-SMDA.png)]
-.pull-right[
-
-- Course feedback form available online
-
-- Deadline: 09.07.2023 18:00:00
-
-- Another form for tutorials
-
-- Your feedback is greatly appreciated!
-
-]
----
-
 
 # Outline
 
-## 1. Projects guide
+## 1. Basics of social networks
 
-## 2. Basics of social networks
+## 2. The friendship paradox
 
-## 3. The friendship paradox
----
+## 3. A reading task
 
-
-# Evaluation as final projects
-
-- **Course grading mode is changed to project-based evaluation**
-
-- Grade is still 40% exercises, 60% project work
-
-- Project grade is solely based on final project report
-
-- **Project concept: Illustrating what you have learned during the course**
-  - No need to cover all methods in the course, but at least some
-  - Need to reflect on how project relates to content of the lectures: theories, limitations, examples from research, etc
-  - Methodological standards comparable to the course, e.g. bootstrapping, permutation tests, visualization quality, etc
-  
-
----
-
-# Three project paths
-
-- A) **Replicating a previous paper**
-  - Starting from a research article, collect your own dataset to address the same research question
-  - No need to cover the full paper - consider course size
-
-
-- B) **Reproducing a previous paper**
-  - Starting from the data shared by the authors of a paper, code your analysis
-  - More analysis expected than on replication path
-
-
-- C) **Proposing your own idea**
-  - Be careful about data availability, formulation of research questions, measurement validity...
-  - A more exciting path but also one that can be harder
-
-None of these paths has a higher expected grade, they are all equally valid.
-
----
-# Project report structure
-
-1. **Motivation:** What question(s) do you seek to answer and why?
-
-2. **Background:** Who has worked on this before? How does this project relate to the content covered in the lectures and tutorials?
-
-3. **Data:** Describe the data and any resources used to collect it. Explain how you filtered data, normalized values, computed additional variables, etc.
-
-4. **Methods:** Detail the data analysis and statistical methods. Justify your choice.
-
-5. **Results:** Show the results of statistical analyses and visualizations that assess the question(s).
-
-6. **Discussion:** Evaluate answers to the question and their reliability. Assess limitations and critique. Relate to results from other work or replicated paper
-
-
----
-
-# Papers to reproduce or replicate
-
-.center[![:scale 65%](Doc.png)]
-https://docs.google.com/document/d/1gXuypHfjZ5mrWQhYuwvMJ6oqW84l8lehJ9SIGGmXYfQ/
-.center[**Start reading soon and assess how and what you can do!**]
-
----
-# Projects Timeline
-
-- by 23.07 (**mandatory**): Writing a post on Ilias forum with:
-  - the paper to replicate or research question you want to address
-  - data sources you will use
-  - analysis plan including methods
-- between now and 28.07: getting feedback from me on project topics and approaches. Possible over Discord, Ilias, or in person.
-- week of 24-28.07 last week in person - consulation hours by request
-- I will provide final feedback on Ilias until 28.07. Questions are also welcome before that date - **prepare your project by the end of July**
-- **Submission deadline: 24.09**
-  - Submit as a pdf (only) file via email: david.garcia@uni-konstanz.de
-  - Include link to github repository (or invitation if private) with the code of your analysis. Include data if possible too.
-  
----
-# Recommendations and FAQ
-
-- Start looking at papers to reproduce/replicate soon to assess if data is available or if you can collect your own
-
-- Contact us soon if you need help accessing the Twitter API, the Perspective API, Pushshift dumps, LIWC dictionaries, or other resources. Not everything will be available and you should check soon!
-
-- If you use a statistical method not covered by the course, explain it in the report and **make sure you understand it**
-
-- We will not impose a non-duplicate project topic rule but try to find your own project topic and show me what **you** have learned
-
-- **Questions?**
----
-
-# Basics of social networks
-
-## 1. Projects guide
-
-## *2. Basics of social networks*
-
-## 3. The friendship paradox
+## 4. Social network effects in privacy
 
 ---
 
@@ -364,14 +228,13 @@ $d_{in}(c) = 1$ and $d_{out}(c) = 2$
 If importance on Twitter is the number of followers of an account, in-degree centrality is a way to measure it.
 ---
 
-# The friendship paradox
+## 1. Basics of social networks
 
-## 1. Projects guide
+## *2. The friendship paradox*
 
-## 2. Basics of social networks
+## 3. A reading task
 
-## *3. The friendship paradox*
-
+## 4. Social network effects in privacy
 
 ---
 
@@ -422,12 +285,53 @@ The fact that most people have less friends than the average number of friends o
 
 ---
 
+## 1. Basics of social networks
+
+## 2. The friendship paradox
+
+## *3. A reading task*
+
+## 4. Social network effects in privacy
+
+---
+
+![](JIT.png)
+
+[Reading: The Structure of Political Discussion Networks: A Model for the Analysis of Online Deliberation. Gonzalez-Bailon et al (2010)](https://journals.sagepub.com/doi/abs/10.1057/jit.2010.2?journalCode=jina)
+
+---
+
+# Depth and width in online discussions
+
+.center[![:scale 53%](Bailon1.png)]
+
+---
+
+# Political and non-political discussions
+
+.center[![:scale 65%](Bailon2.png)]
+
+---
+
+
+## 1. Basics of social networks
+
+## 2. The friendship paradox
+
+## 4. A reading task
+
+## 3. *Social network effects in privacy*
+
+---
+
+# Jump to Session 3 Slides
+
+https://dgarcia-eu.github.io/SocialMediaDataAnalysis/03_EthicsAndPrivacy/Slides/Slides.html#17
+
+
+---
+
 # Summary 
-
-- **Projects guide**
-  - Start looking into papers or thinking ideas soon!
-  - Ask for feedback but do it before the end of July
-
 
 - **Introduction to Social Networks**
   - Basic terminology: nodes, edges, directed networks, weights
