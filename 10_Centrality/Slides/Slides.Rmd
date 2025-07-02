@@ -128,11 +128,31 @@ Example: $C_C(d)=0.75$
 
 # Dunbar's number on Twitter
 
-.center[![:scale 52%](Dunbar2.png)]
+.center[.pull-left[![:scale 80%](Dunbar2.png)]
+.pull-right[![:scale 74%](Dunbar3.png)]]  
 
-  
+[Modeling Users' Activity on Twitter Networks: Validation of Dunbar's Number. Gonçalves et al (2011)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0022656)  
+[Testing Propositions Derived from Twitter Studies: Generalization and Replication in Computational Social Science. Liang & Fu (2015)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0134270)
 
 ---
+
+# Beyond degree: layers
+
+.pull-left[![](Figures/relationshipLayers.png)]
+.pull-right[
+- Strong ties have high value and high cost, weak ties have lower value and lower cost
+- Optimal points between costs and values explain different sizes of social circles (layers)
+- There is a relationship between tie strength and amount of ties, not just a number]
+
+Relationships and the social brain: Integrating psychological and evolutionary perspectives. A. Sutcliffe et al (2012)
+---
+
+# A psychological explanation
+
+![](Figures/costBenefitModel.png)
+
+---
+
 
 # The death of social networks
 
@@ -333,6 +353,7 @@ Measurement is always an important issue in Computational Social Systems, and ju
 </br>
 > **Take home message:** Your measures based on today's digital traces might not work on tomorrow's
 
+
 ---
 
 # Summary
@@ -353,3 +374,11 @@ Measurement is always an important issue in Computational Social Systems, and ju
   - Using trends as activity and sometimes social network data
   - Historical analysis of the Friendster collapse
   - Limits of Google trends: the Facebook case
+
+---
+  
+# Please evaluate the lecture
+
+.center[![:scale 50%](QR.png)]
+
+
