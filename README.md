@@ -83,6 +83,7 @@ You can find the course forum here: https://github.com/SMDA-2025/forum/discussio
     - [Handout: Structural holes](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/11_Assortativity/StructuralHoles/StructuralHoles.html)    
     - [Handout: Assortativity](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/11_Assortativity/Assortativity/Assortativity.html)   
     - [Handout: Permutation tests](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/11_Assortativity/PermutationTests/PermutationTests.html)    
+    - [Extra slides: Food polarization on social media](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/11_Assortativity/Appendix_FoodPolarization/index.html)
 13. **Social issues** -- [[Slides]](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/12_SocialIssues/Slides/SocialIssues.html) -- 11.07.2025 (Friday extra session)
     - [Polarization and digital technologies - recommended readings](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/12_SocialIssues/Polarization/Polarization.html)
     - [Misinformation and information disorder - recommended readings](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/12_SocialIssues/Misinformation/Misinformation.html)
