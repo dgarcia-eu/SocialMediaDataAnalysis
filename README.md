@@ -84,7 +84,7 @@ You can find the course forum here: https://github.com/SMDA-2025/forum/discussio
     - [Handout: Assortativity](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/11_Assortativity/Assortativity/Assortativity.html)   
     - [Handout: Permutation tests](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/11_Assortativity/PermutationTests/PermutationTests.html)    
     - [Extra slides: Food polarization on social media](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/11_Assortativity/Appendix_FoodPolarization/index.html)
-13. **Social issues** -- [[Slides]](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/12_SocialIssues/Slides/SocialIssues.html) -- 11.07.2025 (Friday extra session)
+13. **Social issues** -- [[Slides]](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/12_SocialIssues/Slides/SocialIssues.html) -- 11.07.2025 (Friday extra session, same room: E404)
     - [Polarization and digital technologies - recommended readings](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/12_SocialIssues/Polarization/Polarization.html)
     - [Misinformation and information disorder - recommended readings](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/12_SocialIssues/Misinformation/Misinformation.html)
     - [Handout: Representation issues - The case of Twitter](https://dgarcia-eu.github.io/SocialMediaDataAnalysis/12_SocialIssues/TwitterElections/TwitterElections.html)
