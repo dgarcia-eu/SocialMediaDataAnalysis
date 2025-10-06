@@ -117,7 +117,7 @@ Results: Space increased sublinearly with N (psychosocial law). The close condit
 Impact from a source to a group.
 </div>
 
-Social Impact Theory also covers situations with one source but when when targets are not alone. It formulates the impact $I$ on **each** target as:  
+Social Impact Theory also covers situations with one source but when targets are not alone. It formulates the impact $I$ on **each** target as:  
 
 <center>
 $I = f  (\frac{1}{S × i × N})$
